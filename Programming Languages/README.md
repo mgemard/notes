@@ -1,5 +1,8 @@
 # Programming Languages
 
+[Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+[Hyperpolyglot](https://hyperpolyglot.org/)
+[Syntax Across Languages/](http://rigaux.org/language-study/syntax-across-languages/)
 
 ## C+
 
