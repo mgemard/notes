@@ -1,9 +1,9 @@
 # Programming Languages
 
-[Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-[Hyperpolyglot](https://hyperpolyglot.org/)
-[Syntax Across Languages/](http://rigaux.org/language-study/syntax-across-languages/)
-
+[Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)  
+[Hyperpolyglot](https://hyperpolyglot.org/)  
+[Syntax Across Languages/](http://rigaux.org/language-study/syntax-across-languages/)  
+[Learn X in Y minutes](https://learnxinyminutes.com/)  
 ## C+
 
 [Book] [Elements of Programming Interviews](https://www.amazon.fr/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836) by Adnan Aziz [[Drive](https://drive.google.com/drive/search?q=aziz%20elements%20programming%20interviews)]
