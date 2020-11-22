@@ -40,11 +40,11 @@ by Brendan Fong and David I. Spivak [[Drive](https://drive.google.com/drive/sear
 [The Feynman Lectures on Physics, Volume 1](https://www.feynmanlectures.caltech.edu/II_toc.html) by Richard P. Feynman (mainly electromagnetism and matter)  
 [The Feynman Lectures on Physics, Volume 1](https://www.feynmanlectures.caltech.edu/III_toc.html) by Richard P. Feynman (mainly quantum mechanics)  
 
-## Electrodynamics
+### Electrodynamics
 
 [Book] [Introduction to Electrodynamics](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419) by David J. Griffiths [[Drive](https://drive.google.com/drive/search?q=griffiths%20introduction%20electrodynamics)]  
 
-## Quantum mechanics
+### Quantum mechanics
 
 [Book] [Introduction to Quantum mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107179866) by David J. Griffiths [[Drive](https://drive.google.com/drive/search?q=griffiths%20introduction%20quantum%20mechanics)]  
 
