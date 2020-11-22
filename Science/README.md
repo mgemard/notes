@@ -29,7 +29,6 @@ by Brendan Fong and David I. Spivak [[Drive](https://drive.google.com/drive/sear
 ## Philosophy
 
 [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)  
-[PsyToolkit’s experiment library](https://www.psytoolkit.org/experiment-library/)
 
 ## Physics
 
@@ -43,8 +42,12 @@ by Brendan Fong and David I. Spivak [[Drive](https://drive.google.com/drive/sear
 
 ## Electrodynamics
 
-[Introduction to Electrodynamics](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419) by David J. Griffiths [[Drive](https://drive.google.com/drive/search?q=griffiths%20introduction%20electrodynamics)]  
+[Book] [Introduction to Electrodynamics](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419) by David J. Griffiths [[Drive](https://drive.google.com/drive/search?q=griffiths%20introduction%20electrodynamics)]  
 
 ## Quantum mechanics
 
-[Introduction to Quantum mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107179866) by David J. Griffiths [[Drive](https://drive.google.com/drive/search?q=griffiths%20introduction%20quantum%20mechanics)]  
+[Book] [Introduction to Quantum mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107179866) by David J. Griffiths [[Drive](https://drive.google.com/drive/search?q=griffiths%20introduction%20quantum%20mechanics)]  
+
+## Psychology
+
+[Psychology](https://openstax.org/details/books/psychology-2e) by OpenStax  
