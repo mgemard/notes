@@ -6,7 +6,7 @@
 [Learn X in Y minutes](https://learnxinyminutes.com/)  
 ## C+
 
-[Book] [A Tour of C++ (C++ In-Depth Series)](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) [[Drive](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832)]  
+[Book] [A Tour of C++ (C++ In-Depth Series)](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) [[Drive](https://drive.google.com/drive/search?q=stroustrup%20tour)]  
 [Book] [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) by Bjarne Stroustrup [[Drive](https://drive.google.com/drive/search?q=stroustrup%20programming%20language)]  
 
 [Book] [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) by Scott Meyers [[Drive](https://drive.google.com/drive/search?q=meyers%20effective%20modern)]  
