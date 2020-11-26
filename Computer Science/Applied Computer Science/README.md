@@ -17,7 +17,16 @@
 
 ### Clean code
 
+[Book] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martine [[Drive](https://drive.google.com/drive/search?q=martin%20clean%20code)]  
+[Book] [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas [[Drive](https://drive.google.com/drive/search?q=hunt%20pragmatic%20programmer)]  
+[Book] [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell [[Drive](https://drive.google.com/drive/search?q=mcconnell%20code%20complete)]  
+
 ### Web Dev
+
+#### WebAssembly
+
+[Book] [Learn WebAssembly: Build web applications with native performance using Wasm and C/C++](https://www.amazon.com/Learn-WebAssembly-applications-native-performance/dp/1788997379) by Mike Rourke [[Drive](https://www.amazon.com/Learn-WebAssembly-applications-native-performance/dp/1788997379)]  
+
 
 ### Dev Ops
 

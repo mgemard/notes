@@ -6,18 +6,29 @@
 [Learn X in Y minutes](https://learnxinyminutes.com/)  
 ## C+
 
-[Book] [Elements of Programming Interviews](https://www.amazon.fr/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836) by Adnan Aziz [[Drive](https://drive.google.com/drive/search?q=aziz%20elements%20programming%20interviews)]
+[Book] [A Tour of C++ (C++ In-Depth Series)](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) [[Drive](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832)]  
+[Book] [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) by Bjarne Stroustrup [[Drive](https://drive.google.com/drive/search?q=stroustrup%20programming%20language)]  
 
+[Book] [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) by Scott Meyers [[Drive](https://drive.google.com/drive/search?q=meyers%20effective%20modern)]  
+[Book] [Effective C++](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876) by Scott Meyers [[Drive](https://drive.google.com/drive/search?q=meyers%20effective)]  
 
+[Book] [Elements of Programming Interviews](https://www.amazon.fr/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836) by Adnan Aziz [[Drive](https://drive.google.com/drive/search?q=aziz%20elements%20programming%20interviews)]  
+
+## Java
+
+[Book] [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch [[Drive](https://drive.google.com/drive/search?q=bloch%20effective%20java)  
 
 ## Kotlin
 
-[Kotlin Official Documentation](https://kotlinlang.org/docs)
+[Kotlin Official Documentation](https://kotlinlang.org/docs)  
 
+[Book] [Hands-On Object-Oriented Programming with Kotlin: Build robust software with reusable code using OOP principles and design patterns in Kotlin](https://www.amazon.com/Hands-Object-Oriented-Programming-Kotlin-principles-ebook/dp/B07K45HXV5) by Abid Khan and Igot Kucherenko [[Drive](https://drive.google.com/drive/search?q=khan%20hands%20object%20oriented%20programming%20kotlin)]  
 
 ## Go
 
 [Tour of Go](https://tour.golang.org)  
+[Go wiki](https://github.com/golang/go/wiki)
+
 [Effective Go](https://golang.org/doc/effective_go.html#introduction)
 
 ## Hashkell
@@ -30,6 +41,14 @@
 [The Rust Performance Book](https://nnethercote.github.io/perf-book/)  
 [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
 
+[Rust by Example](https://doc.rust-lang.org/rust-by-example)  
+[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)  
+
 ## Scala
 
 [The Official Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+
+## TypeScript
+
+[TypeScript Documentation](https://www.typescriptlang.org/docs)
+
