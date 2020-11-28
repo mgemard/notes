@@ -46,7 +46,15 @@
 
 ## Scala
 
-[The Official Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
+[The Official Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)  
+
+[Book] [Programming in Scala: A Comprehensive Step-by-Step Guide, 2nd Edition](https://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644) by Martin Odersky, Lex Spoon and Bill Venners [[Drive](https://drive.google.com/drive/search?q=odersky%20programming%20scala)]  (There is a 3rd version available)  
+
+## Scheme
+
+[Book] [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby and Gerald J. Sussman [[Drive](https://drive.google.com/drive/search?q=freidman%20little%20schemer)]  
+
+
 
 ## TypeScript
 

@@ -4,6 +4,8 @@
 
 ##	Artificial intelligence
 
+[Book] [Artificial Intelligence: A Modern Approach 3rd Edition](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) by Stuart Russel and Peter Norvig [[Drive](https://drive.google.com/drive/search?q=russell%20artificial%20intelligence)] (There is a 4th version available)  
+
 ## Machine Learning
 
 ### Deep Learning
