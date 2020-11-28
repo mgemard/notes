@@ -52,7 +52,7 @@
 
 ## Scheme
 
-[Book] [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby and Gerald J. Sussman [[Drive](https://drive.google.com/drive/search?q=freidman%20little%20schemer)]  
+[Book] [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992) by Daniel P. Friedman, Matthias Felleisen, Duane Bibby and Gerald J. Sussman [[Drive](https://drive.google.com/drive/search?q=friedman%20little%20schemer)]  
 
 
 
