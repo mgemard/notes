@@ -4,6 +4,11 @@
 [Hyperpolyglot](https://hyperpolyglot.org/)  
 [Syntax Across Languages/](http://rigaux.org/language-study/syntax-across-languages/)  
 [Learn X in Y minutes](https://learnxinyminutes.com/)  
+
+## Clojure
+
+[Community resources](https://clojure.org/community/resources)
+
 ## C+
 
 [Book] [A Tour of C++ (C++ In-Depth Series)](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) [[Drive](https://drive.google.com/drive/search?q=stroustrup%20tour)]  
