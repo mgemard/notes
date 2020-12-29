@@ -30,7 +30,8 @@
 
 ### Dev Ops
 
+### Software engineering interviews
+
+[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) by Yangshun Tay
 
 ##	Human-computer interaction
-
-
