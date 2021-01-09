@@ -17,12 +17,16 @@
 ##	Computer architecture and organisation
 
 
-
 ##	Concurrent, parallel and distributed computing
+
+### Concurrent
 
 [Book] [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) by Brian Goetz [[Drive](https://drive.google.com/drive/search?q=goetz%20java%20concurrency%20practice)]  
 [Book] [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197) by Katherine Cox-Buday [[Drive](https://drive.google.com/drive/search?q=cox%20buday%20concurrency%20go)]
 
+### Distributed computing
+
+[Book] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) (2017) by Martin Kleppmann [[Drive](https://drive.google.com/drive/search?q=kleppmann%20designing%20data%20intensive%20application)]  
 
 ##	Computer networks
 
