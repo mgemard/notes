@@ -1,2 +1,2 @@
-# Personal Knowledge Base
+# Notes
 
