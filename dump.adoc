@@ -1,0 +1,5778 @@
+﻿Drive favorite
+Stopped at 
+Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2018)
+
+
+
+
+
+******************* Current reading *******************
+
+
+https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python/
+
+
+Learn open cv in 3hours
+https://www.youtube.com/watch?v=WQeoO7MI0Bs
+
+
+https://howistart.org/posts/clojure/1/
+
+
+Graphikart  ansible
+Graphikart elixir
+
+
+Kubernetes
+Gitlab ci
+
+
+# OpenClassRooms
+
+
+## machine learning
+
+
+https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4725615-decouvrez-les-4-types-de-variables
+Project is in Desktop/OCR-nettoyez-jeu-donnees
+Utiliser Anaconda R/python
+
+
+https://openclassrooms.com/fr/courses/4379436-explorez-vos-donnees-avec-des-algorithmes-non-supervises/4379443-comprenez-pourquoi-reduire-la-dimension-de-vos-donnees
+
+
+https://openclassrooms.com/fr/courses/4297211-evaluez-les-performances-dun-modele-de-machine-learning/4297218-comprenez-ce-qui-fait-un-bon-modele-d-apprentissage
+
+
+https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-vos-donnees/4525368-apprehendez-le-fonctionnement-d-un-dashboard
+
+
+https://openclassrooms.com/fr/courses/4525306-initiez-vous-a-la-statistique-inferentielle/4993371-familiarisez-vous-avec-deux-cas-pratiques
+
+
+https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5560976-familiarisez-vous-avec-lecosysteme-python
+
+
+
+
+https://golang.org/doc/tutorial/create-module
+    C:\dev\go-tutorial
+    From https://golang.org/doc/tutorial/
+
+
+https://www.tutorialspoint.com/r/r_variables.htm
+    Do this one after https://r4ds.had.co.nz/
+# languag
+
+
+
+
+
+
+Rust book
+    Then https://rustc-dev-guide.rust-lang.org/about-this-guide.html
+    also : https://nnethercote.github.io/perf-book/
+
+
+# machine learning
+
+
+[FASTAI] https://youtu.be/p50s63nPq9I?t=4967
+    https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb
+
+
+
+
+Deeplearning.ai (coursera): deep learning by Andrew Ng
+
+
+# Statistiques
+
+
+https://seeing-theory.brown.edu/basic-probability/index.html
+
+
+
+
+# 3D
+https://learnopengl.com/Getting-started/Creating-a-window
+
+
+TheCherno opengl (how to create project)
+TheCherno game engine (view all videos again)
+
+
+Game engine architecture (book)
+
+
+# game programming
+
+
+http://gameprogrammingpatterns.com/contents.html
+# Compiler
+
+
+Read writing interpreter in go (book)
+
+
+https://craftinginterpreters.com/
+
+
+# Concurrency
+
+
+Read Concurrency java
+
+
+Read Concurrency go
+
+
+# quantum computers
+
+
+How does it works?
+
+
+# Natural languages
+
+
+https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+
+
+
+
+********************************************
+```````
+
+
+Firefox tabs
+https://cnot.io/background/comp_sci/
+https://groups.csail.mit.edu/mac/projects/amorphous/GrayScott/
+https://github.com/desireevl/awesome-quantum-computing
+https://towardsdatascience.com/teaching-an-ai-to-draft-magic-the-gathering-ba38b6a3d1f3
+https://en.m.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+https://en.m.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system
+https://compilers.iecc.com/crenshaw/tutor1.txt
+Book: robert heger coletive learning monolith
+Podcast: david schomer
+book: the life of the mind
+book: autor if the imposible
+Book:https://www.amazon.com/Mutants-Mystics-Science-Superhero-Paranormal/dp/022627148X/ref=mp_s_a_1_5?dchild=1&qid=1609234017&refinements=p_27%3AJeffrey+J.+Kripal&s=books&sr=1-5&text=Jeffrey+J.+Kripal
+https://en.m.wikipedia.org/wiki/Algorithmic_inference
+Book: the singularity
+https://www.reddit.com/r/magicTCG/comments/l6284e/i_wrote_an_ai_to_play_and_optimize_jeskai/
+https://thquinn.github.io/blog.html?post=7
+
+
+
+
+https://www.reddit.com/r/MachineLearning/comments/l2idzt/d_10_insightful_practical_aiml_books_to_read_in/
+
+
+Book: kopec Classic Computer Science Problems in Java
+https://www.manning.com/books/classic-computer-science-problems-in-java
+
+
+http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
+
+
+https://github.com/DinoZ1729/Galaxy
+https://www.reddit.com/r/cpp/comments/l3f80o/i_created_this_ascii_simulation_of_colliding/
+https://www.reddit.com/r/programming/comments/l3f5v4/i_created_an_ascii_simulation_of_colliding/
+
+
+https://wiki.nikitavoloboev.xyz/
+https://github.com/nikitavoloboev/knowledge
+
+
+https://news.ycombinator.com/item?id=25907312
+https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+
+
+https://blog.logrocket.com/rust-compression-libraries/
+
+
+https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/
+https://news.ycombinator.com/item?id=25915023
+
+
+https://docs.gitlab.com/runner/
+
+
+https://news.ycombinator.com/item?id=25776525
+https://dashbit.co/blog/ten-years-ish-of-elixir
+
+
+https://news.ycombinator.com/item?id=25754437
+https://aquadzn.github.io/learn-x-by-doing-y/
+
+
+https://news.ycombinator.com/item?id=25753166
+https://laconicml.com/computer-science-curriculum-youtube-videos/
+
+
+https://news.ycombinator.com/item?id=25759430
+https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/
+
+
+
+
+https://en.wikipedia.org/wiki/Polymorphic_code
+http://www.fact-index.com/p/po/polymorphic_code.html
+
+
+https://www.reddit.com/r/programming/comments/ku9xza/the_architecture_of_open_source_applications_llvm/
+http://www.aosabook.org/en/llvm.html
+   See also the website
+
+
+http://github.com/temyapp/learnhaskell
+See also haskell book
+
+
+
+
+https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+https://news.ycombinator.com/item?id=25610741
+
+
+https://news.ycombinator.com/item?id=25572852
+https://csgordon.github.io/books.html
+
+
+https://www.reddit.com/r/MachineLearning/comments/kmxkvz/what_is_the_greatest_achievement_of_genetic/
+
+
+I have read the ruby code :
+http://www.rosettacode.org/wiki/Deal_cards_for_FreeCell
+
+
+https://github.com/heidihoward/distributed-consensus-reading-list
+
+
+https://www.reddit.com/r/rust/comments/kfnyqk/2048_game_implemented_with_rust_and_yew_and/
+https://github.com/dev-family/wasm-2048
+
+
+https://news.ycombinator.com/item?id=25476605
+https://shopify.engineering/shopify-webassembly
+
+
+https://news.ycombinator.com/item?id=25462168
+https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834
+
+
+
+
+Watch Kubernetes namespaceobject with kubeenetes python client
+Is it asynchrone?
+
+
+https://news.ycombinator.com/item?id=25377620
+https://github.com/google/cel-spec
+
+
+https://www.reddit.com/r/programming/comments/k8fa3h/github_repositories_to_improve_your_programming/
+https://denic.hashnode.dev/github-repositories
+
+
+https://developers.google.com/web/updates/2020/12/webassembly
+https://news.ycombinator.com/item?id=25373597
+
+
+https://github.com/tuvtran/project-based-learning
+
+
+
+
+https://github.com/yanshengjia/ml-road
+
+
+awesome-golang-security - github
+homemade-machine-learning - github
+madewithml/basics - github (practicalAI)
+The book of secret knowledge - github
+
+
+https://yangshun.github.io/tech-interview-handbook/
+
+
+
+
+https://www.kaggle.com/reppic/predicting-english-pronunciations/notebook
+   View also https://www.kaggle.com/notebooks
+https://www.reddit.com/r/datasets/comments/7pp2vj/request_japanese_word_database_with_kanji_and/
+
+
+https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
+https://www.reddit.com/r/programming/comments/jvrpvj/how_spotify_codes_work/
+
+
+https://crypto.stanford.edu/~blynn/haskell/ga.html
+https://news.ycombinator.com/item?id=25142528
+
+
+https://jsomers.net/i-should-have-loved-biology/
+https://news.ycombinator.com/item?id=25136422
+
+
+Computing machinery and inteligence by A. M. Turing
+The article is explained in the video "Turing Test: Can Machines Think?" by Lex Fridman
+
+
+Ssh academy
+https://ssh.com/iam
+
+
+https://owasp.org/www-project-api-security/
+https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm
+https://github.com/OWASP/API-Security/
+Youtube: owasp api security top 10 by erez yalon & inon shkedy
+https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10-cheat-sheet.htm
+Youtube: owasp api security top 10 webinar
+
+
+
+
+Grafikart Ansible
+freeCodeCamp terraform ~1h
+
+
+
+
+Make a Lisp
+https://github.com/kanaka/mal
+
+
+Solaris by Lem
+Do androids dream of electric sheep?
+
+
+http://cheatsheetseries.owasp.org/index
+
+
+
+
+Tutoriels Grafikart
+
+
+développer.mozilla.org
+
+
+Bombay Maximum City by Suketu Mehta
+
+
+http://owasp.org/www-community/
+
+
+Proving Einstein right by Jim Gates
+
+
+Spring @dirtycontext
+Baeldung introduction to hikariCP
+Spring cors
+Spring csrf
+Request header spoofing
+
+
+https://github.com/magomimmo/modern-cljs
+
+
+http://www.paulgraham.com/onlisp.html
+
+
+https://github.com/allentiak/magicum 
+   See design approach
+
+
+From George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets | Lex Fridman Podcast #132
+* Eliezer Yudkowsky, the ai singulary
+* https://www.unqualified-reservations.org/
+* Verilog XL, understand how the instructions are executed all at once (see also https://github.com/geohot/fromthetransistor)
+* Infinite Jest by David Foster Wallace
+* Atlas Shrugged by Ayn Rand
+* Permutation City by Greg Egan
+* Metamorphosis of prime intellect by Roser Sillires
+* Fire Upon the Deep by Vernor Vinge
+* Neuromancer by William Gibson
+* Snow crash by Neal Stephenson
+* Bronze Age Mindset by Bronze Age Pervert
+J1: a small (200 lines of Verilog) stack-based CPU
+https://news.ycombinator.com/item?id=25759576
+https://www.excamera.com/sphinx/fpga-j1.html
+
+
+
+
+https://www.nltk.org/book
+
+
+Advanced Programming in the UNIX Environment
+https://news.ycombinator.com/item?id=25775168
+https://stevens.netmeister.org/631/
+
+
+https://github.com/Dhghomon/easy_rust
+https://dhghomon.github.io/easy_rust/Chapter_61.html
+
+
+Build JavaScript applications with Node.js
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=mslearn-reddit-abartolo
+
+
+https://fullstackopen.com/en/about/
+https://www.mooc.fi/en
+
+
+Deep learning with pytorch
+
+
+Stanford CS231n: convolutional neural networks for visual recognition
+
+
+Stanford CS224n: natural language processing with deep learning
+
+
+David Silver: Introduction to Reinforcement Learning
+
+
+OpenAI: Spinning Up in Deep RL
+
+
+https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
+ 
+DEEP LEARNING with Python by  Francois Chollet (he should release version 2 soon on tensorflow 2)
+
+
+Grokking Deep Learning by Andew W. Trask
+
+
+DEEP LEARNING by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+
+Dive into deep learning
+
+
+Rosalind: Learn bioinformatics by programming it (rosalind.info)
+https://news.ycombinator.com/item?id=22357437
+http://rosalind.info/problems/locations/
+
+
+http://neuralnetworksanddeeplearning.com/
+
+
+openclassroom
+
+
+https://github.com/ctgk/PRML
+
+
+https://www.programiz.com/
+
+
+https://www.coursera.org/learn/build-a-computer
+
+
+http://norvig.com/lispy.html
+    See also https://github.com/kanaka/mal
+
+
+https://www.hackerearth.com/fr/practice/
+https://blog.soshace.com/list-of-coding-games-to-practice-improve-your-programming-skills/
+https://www.reddit.com/r/programming/comments/fxp13i/list_of_coding_games_to_practice_improve_your/
+
+
+https://github.com/danistefanovic/build-your-own-x
+
+
+https://landing.google.com/sre/books/
+https://news.ycombinator.com/item?id=22815453
+
+
+computer architecture
+https://www.nand2tetris.org/
+    https://news.ycombinator.com/item?id=25282507
+https://www.coursera.org/learn/build-a-computer
+
+
+https://www.classcentral.com/report/free-online-learning-coronavirus/
+
+
+https://eloquentjavascript.net/
+https://kentcdodds.com/blog/javascript-to-know-for-react
+https://exploringjs.com/es6/
+
+
+https://news.ycombinator.com/item?id=23377186
+https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html
+
+
+https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+
+
+https://keras.io/examples/
+
+
+From https://www.reddit.com/r/datascience/comments/hbj831/how_can_i_get_started_from_ground_zero_to_become/
+This playlist introduces Kaggle, gets into some very good data analysis, and also brings in Machine Learning. I found it enormously helpful and fun, you learn while you work:
+https://www.youtube.com/playlist?list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF
+Kaggle -- Go here, register for free, and start the courses:
+https://www.kaggle.com/learn/overview
+R -- these two free online books are great. I recommend the first one more than the second for learning something immediately useful:
+https://r4ds.had.co.nz/index.html
+https://bookdown.org/ndphillips/YaRrr/
+Python -- give this book a try after the initial Kaggle tutorials:
+https://jakevdp.github.io/PythonDataScienceHandbook/index.html
+
+
+
+
+https://jobtalle.com/neuroevolution_in_squids.html
+What are the input and output?
+How lateral is calculated?
+Read other articles aswell
+https://natureofcode.com/book/chapter-10-neural-networks/
+Read everything
+
+
+**********************************************************
+```
+MUST READ
+
+
+https://openai.com/blog/dall-e/
+
+
+https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50
+
+
+https://arstechnica.com/features/2020/12/a-damn-stupid-thing-to-do-the-origins-of-c/
+https://www.reddit.com/r/programming/comments/kbs11a/a_damn_stupid_thing_to_dothe_origins_of_c/
+
+
+https://www.reddit.com/r/programming/comments/jqukm4/i_created_interviewsschool_a_complete_guide_to/
+https://interviews.school/leetcode
+
+
+https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning
+https://www.quora.com/How-would-you-design-the-Haskell-implementation-of-a-TCG-like-Magic-The-Gathering-or-Dominion
+
+
+https://alexgolec.dev/google-interview-questions-deconstructed-the-knights-dialer/
+
+
+https://jamesmcm.github.io/blog/2020/07/25/intro-dod/
+
+
+https://www.kite.com/blog/python/type-hinting/
+
+
+http://www.projectoberon.com/
+
+
+https://www.circuitbread.com/textbooks
+
+
+https://github.com/jacobtomlinson/gha-find-replace
+  -> try to make it not replace already resized image
+https://github.com/sharadcodes/img-resizer
+  -> look how it works, it has tests as well
+
+
+http://michaelnielsen.org/
+
+
+https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa
+
+
+https://www.mit.edu/~amidi/teaching/data-science-tools/
+
+
+https://www.reddit.com/r/programming/comments/ibaok7/factorio_and_software_engineering/
+https://blog.nindalf.com/posts/factorio-and-software-engineering/
+
+
+A guide to learning algorithms through LeetCode (github.com)
+https://news.ycombinator.com/item?id=24167297
+https://github.com/labuladong/fucking-algorithm/tree/english
+
+
+https://www.reddit.com/r/webdev/comments/i7nowb/api_design_guidance_best_practices_for_cloud/
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
+
+https://docs.fast.ai/callbacks.one_cycle.html#What-is-1cycle?
+
+
+https://learn.genetics.utah.edu/
+
+
+I launched my new website with all my free Python and Machine Learning Tutorials (currently 68).
+https://www.reddit.com/r/Python/comments/gpqquf/i_launched_my_new_website_with_all_my_free_python/
+https://www.python-engineer.com/
+
+
+Diving into Go by building a CLI application (eryb.space)
+https://news.ycombinator.com/item?id=23318137
+https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html
+https://news.ycombinator.com/item?id=23380113
+https://modelpredict.com/python-dependency-management-tools
+
+
+https://www.reddit.com/r/Python/comments/gul5zp/70_code_profiles_of_common_python_algorithms/
+
+
+https://raytracing.github.io/
+
+
+https://www.reddit.com/r/datascience/comments/h9q7im/things_i_learned_while_building_machine_learning/
+https://www.ahmedbesbes.com/case-studies/end-to-end-ml-app
+    Also (from the article)  http://veekaybee.github.io/2020/06/09/ml-in-prod/
+
+
+https://ods.ai/
+
+
+https://www.reddit.com/r/datascience/comments/hfyqpp/free_ebook_mathematical_foundations_of_data/
+https://mathematical-tours.github.io/
+http://www.numerical-tours.com/
+
+
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+
+https://blog.education-ecosystem.com/machine-learning-projects-to-practice-during-quarantine/
+https://www.reddit.com/r/artificial/comments/hizgwo/machine_learning_projects_to_practice_during/
+
+
+10 Interesting and Impressive AI projects for absolute Beginners (with Python Source Code)
+https://www.reddit.com/r/artificial/comments/hm9zoc/10_interesting_and_impressive_ai_projects_for/
+https://piprogramming.org/articles/10-Interesting-and-Impressive-AI-projects-for-absolute-Beginners-(with-Python-Source-Code)-0000000007.html
+
+
+https://www.reddit.com/r/rust/comments/hqu6dj/making_a_game_in_48_hours_with_rust_and/
+https://ianjk.com/rust-gamejam/
+https://github.com/kettle11/LD46
+  Read Also https://rustwasm.github.io/docs/wasm-bindgen/
+  Read alsohttps://rustwasm.github.io/docs/book/#who-is-this-book-for
+
+
+
+
+
+
+Less must read part 1
+
+
+Ask HN: Top Coursera Courses?
+https://news.ycombinator.com/item?id=25245125
+
+
+https://news.ycombinator.com/item?id=25244872
+https://oisinmoran.com/quinetweet
+
+
+https://news.ycombinator.com/item?id=25257932
+https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2
+
+
+https://www.reddit.com/r/cpp/comments/k1fcus/a_small_open_source_game_in_c/
+
+
+https://www.reddit.com/r/rust/comments/k3jy5g/i_rewrote_10k_lines_of_js_into_rust_over_the_last/
+
+
+https://www.reddit.com/r/MachineLearning/comments/k3ygrc/r_alphafold_2/
+    See also https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
+
+
+
+
+
+
+https://www.reddit.com/r/programming/comments/k2h3nc/made_my_personal_site_into_a_desktop_environment/
+https://github.com/DustinBrett/x
+
+
+https://towardsdatascience.com/beyond-cuda-gpu-accelerated-python-for-machine-learning-in-cross-vendor-graphics-cards-made-simple-6cc828a45cc3
+https://www.reddit.com/r/programming/comments/ju2fkx/beyond_cuda_gpu_accelerated_python_on_crossvendor/
+
+
+https://news.ycombinator.com/item?id=25088683
+https://www.dwitter.net/d/20584
+
+
+https://modernc.gforge.inria.fr/
+
+
+http://brendanfong.com/programmingcats.html
+
+
+https://github.com/snori74/linuxupskillchallenge
+
+
+https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63
+https://www.reddit.com/r/programming/comments/ieni93/blockchain_the_amazing_solution_for_almost_nothing/
+
+
+https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
+
+
+https://www.reddit.com/r/artificial/comments/iby0lm/sudoku_solver_project_code_link_in_the_comment/
+https://github.com/remi2257/sudoku-solver
+
+
+https://magic.wizards.com/en/articles/archive/level-one/level-one-full-course-2015-10-05
+
+
+https://github.com/richardanaya/rust-roguelike
+
+
+Multiplatform Minecraft-compatible client written in Rust
+https://github.com/iceiix/stevenarella
+
+
+Real time image animation in opencv using first order model (github.com)
+https://news.ycombinator.com/item?id=23312259
+https://github.com/anandpawara/Real_Time_Image_Animation
+
+
+https://www.reddit.com/r/programming/comments/gs0xxe/the_oo_antipattern/
+https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/
+
+
+https://box2d.org/documentation/
+
+
+https://news.ycombinator.com/item?id=23573016
+https://www.simonwardjones.co.uk/posts/linear_regression/
+
+
+https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software
+    Also 
+https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+http://wiki.c2.com/?ArgumentsAgainstOop
+http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end
+https://www.quora.com/Is-C%2B%2B-slower-than-C-If-yes-is-the-difference-significant/answer/Simon-Hardy-Francis
+
+
+https://www.reddit.com/r/programming/comments/hhr49g/source_code_for_the_fruit_ninja_ai_which_blew_up/
+https://github.com/LupascuAndrei/fruit_ninja_ai/blob/master/fruits.py
+
+
+https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html
+https://github.com/janiorca/sphere_dance
+    Check as well https://www.codeslow.com/2020/01/writing-4k-intro-in-rust.html
+
+
+A Deep Introduction to JIT Compilers: JITs are not very Just-in-time
+https://news.ycombinator.com/item?id=23740655
+https://carolchen.me/blog/jits-intro/
+
+
+
+
+
+
+http://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums/
+
+
+https://www.reddit.com/r/cpp/comments/hpz198/best_practices_for_a_c_programmer/
+
+
+
+
+https://www.reddit.com/r/rust/comments/huja76/blog_post_three_architectures_for_a_responsive_ide/
+https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html
+
+
+https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
+
+
+
+
+
+
+
+
+ 
+``` LESS MUST READ PART 2
+
+
+https://64.github.io/cmake-raytracer/
+
+
+https://dagshub.com/docs/experiment-tutorial/overview/
+https://dvc.org/doc/start/data-pipelines
+
+
+https://github.com/zeplia/minwiz
+
+
+https://www.reddit.com/r/webdev/comments/kpdsl3/i_made_the_desktop_music_player_i_always_wanted_a/
+https://github.com/bundit/kord-app
+
+
+https://news.ycombinator.com/item?id=25601821
+https://nullprogram.com/blog/2020/12/31/
+
+
+https://www.reddit.com/r/programming/comments/kkup3e/fun_with_ip_address_parsing/
+https://blog.dave.tf/post/ip-addr-parsing/
+
+
+https://www.reddit.com/r/programming/comments/knqwow/castlevania_iii_password_algorithm/
+https://meatfighter.com/castlevania3-password/
+
+
+https://www.reddit.com/r/programming/comments/kjjijf/a_complete_guide_to_llvm_for_programming_language/
+https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+
+
+https://www.reddit.com/r/cpp/comments/kkw56w/learning_about_high_performant_c/
+
+
+https://news.ycombinator.com/item?id=25575505
+https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
+
+
+https://www.reddit.com/r/MachineLearning/comments/klbvaw/p_doing_a_clone_of_rocket_league_for_ai/
+
+
+https://www.reddit.com/r/programming/comments/kk8pxz/this_programmer_reverse_engineered_the_pfizer/
+https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+
+
+https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/
+https://news.ycombinator.com/item?id=25557431
+
+
+https://news.ycombinator.com/item?id=24615185
+https://github.com/codemix/ts-sql
+
+
+https://codingnest.com/the-little-things-speeding-up-c-compilation/
+
+
+https://news.ycombinator.com/item?id=24233229
+    From comments: 
+    https://ki.infil.net/w02-netcode-p2.html
+    https://gabrielgambetta.com/client-server-gadu
+me-architecture.html
+    https://gafferongames.com/categories/game-networking/
+https://gameprogrammingpatterns.com/contents.html
+https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php
+
+
+
+
+https://news.ycombinator.com/item?id=24238015
+http://www.linuxfromscratch.org/lfs/
+
+
+https://jobtalle.com/neuroevolution_in_squids.html
+https://github.com/jobtalle/Cephalopods/tree/master/js
+
+
+https://ferrous-systems.com/blog/21st-century-embedded-tooling/
+https://www.reddit.com/r/rust/comments/i7pxia/embedded_rust_tooling_for_the_21st_century/
+
+
+https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/
+https://www.reddit.com/r/programming/comments/i7cop5/heres_how_and_why_i_ported_frog_fractions_to_a/
+
+
+http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/
+https://news.ycombinator.com/item?id=24120311
+
+
+https://news.ycombinator.com/item?id=23967016
+https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html
+
+
+https://www.reddit.com/r/MachineLearning/comments/hy3hry/p_python_implementation_of_proximal_policy/
+https://github.com/uvipen/Super-mario-bros-PPO-pytorch
+
+
+https://news.ycombinator.com/item?id=23904000
+https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/
+
+
+https://github.com/Requarks/wiki
+
+
+https://news.ycombinator.com/item?id=23868355
+https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+
+
+https://news.ycombinator.com/item?id=23837838
+
+
+https://www.reddit.com/r/programming/comments/hfxj1p/fix_your_timestep_a_great_article_which_helped_me/
+https://gafferongames.com/post/fix_your_timestep/
+   See other articles from the site
+
+
+
+
+Markov Chains for Text Generation
+https://jbaker.graphics/writings/markov.html
+https://github.com/0xBAMA/markov-wordcount/blob/master/corpi/017_shadow.txt
+
+
+https://blog.thoughtram.io/string-vs-str-in-rust/
+
+
+https://news.ycombinator.com/item?id=23582280
+https://nicoleorchard.com/blog/compilers
+
+
+https://www.reddit.com/r/rust/comments/hbu84n/crafting_cellular_automata_in_rust_my_first_blog/
+https://oneorten.dev/blog/automata_rust_1/
+
+
+https://news.ycombinator.com/item?id=23563358
+https://hash.ai/about/mission
+   See comment. http://www.qrg.northwestern.edu/papers/files/simhobby-local.htm
+
+
+https://kharpann.com/learn-python-for-data-science-full-course/
+
+
+Check this project https://github.com/rustwasm/wasm-bindgen
+  From tour of WebAssembly
+  Also : https://github.com/richardanaya/ramen
+
+
+https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464
+________________
+
+
+https://bevyengine.org/news/introducing-bevy/
+https://www.reddit.com/r/rust/comments/i7bcwu/introducing_bevy_a_refreshingly_simple_datadriven/
+
+
+https://news.ycombinator.com/item?id=23489653
+https://beta.openai.com/
+
+
+https://news.ycombinator.com/item?id=23466564
+https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html
+
+
+https://medium.com/tech-hunters/developing-production-ready-serverless-applications-with-kotlin-micronaut-and-graalvm-fff72d5c804b
+
+
+https://www.reddit.com/r/java/comments/gzlep2/performance_of_modern_java_on_dataheavy_workloads/
+https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1
+
+
+https://www.reddit.com/r/programming/comments/gzysdx/baldurs_gate_2_ported_to_the_web/
+    See slso https://gemrb.github.io/
+
+
+https://news.ycombinator.com/item?id=23473365
+https://www.stavros.io/posts/bloom-filter-search-engine/
+
+
+https://www.reddit.com/r/java/comments/gz3g3g/an_aws_lambda_serverless_journey/
+https://itnext.io/an-aws-lambda-serverless-journey-part-1-what-why-and-how-do-i-get-started-7a9f2d60ddbb
+
+
+https://news.ycombinator.com/item?id=23460066
+https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c
+
+
+Tensorflow.js: Machine Learning in JavaScript (tensorflow.org)
+https://news.ycombinator.com/item?id=23453308
+   See https://github.com/paruby/mnist/blob/master/index.html
+   and https://github.com/paruby/snake-face/
+
+
+https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html
+
+
+https://github.com/EmilHernvall/dnsguide
+
+
+https://github.com/netcan/AnimalChess
+
+
+https://www.reddit.com/r/rust/comments/gxqr2l/zero_to_production_1_setup_toolchain_ides_ci/
+https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/
+
+
+https://github.com/carlini/printf-tac-toe
+
+
+https://www.reddit.com/r/java/comments/gy3aex/smage_a_simplistic_but_modernistic_approach_to/
+https://github.com/CiviledCode/Smage
+
+
+http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html
+https://news.ycombinator.com/item?id=23441767
+
+
+https://kennykerr.ca/2020/06/05/getting-started-with-rust-winrt/
+
+
+https://www.reddit.com/r/java/comments/gwoxqk/circuit_breaker_and_retries_on_kubernetes_with/
+https://piotrminkowski.com/2020/06/03/circuit-breaker-and-retries-on-kubernetes-with-istio-and-spring-boot/
+
+
+The beauty of Unix pipelines
+https://news.ycombinator.com/item?id=23420786
+https://prithu.xyz/posts/unix-pipeline/
+
+
+Containers from first principles
+https://news.ycombinator.com/item?id=23424136
+https://fzakaria.com/2020/05/31/containers-from-first-principles.html
+
+
+https://github.com/antiboredom/videogrep
+
+
+Spaceship Generator for Blender
+https://news.ycombinator.com/item?id=23373107
+https://github.com/a1studmuffin/SpaceshipGenerator
+
+
+https://www.reddit.com/r/rust/comments/gtxujw/i_made_a_webrtc_chat_using_rust_and_yew/
+See also webrtc and peerjs lib
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/gtnysy/oc_made_a_website_to_generate_lsystems_with_webgl/
+
+
+https://www.reddit.com/r/rust/comments/gu1bq5/pont_a_board_game_in_rust_webassembly/
+https://www.mattkeeter.com/projects/pont/
+
+
+https://www.reddit.com/r/programming/comments/gtvmb4/what_computer_and_software_is_used_by_the_falcon_9/
+https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9/9446#9446
+
+
+https://www.reddit.com/r/Python/comments/gtzk7v/i_created_the_first_crossplatform_python_library/
+https://github.com/saleguas/context_menu/blob/master/docs/source/context_menu.rst
+
+
+https://www.quora.com/How-do-programming-language-designers-manage-language-complexity/answer/Alan-Kay-11
+
+
+Tactical game map generation (demo and source in comments)
+https://www.reddit.com/r/proceduralgeneration/comments/gso7yz/tactical_game_map_generation_demo_and_source_in/
+
+
+blocked: A proc-macro that emits a compiler warning when the linked GitHub issue is closed
+https://www.reddit.com/r/rust/comments/gsq5gd/blocked_a_procmacro_that_emits_a_compiler_warning/
+
+
+Scaling up Anime with Machine Learning and Smart Real Time Algorithms (Crunchyroll Blog)
+https://medium.com/crunchyroll/scaling-up-anime-with-machine-learning-and-smart-real-time-algorithms-2fb706ec56c0
+https://www.reddit.com/r/programming/comments/gskjnu/scaling_up_anime_with_machine_learning_and_smart/
+
+
+The radix 2^51 trick
+https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
+https://www.reddit.com/r/programming/comments/gsxwev/the_radix_251_trick_2017/
+
+
+Things we learned about sums
+https://www.reddit.com/r/programming/comments/gst573/things_we_learned_about_sums/
+https://questdb.io/blog/2020/05/12/interesting-things-we-learned-about-sums
+  See also https://en.wikipedia.org/wiki/Kahan_summation_algorithm
+
+
+https://www.reddit.com/r/MachineLearning/comments/hwxn26/p_how_gpt3_works_visuals_and_animations/
+https://jalammar.github.io/illustrated-gpt2/
+
+
+GPT-3: Language Models Are Few-Shot Learners (arxiv.org)
+https://news.ycombinator.com/item?id=23345379
+https://arxiv.org/abs/2005.14165
+
+
+Why is Kubernetes getting so popular?
+https://news.ycombinator.com/item?id=23354418
+https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/
+
+
+https://www.reddit.com/r/programming/comments/groyln/introduction_to_uefi_part_1/
+https://secret.club/2020/05/26/introduction-to-uefi-part-1.html
+
+
+https://www.reddit.com/r/MachineLearning/comments/gs1pu3/p_implementing_neural_turing_machines_in_pytorch/
+
+
+https://www.reddit.com/r/rust/comments/gs6i37/my_setup_for_fuzzing_sequoiapgp/
+https://blog.hackeriet.no/fuzzing-sequoia/
+
+
+https://www.reddit.com/r/rust/comments/gris3i/multiplatform_minecraftcompatible_client_written/
+
+
+Circle Evolution v0.1 is now available on PyPI. My first big project as a 16 year old. [Github repo & desc in comments]
+https://www.reddit.com/r/Python/comments/grglgp/circle_evolution_v01_is_now_available_on_pypi_my/
+
+
+https://www.mihaileric.com/posts/complete-artificial-intelligence-undergraduate-course-plan/
+https://news.ycombinator.com/item?id=23321426
+
+
+
+
+Drawing Mona Lisa with 256 circles using evolution [Github repo in comments]
+https://www.reddit.com/r/Python/comments/gn9add/drawing_mona_lisa_with_256_circles_using/
+https://github.com/ahmedkhalf/Circle-Evolution
+
+
+Linux Productivity Tools (2019)
+https://news.ycombinator.com/item?id=23229241
+https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf
+
+
+When SimCity Got Serious: Story of Maxis Business Simulations and SimRefinery 
+https://news.ycombinator.com/item?id=23236132
+  See Modelica  (comment about simulation)
+
+
+Diagram as Code (mingrammer.com)
+https://news.ycombinator.com/item?id=23154846
+
+
+https://news.ycombinator.com/item?id=23162651
+https://secondbreakfast.co/patio11-s-law
+   See also https://retool.com/blog/erp-for-engineers/
+
+
+https://news.ycombinator.com/item?id=23165157
+https://zserge.com/posts/containers/
+
+
+https://news.ycombinator.com/item?id=23166142
+https://growth.design/psychology/
+
+
+https://news.ycombinator.com/item?id=23114141
+https://aralroca.com/blog/opencv-in-the-web
+
+
+Bayesian Data Analysis, Third Edition [pdf] (aalto.fi)
+https://news.ycombinator.com/item?id=23091359
+https://users.aalto.fi/~ave/BDA3.pdf
+
+
+blenderbot
+Facebook uses 1.5B Reddit posts to create chatbot (bbc.com)
+https://news.ycombinator.com/item?id=23091932
+https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/
+
+
+
+
+https://www.reddit.com/r/programming/comments/gf1on9/building_the_ai_of_fear_with_goal_oriented_action/
+https://www.aiandgames.com/2020/05/06/ai-101-goap-fear/
+
+
+
+
+https://www.reddit.com/r/programming/comments/ge42r0/tldr_writing_a_slack_bot_to_summarize_articles/
+https://blog.concurlabs.com/how-to-write-a-tldr-chat-bot-ec02d9e1649c
+
+
+https://www.reddit.com/r/rust/comments/gecfvq/rust_webassembly_is_dope/
+https://github.com/justinmimbs/rs-asteroids
+
+
+https://news.ycombinator.com/item?id=23070646
+
+
+
+
+https://github.com/beyretb/AnimalAI-Olympics
+https://www.reddit.com/r/MachineLearning/comments/gdrxji/p_animalai_v20_is_out_an_environment_for_testing/
+
+
+https://www.reddit.com/r/Python/comments/gdcwey/program_that_can_detect_gender_from_face_portrait/
+https://github.com/erpk3/gender-bot
+
+
+https://www.reddit.com/r/programming/comments/gd6ihu/volumetric_rendering_part_1/
+https://wallisc.github.io/rendering/2020/05/02/Volumetric-Rendering-Part-1.html
+
+
+
+
+https://www.reddit.com/r/programming/comments/gd3eiy/modern_sat_solvers_fast_neat_and_underused_part_1/
+https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/
+
+
+https://news.ycombinator.com/item?id=23041263
+https://msrc-blog.microsoft.com/2020/04/29/the-safety-boat-kubernetes-and-rust/
+https://news.ycombinator.com/item?id=23053981
+https://quip.com/2gwZArKuWk7W
+https://news.ycombinator.com/item?id=23053773
+https://www.digitalmars.com/articles/b90.html
+https://news.ycombinator.com/item?id=23048399
+https://web.archive.org/web/20070519112242/http://www.kuro5hin.org/story/2002/11/14/22741/791
+https://news.ycombinator.com/item?id=23052299
+https://dl.acm.org/doi/pdf/10.1145/3309206
+https://news.ycombinator.com/item?id=23053590
+https://www.gizra.com/content/drupal-static-elasticsearch/
+https://news.ycombinator.com/item?id=23051242
+https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/
+https://news.ycombinator.com/item?id=23049930
+https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html
+
+
+
+
+
+
+https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
+
+
+https://github.com/robmikh/minesweeper-rs
+
+
+https://openai.com/blog/jukebox/
+https://news.ycombinator.com/item?id=23032243
+
+
+https://news.ycombinator.com/item?id=23025756
+https://smallstep.com/blog/ssh-tricks-and-tips/
+
+
+https://webwormhole.io/
+https://github.com/saljam/webwormhole
+
+
+regex
+https://refrf.shreyasminocha.me/
+
+
+https://www.reddit.com/r/Python/comments/gbko3e/deving_an_app_to_help_visualize_data_from_any/
+https://github.com/pearsonkyle/Data-VisualizAR
+
+
+https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/
+
+
+https://www.reddit.com/r/Python/comments/g939sg/chess_game_python/
+https://github.com/j00nas/python-chess-game-GUI/blob/master/chess.py
+
+
+https://news.ycombinator.com/item?id=22986561
+https://github.com/paruby/snake-face
+
+
+https://www.reddit.com/r/programming/comments/g5o054/nintendo_64_architecture_a_practical_analysis/
+https://copetti.org/projects/consoles/nintendo-64/
+
+
+https://news.ycombinator.com/item?id=22940211
+http://www.petecorey.com/blog/2020/04/21/guitar-chord-voicings-with-prolog/
+
+
+https://machinelearningmastery.com/statistical-hypothesis-tests/
+https://en.wikipedia.org/wiki/P-value
+https://www.statsmodels.org/stable/index.html
+https://www.statsmodels.org/stable/examples/index.html
+
+
+https://www.youtube.com/watch?v=lgZL67bqGKE
+
+
+https://www.reddit.com/r/Python/comments/g3pjcs/i_wrote_a_script_that_creates_a_password_wordlist/
+https://github.com/utpalbalse/PasswordListGenerator/blob/master/setup.py
+
+
+https://www.reddit.com/r/Python/comments/g484d4/today_im_releasing_pyboy_v100_a_game_boy_emulator/
+https://github.com/Baekalfen/PyBoy
+
+
+Why Do Line Drawings Work? A Realism Hypothesis
+https://arxiv.org/abs/2002.06260
+
+
+https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a
+
+
+https://jitsi.org/blog/e2ee/
+https://news.ycombinator.com/item?id=22855407
+
+
+Computer in the cloud
+https://news.ycombinator.com/item?id=22890016
+https://workstream.paperspace.com/
+
+
+https://news.ycombinator.com/item?id=22837990
+https://github.com/turnage/valora
+
+
+https://www.reddit.com/r/rotp/comments/fzqgsv/remnants_of_the_precursors_beta_1_is_now_available/
+https://github.com/rayfowler/rotp-public
+
+
+https://en.wikipedia.org/wiki/UTF-8
+https://www.youtube.com/watch?time_continue=20&v=MijmeoH9LT4&feature=emb_logo
+    Stopped at 3:10
+https://news.ycombinator.com/item?id=22800607
+https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
+https://news.ycombinator.com/item?id=22806142
+https://www.mikealche.com/software-development/a-humble-guide-to-database-schema-design
+
+
+
+
+https://news.ycombinator.com/item?id=22808121
+https://wpodns.adtac.in/
+https://git.adtac.in/wpodns/
+https://github.com/aaronjanse/dns-over-wikipedia
+
+
+https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/
+https://www.youtube.com/watch?v=dIrS31CCITM
+    Stopped at 11:52
+https://www.youtube.com/watch?v=LQFsEwcCO1E
+
+
+https://www.reddit.com/r/Eve/comments/fvs8o5/okay_i_changed_my_mind_evevision_is_in_public_beta/
+https://github.com/evevision/evevision
+
+
+How Antennas Work
+https://news.ycombinator.com/item?id=22785015
+http://www.antenna-theory.com/m/index.php
+
+
+https://news.ycombinator.com/item?id=22772536
+https://www.openttd.org/news/2020/04/01/openttd-1-10-0.html
+OpenTTD is a business simulation game in which players try to earn money via transporting passengers and freight by road, rail, water and air. It is an open-source remake and expansion of the 1994 Chris Sawyer video game Transport Tycoon Deluxe.
+
+
+https://increment.com/programming-languages/crash-course-in-compilers/
+Stopped at An interpreter’s job is to take source c
+The article has good links for plenty of resources
+
+
+JVM bytecode
+https://en.wikipedia.org/wiki/Java_bytecode
+https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings
+https://www.guru99.com/java-virtual-machine-jvm.html
+https://dzone.com/articles/jvm-architecture-explained
+https://www.youtube.com/watch?v=rPyqB1l4gko
+    BiteScript
+    JiteScript
+    ASM
+https://www.youtube.com/watch?v=0Yud4Q2HEz4
+    The next video
+https://www.ibm.com/developerworks/library/j-dyn0610/index.html
+https://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/chapters/pc/BytecodeEnhancement.html
+https://dzone.com/articles/hibernate-bytecode-enhancement-dirty-tracking
+https://dzone.com/articles/hibernate-bytecode-enhancement-association-managem
+
+
+
+
+
+
+mtg
+https://github.com/Cockatrice/Cockatrice
+Write mtg deck builder
+Card2vect possible? Write game with state machine
+
+
+https://www.reddit.com/r/programming/comments/ftiqto/open_source_reimplementation_of_might_and_magic/
+https://github.com/gp-alex/world-of-might-and-magic
+
+
+https://www.reddit.com/r/Python/comments/ftktcn/i_made_a_program_that_allows_you_to_download_song/
+https://github.com/sameera-madushan/CoverMaster
+
+
+
+
+https://itnext.io/spring-boot-development-in-kubernetes-for-lazy-developers-like-me-bb6e7b08f13f
+
+
+https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html
+https://blog.scottlogic.com/2019/07/15/multithreaded-webassembly.html
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/
+https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/
+https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/
+
+
+https://news.ycombinator.com/item?id=22710604
+https://vlaaad.github.io/year-of-clojure-on-the-desktop
+
+
+https://slack.engineering/deploys-at-slack-cd0d28c61701
+
+
+https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/
+https://news.ycombinator.com/item?id=22714200
+
+
+
+
+https://bitbucket.org/blog/best-practices-for-java-security
+https://www.reddit.com/r/java/comments/fr21of/best_practices_for_java_security/
+
+
+https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/?ref=lbp
+https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/?ref=lbp
+https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/?ref=lbp
+
+
+
+
+https://news.ycombinator.com/item?id=22715920
+Log-log plot of new vs. total Covid-19 cases by country (aatishb.com)
+https://en.wikipedia.org/wiki/Logistic_function
+https://en.wikipedia.org/wiki/Phase_space
+https://en.wikipedia.org/wiki/Duffing_equation
+    See also the cloth simulation on the site
+
+
+
+
+
+
+https://www.reddit.com/r/programming/comments/fq4ez3/doom_3_running_in_web_assembly/
+http://www.continuation-labs.com/projects/d3wasm/
+
+
+
+
+Why anti-cheat software utilize kernel drivers; a view from reverse-engineering experts
+https://www.reddit.com/r/programming/comments/g3rwjn/why_anticheat_software_utilize_kernel_drivers_a/
+https://secret.club/2020/04/17/kernel-anticheats.html
+    See also the blog
+https://www.reddit.com/r/Python/comments/fnlpkf/skribblio_bot_in_python_simulate_mouse_inputs/
+https://github.com/mgemard/SkribblBot
+https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event
+   See why the folder venv contain 4k+ files
+
+
+
+
+https://www.reddit.com/r/Python/comments/fnlpkf/skribblio_bot_in_python_simulate_mouse_inputs/
+
+
+https://developers.google.com/tech-writing
+Technical Writing Courses
+
+
+https://news.ycombinator.com/item?id=22630143
+https://github.com/luruke/browser-2020
+
+
+https://wiki.eveuniversity.org/Warp_time_calculation
+
+
+https://developer.github.com/
+
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity
+
+
+https://github.com/pkacprzak/unrestricted-browsing-on-instagram
+
+
+https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
+
+
+https://github.com/nesk/covid-19-certificate
+
+
+
+
+https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
+https://www.reddit.com/r/programming/comments/fk8iau/detecting_covid19_in_xray_images_with_keras/
+
+
+
+
+
+
+https://news.ycombinator.com/item?id=22607065
+https://openvidu.io/tutorials
+Check the code source on github (they use docker, jenkins, …)
+https://github.com/OpenVidu/openvidu
+
+
+https://news.ycombinator.com/item?id=22498665
+https://blog.repl.it/clui
+
+
+https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
+
+
+https://dzone.com/articles/java-records-a-closer-look
+
+
+
+
+book
+Scientific revolution: a very short introduction
+
+
+https://www.reddit.com/r/java/comments/ffj2c1/multithreading_in_java_java_synchronization_and/
+https://www.devdiaries.net/blog/Java-Interview-Questions-Multithreading/
+
+
+https://www.reddit.com/r/programming/comments/ffmyim/how_i_made_a_3d_game_in_only_2kb_of_javascript/
+http://frankforce.com/?p=7427
+
+
+https://www.reddit.com/r/Python/comments/fflyup/how_to_use_jupyter_notebooks_in_2020_part_1_the/
+https://ljvmiranda921.github.io/notebook/2020/03/06/jupyter-notebooks-in-2020/
+
+
+https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+
+
+https://www.youtube.com/watch?v=B-TOUPXytw4
+https://docs.python-guide.org/scenarios/imaging/
+https://github.com/imagej/pyimagej
+
+
+http://www.gameaipro.com/
+
+
+The missing semester of CS education (mit.edu)
+https://news.ycombinator.com/item?id=22226380
+
+
+
+
+Tensorflow blog article on medium
+
+
+https://en.wikipedia.org/wiki/Fast_inverse_square_root#Overview_of_the_code
+https://www.reddit.com/r/programming/comments/zxg84/0x5f3759df_fast_inverse_square_root_explained_in/
+http://h14s.p5r.org/2012/09/0x5f3759df.html
+
+
+
+
+I Made an Extension for Visual Debugging in VS Code
+https://www.reddit.com/r/programming/comments/f88zom/i_made_an_extension_for_visual_debugging_in_vs/
+https://github.com/hediet/vscode-debug-visualizer/tree/master/extension
+
+
+https://codeburst.io/how-do-i-prepare-for-acm-icpc-and-how-can-i-best-increase-my-chances-of-excelling-in-any-be3da114fbc7
+https://www.quora.com/q/miornsdczawystcn/How-Do-I-become-a-good-competitive-programmer-and-what-are-the-materials-I-need-to-study-from
+
+
+I made a recursive maze solver in Python
+https://www.reddit.com/r/Python/comments/f8bn5w/i_made_a_recursive_maze_solver_in_python/
+
+
+https://news.ycombinator.com/item?id=22283673
+https://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html
+
+
+https://news.ycombinator.com/item?id=22278339
+How to play the guitar by ear, for mathematicians and physicists (2000) [pdf] 
+
+
+https://norvig.com/
+  See list of jupyther notebooks
+
+
+https://www.scrapingbee.com/blog/selenium-python/
+
+
+https://www.reddit.com/r/Python/comments/f7jiub/after_learning_python_for_the_past_year_i_made_a/
+
+
+https://www.reddit.com/r/programming/comments/f7q2q3/i_made_a_commandline_script_to_make_glitched/
+
+
+https://news.ycombinator.com/item?id=22310813
+https://ciechanow.ski/gears/
+
+
+https://www.reddit.com/r/programming/comments/f2rplr/why_are_we_so_bad_at_software_engineering/
+https://www.reddit.com/r/programming/comments/f2rplr/why_are_we_so_bad_at_software_engineering/
+https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/f2g2ii/solution_to_challenge_of_the_week_source_code/
+https://news.ycombinator.com/item?id=22292003
+https://www.reddit.com/r/Python/comments/f1u7la/check_out_this_free_webclient_i_built_for_pandas/
+https://www.reddit.com/r/java/comments/f1cy0w/understanding_the_lmax_disruptor/
+https://www.reddit.com/r/chess/comments/f1eog8/i_made_a_python_script_that_generates_4k_desktop/
+https://www.reddit.com/r/Python/comments/f17mfh/i_made_a_random_maze_generator/
+https://www.reddit.com/r/programming/comments/ezbka7/over_550_videos_of_870_talks_from_fosdem_2020/
+https://news.ycombinator.com/item?id=22209701
+https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3
+https://news.ycombinator.com/item?id=22232705
+https://news.ycombinator.com/item?id=22244706
+https://news.ycombinator.com/item?id=22244750
+https://www.reddit.com/r/programming/comments/ey45y2/libcs_implementation_of_stdstring/
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+https://news.ycombinator.com/item?id=22215931
+https://www.reddit.com/r/rust/comments/expoza/wasm_and_native_gameboy_emulator_written_in_rust/
+https://www.reddit.com/r/Python/comments/exx72v/first_thing_i_made_on_python_just_a_free_fall/
+https://news.ycombinator.com/item?id=22193383
+https://news.ycombinator.com/item?id=22193451
+https://www.reddit.com/r/Python/comments/ew85o8/built_a_rubiks_cube_solving_robot_coded_in_python/
+https://www.reddit.com/r/java/comments/ew39i7/what_is_spring_framework_from_dependency/
+https://www.reddit.com/r/programming/comments/ewiu9v/my_second_programming_project_synonymy_a_tool/
+https://www.reddit.com/r/Python/comments/evolio/i_wrote_a_small_library_to_enable_flexible_piping/
+https://www.reddit.com/r/rust/comments/evnv8z/ferrugo_a_jvm_implementation_written_in_rust/
+https://news.ycombinator.com/item?id=22188877
+https://news.ycombinator.com/item?id=22179841
+
+
+https://blog.deeplearning.ai/blog/the-batch-happy-new-year-hopes-for-ai-in-2020-yann-lecun-kai-fu-lee-anima-anandkumar-richard-socher?utm_campaign=The%20Batch&utm_content=111349994&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456
+
+
+https://twitter.com/pablochacin/status/1214575926228455424
+
+
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/machine%20learning/Stevens,%20E.%20&%20Antiga,%20L.%20-%20Deep%20Learning%20with%20PyTorch%20(2019).pdf    p34   2.8 Moving tensors to the GPU
+https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation
+https://www.physicsforums.com/insights/an-alternative-approach-to-solving-collision-problems/
+https://www.physicsforums.com/insights/an-alternate-approach-to-solving-2-dimensional-elastic-collisions/
+https://www.khanacademy.org/science/physics/linear-momentum/elastic-and-inelastic-collisions/a/what-are-elastic-and-inelastic-collisions
+https://en.wikipedia.org/wiki/Elastic_collision
+
+
+https://www.reddit.com/r/programming/comments/fgkllr/ready_for_changes_with_hexagonal_architecture/
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Backpropagation
+https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)
+https://en.wikipedia.org/wiki/Subtyping
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
+https://en.wikipedia.org/wiki/Type_theory
+    See also https://en.wikipedia.org/wiki/Programming_language_theory
+https://en.wikipedia.org/wiki/Covariance_and_contravariance_of_vectors
+https://en.wikipedia.org/wiki/Intersection_type
+https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/
+https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
+
+
+Dive into Deep Learning
+http://www.d2l.ai/index.html
+
+
+https://arxiv.org/pdf/1910.07065.pdf?fbclid=IwAR11Zl8lLYQ68b8HQJkPvzomKBLIA7ddf8_q-RG2zSEJwgYBXBfvJokKB9Y
+https://en.wikipedia.org/wiki/Automatic_differentiation
+https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation
+  see also (not related) https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/
+  from https://news.ycombinator.com/item?id=21542054
+
+
+deployment
+https://christine.website/blog/the-cult-of-kubernetes-2019-09-07
+https://news.ycombinator.com/item?id=20915626
+
+
+https://www.pythonanywhere.com/
+
+
+10 tips to host your web apps for free
+https://blog.patricktriest.com/host-webapps-free/
+
+
+Deploy your side-projects at scale for basically nothing – Google Cloud Run 
+https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless
+https://news.ycombinator.com/item?id=22027459
+
+
+netlify
+
+
+== become a java developer
+
+
+If you were brand new, and wanted to start a career in Java today, what would you do and how would you do it?
+Write a microservice using Spring Boot or Dropwizard. Come up with something for it to actually do, don’t just make a simple CRUD app.
+Expose a REST API, integrate with a third-party API, persist state to a database (even if it is mongo, mongo is only good for prototyping!).
+Write unit, integration, and system tests for your service.
+Learn how to profile that app using a profiler (yourkit) and debug it using breakpoints in a debugger.
+Learn enough Gradle to be dangerous. Build the project with Gradle, and use findbugs, checkstyle and PMD plug-ins to conduct static analysis of your codebase. Learn about the common warnings these tools will throw, why they’re bad, and how to avoid them.
+Learn an IDE (IntelliJ), but don’t let it make you lazy... learn enough that you can write mostly correct code without an IDE.
+Learn the Stream API, but know when to use it and when not to use it. Functional programming looks down on “side-effects” so your lambdas shouldn’t modify anything. It accepts an input, generates an output, that’s it.
+You do need experience with data structures and algorithms, but primarily for interviews. 99% of your work is likely to deal with the above rather than optimizing algorithms.
+That’s about all I can think of at the moment. You don’t need to be an expert on everything here, but if you can speak convincingly about each of these, you honestly shouldn’t have any trouble getting a job.
+
+
+https://www.marcobehler.com/guides/java-microservices-a-practical-guide
+https://spring.io/blog/2015/07/14/microservices-with-spring
+
+
+
+
+
+
+
+
+
+
+
+
+== Stuff
+
+
+Show HN: Simulation-based high school physics course notes (landgreen.github.io)
+https://news.ycombinator.com/item?id=22574441
+https://landgreen.github.io/physics/index.html
+
+
+https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html
+
+
+https://developers.google.com/machine-learning/crash-course/feature-crosses/programming-exercise
+
+
+Azure
+Dataflow
+Data Factory
+Data lexor
+
+
+https://www.wandb.com/tutorials
+
+
+Learn how to morph faces with a Generative Adversarial Network!
+https://www.youtube.com/watch?v=dCKbRCUyop8
+
+
+https://medium.com/deep-math-machine-learning-ai
+
+
+Deep learning with pytorch: a 60 minute blitz
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+https://news.ycombinator.com/item?id=21240057
+
+
+https://spring.io/guides/tutorials/spring-boot-kotlin/
+
+
+https://realpython.com/pycharm-guide/
+
+
+https://www.fast.ai/
+https://course.fast.ai/index.html
+  https://www.reddit.com/r/MachineLearning/comments/dej0ux/p_the_joy_of_neural_painting_learning_neural/
+
+
+deeplearning.ai
+
+
+https://openclassrooms.com/fr/search?page=1&categories=Data
+https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning/4011858-identifez-les-differentes-etapes-de-modelisation
+https://openclassrooms.com/en/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science
+https://openclassrooms.com/fr/courses/4525306-initiez-vous-a-la-statistique-inferentielle
+https://openclassrooms.com/en/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees
+https://openclassrooms.com/fr/courses/4525296-maitrisez-les-bases-des-probabilites/5415741-decouvrez-les-notions-de-covariance-et-de-correlation-lineaire stopped here
+
+
+https://github.com/danistefanovic/build-your-own-x
+
+
+p21
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/Machine%20learning/Liu,%20Yuxi%20(Hayden)%20-%20python%20machine%20learning%20by%20example%20(2019).pdf
+
+
+building reusable and extensible compiler infrastructure
+https://mlir.llvm.org/
+
+
+http://www.stephendiehl.com/llvm/
+http://dev.stephendiehl.com/fun/
+
+
+https://viewsourcecode.org/snaptoken/kilo/index.html
+
+
+write an os in rust
+  see (or other resources): https://os.phil-opp.com/status-update/2019-10-06/
+  Update https://os.phil-opp.com/status-update/2020-01-07/
+
+
+https://www.chessprogramming.org/Stockfish
+https://www.chessprogramming.org/UCI
+https://www.youtube.com/watch?v=D4DBE4UQoAY
+https://ucichessengine.wordpress.com/implementation/
+
+
+Youtube series:
+Taxonomy: Life's Filing System - Crash Course Biology 
+https://www.youtube.com/watch?v=sjE-Pkjp3u4
+
+
+http://www.aicheatsheets.com
+
+
+
+
+https://github.com/ossu/bioinformatics
+
+
+https://github.com/ossu/computer-science
+
+
+
+
+Turing machine
+http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
+
+
+Magic: The Gathering is Turing Complete
+https://arxiv.org/pdf/1904.09828.pdf
+https://www.youtube.com/watch?v=pdmODVYPDLA
+
+
+
+
+
+
+1.2
+http://www.pbr-book.org/3ed-2018/Introduction/Photorealistic_Rendering_and_the_Ray-Tracing_Algorithm.html
+
+
+https://news.ycombinator.com/item?id=21433078
+
+
+https://rosettacode.org/wiki/Pointers_and_references
+See also AMB: https://news.ycombinator.com/item?id=22385491
+
+
+openstax
+chemistry: atoms first 2e
+https://openstax.org/books/chemistry-atoms-first-2e/pages/3-5-periodic-variations-in-element-properties
+psychology
+https://cnx.org/contents/Sr8Ev5Og@10.24:SO2ufnKm@12/3-2-Cells-of-the-Nervous-System
+biology
+https://openstax.org/books/concepts-biology/pages/2-introduction
+  stopped at Ionic Bonds
+  see also https://en.wikipedia.org/wiki/Electron_configuration -> https://en.wikipedia.org/wiki/File:Periodic_table_blocks_spdf_(32_column).svg
+  Periodic table
+  The form of the periodic table is closely related to the electron configuration of the atoms of the elements. For example, all the elements of group 2 have an electron configuration of [E] ns2 (where [E] is an inert gas configuration), and have notable similarities in their chemical properties. In general, the periodicity of the periodic table in terms of periodic table blocks is clearly due to the number of electrons (2, 6, 10, 14...) needed to fill s, p, d, and f subshells.
+  The outermost electron shell is often referred to as the "valence shell" and (to a first approximation) determines the chemical properties. It should be remembered that the similarities in the chemical properties were remarked on more than a century before the idea of electron configuration.[12] It is not clear how far Madelung's rule explains (rather than simply describes) the periodic table,[13] although some properties (such as the common +2 oxidation state in the first row of the transition metals) would obviously be different with a different order of orbital filling.
+
+
+history
+https://ageofempires.fandom.com/wiki/Campaign
+https://ageofempires.fandom.com/wiki/Voices_of_Babylon
+
+
+Philosophy of Computer Science [pdf] (buffalo.edu)
+https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
+https://news.ycombinator.com/item?id=20912718
+
+
+The Philosophy of Computer Science
+https://news.ycombinator.com/item?id=20912718
+https://plato.stanford.edu/entries/computer-science/
+
+
+How to learn D3.js (wattenberger.com)
+https://news.ycombinator.com/item?id=20887708
+
+
+arly Computing: Crash Course Computer Science #1
+https://www.youtube.com/watch?v=O5nskjZ_GoI
+
+
+https://openclassrooms.com/fr/courses/1561696-les-reseaux-de-zero/3199418-construire-un-reseau-le-materiel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reverse Engineering for Beginners
+https://beginners.re/
+https://news.ycombinator.com/item?id=21640669
+
+
+https://news.ycombinator.com/item?id=22582444
+Employee Scheduling (developers.google.com)
+https://developers.google.com/optimization/scheduling/employee_scheduling
+https://developers.google.com/optimization
+
+
+https://medium.com/comet-ml/applyingmachinelearningtoaudioanalysis-utm-source-kdnuggets11-19-e160b069e88
+https://www.reddit.com/r/MachineLearning/comments/dyl8rf/p_how_to_apply_machine_learning_and_deep_learning/
+
+
+https://news.ycombinator.com/item?id=21530860
+  see also https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
+  read comments
+
+
+https://www.reddit.com/r/Python/comments/eu5zb4/i_wrote_simple_converter_image_to_asciiagain_and/
+
+
+https://martinfowler.com/articles/micro-frontends.html
+https://micro-frontends.org/
+https://www.toptal.com/front-end/micro-frontends-strengths-benefits
+
+
+Draw.io Online Diagramming Website (github.com)
+https://news.ycombinator.com/item?id=21513337
+
+
+When your data doesn’t fit in memory: the basic techniques (pythonspeed.com)
+https://news.ycombinator.com/item?id=21508542
+
+
+https://news.ycombinator.com/item?id=21484215
+System design hack: Postgres is a great pub/sub and job server (layerci.com)
+
+
+Security assessment techniques for Go projects (trailofbits.com)
+https://news.ycombinator.com/item?id=21480777
+
+
+Modern Data Practice and the SQL Tradition
+https://news.ycombinator.com/item?id=21482114
+
+
+Parse, Don’t Validate (lexi-lambda.github.io)
+https://news.ycombinator.com/item?id=21476261
+
+
+https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+
+
+
+
+
+
+https://blogs.oracle.com/javamagazine/inside-java-13s-switch-expressions-and-reimplemented-socket-api#anchor_1
+
+
+https://news.ycombinator.com/item?id=21363121
+https://www.wezm.net/technical/2019/10/useful-command-line-tools/
+
+
+Markov Chains: How to Train Text Generation to Write like George R. R. Martin
+http://www.datastuff.tech/machine-learning/markov-chains-teaching-ai-to-write-game-of-thrones/
+https://www.reddit.com/r/Python/comments/dmx6zk/markov_chains_how_to_train_text_generation_to/
+
+
+
+
+Shape Up v 1.5, 2019 edition
+Stop Running in Circles and Ship Work that Matters
+https://jivimberg.io/blog/2019/09/15/book-recommendations-shape-up/
+  see others articles
+
+
+https://medium.com/datadriveninvestor/use-google-sheets-as-your-database-using-python-77d40009860f
+
+
+Processing 40 TB of code from ~10 million projects with a dedicated server and Go for $100
+https://news.ycombinator.com/item?id=21121735
+
+
+https://arstechnica.com/information-technology/2019/09/developer-of-checkm8-explains-why-idevice-jailbreak-exploit-is-a-game-changer/
+see also geohot on youtube
+
+
+https://www.physicsforums.com/insights/an-alternate-approach-to-solving-2-dimensional-elastic-collisions/
+
+
+AI Learns to play Snake!
+https://www.youtube.com/watch?v=vhiO4WsHA6c
+https://chrispresso.coffee/2019/09/22/ai-learns-to-play-snake/
+  see others articles as well
+https://github.com/Chrispresso/SnakeAI
+
+
+https://www.reddit.com/r/Python/comments/da1gi2/i_used_tensorflow_and_made_a_deep_q_network_dqn/
+https://github.com/MProx/deep_q_learning
+
+
+
+
+https://blog.nrwl.io/the-3-skills-that-helped-me-become-a-better-software-engineer-8b06a37becf3
+a programming language
+a program
+a compiler
+type systems (optional, mandatory)
+functional programming, imperative programming, logical programming
+a vm
+an interpreter
+a garbage collector
+a database
+distributed systems
+messaging
+
+
+Functionnal programming
+https://leanpub.com/javascript-allonge/read
+
+
+Common systems programming optimizations & tricks
+https://news.ycombinator.com/item?id=21026522
+see also https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/
+  for more
+
+
+
+
+Ask HN: What is the ops architecture like for AAA multiplayer game servers?
+https://news.ycombinator.com/item?id=20908168
+
+
+Appwrite: A New Open-Source Back End Server for Mobile and Web Developers (medium.com)
+https://news.ycombinator.com/item?id=20908701
+
+
+https://www.reddit.com/r/Python/comments/fgdbxb/i_made_a_sudokucom_solver_using_selenium/
+https://gist.github.com/ahmedkhalf/f7a2e2c78bc2130ad889fadacc298610
+
+
+Solving Every Sudoku Puzzle (2006) (norvig.com)
+https://news.ycombinator.com/item?id=20879491
+  see also https://opensourc.es/blog/constraint-solver-1 (
+Building a constraint programming solver in Julia)
+See also https://norvig.com/sudoku.html
+
+
+[Solving Sudoku with Prolog (2016) (metalevel.at)](https://news.ycombinator.com/item?id=20149779)
+
+
+Backtracking algorithm visualized with Sudoku
+https://www.reddit.com/r/java/comments/f6ia30/java_on_visual_studio_code_update_february_2020/
+https://hastebin.com/lagexihula.py
+
+
+
+
+Fancy Zones, a tiling window manager (github.com)
+https://news.ycombinator.com/item?id=20895031
+
+
+
+
+
+
+Show HN: A Senior Engineer's CheckList
+https://news.ycombinator.com/item?id=20914236
+
+
+Rekursiv (wikipedia.org)
+computer processor with object-oriented concepts directly in hardware
+https://news.ycombinator.com/item?id=20913751
+
+
+https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034
+
+
+https://medium.com/@veedrac/leela-chess-test40-test50-and-beyond-c15896becfac
+
+
+https://github.com/ARMmbed/littlefs/blob/master/DESIGN.md
+https://news.ycombinator.com/item?id=20845112
+
+
+https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
+https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
+
+
+https://imagemagick.org/script/architecture.php
+
+
+https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+
+
+https://www.slant.co/topics/1843/versus/~scoop_vs_chocolatey_vs_ninite
+https://www.reddit.com/r/devops/comments/9o4si5/installing_dependencies_on_windows_do_you_use/
+
+
+https://medium.com/@selvaganesh93/javascript-whats-new-in-ecmascript-2019-es2019-es10-35210c6e7f4b
+https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/
+https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/
+
+
+http://www.aosabook.org/en/index.html
+https://news.ycombinator.com/item?id=20731206
+
+
+Hub for learning through play
+https://news.ycombinator.com/item?id=22368323
+https://explorabl.es/
+
+
+https://en.wikipedia.org/wiki/List_of_military_tactics
+
+
+https://news.ycombinator.com/item?id=20720630
+https://news.ycombinator.com/item?id=20721715
+https://news.ycombinator.com/item?id=20723366
+https://news.ycombinator.com/item?id=20721433
+https://news.ycombinator.com/item?id=20728288
+https://news.ycombinator.com/item?id=20726906
+
+
+
+
+https://ai.google/research/teams/brain/pair
+visualize data:  github.io/facets
+github.io/what-is-tool
+embedding projector
+from https://www.youtube.com/watch?v=ulLx2iPTIcs
+
+
+
+
+
+
+Conda, Docker and Kubernetes: Cloud-Native Data Science
+https://www.youtube.com/watch?v=7ymjtDsIStI
+
+
+https://github.com/geohot/qira
+https://github.com/geohot/battlechess
+https://github.com/geohot/ai-notebooks
+
+
+
+
+
+
+
+
+http://localhost:8890/notebooks/Desktop/UCI-Math10/Lectures/Lecture-05-Matplotlib.ipynb (pas finie)
+http://localhost:8889/tree/Desktop/UCI-Math10/Lectures (Lecture-06-Loops-vs-Vectorization.ipynb)
+https://github.com/scaomath/UCI-Math10
+
+
+
+
+https://blog.kabir.sh/posts/inventing-monads.html
+another one: https://samgrayson.me/2019-08-06-monads-as-a-programming-pattern/
+  see also functor (in Haskell for example)
+  search also for "A monad is just a monoid in the category of endofunctors, what's the problem?"
+
+
+try with conda
+https://programmingzen.com/exploring-mathematics-with-matplotlib-and-python/
+
+
+https://www.gerritcodereview.com/about.html
+
+
+
+
+
+
+
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction
+https://news.ycombinator.com/item?id=20591609
+One great resource for those interested in contributing to Mozilla, is mikeconley's live coding sessions[0], which are cataloged here[1]. These can be used to help understand internals.
+[0] https://www.youtube.com/playlist?list=PLmaFLMwlbk8wKMvfEEzp9...
+[1] https://mikeconley.github.io/joy-of-coding-episode-guide/
+
+
+
+
+https://javalin.io/tutorials/simple-frontends-with-javalin-and-vue
+
+
+
+
+jvm
+Class loading
+Java memory mamagement system
+Execution engine
+Java memory model
+Tools to profiling
+
+
+
+
+Transaction isolation levels
+Transaction Anomalies (dirty read, ...)
+Types of internal table/row locks
+DB deadlocks detection tools
+Optimistic pessimistic locks
+
+
+https://developersinspired.com/
+
+
+
+
+https://www.reddit.com/r/Python/comments/fjemrj/made_a_reaction_time_game_for_my_first_pygame/
+https://github.com/stndn0/stndn-arcade
+
+
+https://news.ycombinator.com/item?id=22574603
+https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html
+
+
+http://www.openculture.com/free_textbooks
+
+
+Get final version once finished (not sample version)
+https://openstax.org/details/books/entrepreneurship
+
+
+
+
+https://developers.google.com/protocol-buffers/docs/tutorials
+https://www.grpc.io/docs/guides/
+
+
+
+
+
+
+https://rushter.com/blog/python-memory-managment/
+
+
+
+
+https://dzone.com/articles/7-benefits-of-working-as-a-team-for-successful-pro
+https://dzone.com/articles/this-week-in-spring-garbage-collection-cloud-rest
+https://dzone.com/articles/how-to-implement-data-devops
+
+
+
+
+https://hackernoon.com/top-javascript-based-machine-learning-frameworks-and-libraries-lz92j32w4
+
+
+
+
+https://overreacted.io/algebraic-effects-for-the-rest-of-us/
+https://news.ycombinator.com/item?id=20496043
+
+
+
+
+https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem
+https://en.wikipedia.org/wiki/NP_(complexity)
+https://en.wikipedia.org/wiki/NP-completeness
+https://softwareengineering.stackexchange.com/questions/308178/trying-to-understand-p-vs-np-vs-np-complete-vs-np-hard
+
+
+
+
+https://colah.github.io/posts/2015-09-Visual-Information/
+https://news.ycombinator.com/item?id=20514755
+
+
+https://www.youtube.com/user/jaketvee/videos
+
+
+
+
+https://hackernoon.com/improve-the-security-of-api-keys-v5kp3wdu
+
+
+https://hackernoon.com/10-open-source-tech-you-should-take-a-look-at-before-2020-ppho3s5o
+
+
+http://blog.arungupta.me/
+
+
+
+
+
+
+https://www.reddit.com/r/programming/comments/cgk66y/open_source_ai_chess_engine_now_beats_stockfish/
+https://www.youtube.com/watch?v=pkGa8ICQJS8
+
+
+https://github.com/ospray/ospray
+https://www.reddit.com/r/programming/comments/esosn9/github_osprayospray_an_open_scalable_portable_ray/
+
+
+http://matt.might.net/articles/what-cs-majors-should-know/
+https://news.ycombinator.com/item?id=20453241
+
+
+
+
+https://news.ycombinator.com/item?id=21431071
+
+
+
+
+https://www.youtube.com/watch?v=INja7C5_vqk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6
+
+
+https://www.reddit.com/r/programming/comments/ccph76/an_insight_into_facebook_realtime_chat/
+https://www.8bitmen.com/facebook-real-time-chat-architecture-scaling-with-over-multi-billion-messages-daily/
+
+
+
+
+https://en.wikipedia.org/wiki/Actor_model
+what is the difference with reactive apps?
+
+
+https://news.ycombinator.com/item?id=22552790
+https://greydanus.github.io/2020/03/10/lagrangian-nns/
+http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf
+
+
+https://courses.cognitiveclass.ai/courses/course-v1:developerWorks+BC0101EN+v1/courseware/76d637cbe8024e509dc445df847e6c3a/2d204ac4fa3143048a998da7e53702d7/
+module 1 done
+
+
+Netflix OSS (https://netflix.github.io) is a collection of open source tools and software produced by the NETFLIX, INC team geared toward microservice architecture. Elastic stack (https://www.elastic.co/products) (formerly known as ELK stack) is a collection of software tools, which help in monitoring and analytics of microservices developed by the Elasticsearch (https://www.elastic.co) team. 
+
+
+
+
+
+
+Erik Demaine's courses at MIT
+
+
+https://darklang.com/
+
+
+
+
+https://hackernoon.com/the-origins-and-future-of-intelligence-chapter-2-c10097b362ca
+https://hackernoon.com/inhuman-economics-part-1-finances-inflection-point-ef41ca1942f
+
+
+https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
+https://science.sciencemag.org/content/early/2019/07/10/science.aay2400
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/MapReduce
+
+
+https://www.atlassian.com/git/tutorials (if link not working : .../rewriting-history/git-rebase)
+https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/rebase
+what does git merge do?
+
+
+
+
+
+
+coursera - machine learcning - andrew ng
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=VsnQf7exv5I
+
+
+https://blog.octo.com
+
+
+
+
+https://news.ycombinator.com/item?id=21589987
+https://arxiv.org/abs/1911.05289
+The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design
+Jeffrey Dean
+
+
+
+
+http://www.dataorienteddesign.com/dodbook/
+
+
+http://nautil.us/issue/47/consciousness/roger-penrose-on-why-consciousness-does-not-compute
+https://news.ycombinator.com/item?id=20363519
+
+
+With the free plan of AWS, you can run a t2.micro(1GB Ram & 1CPU) instance for free
+https://medium.com/faun/setting-up-a-production-environment-using-our-local-development-server-and-aws-f5eea3b5be60
+
+
+
+
+https://wordsandbuttons.online/sympy_makes_math_fun_again.html
+https://news.ycombinator.com/item?id=20287486
+https://jalammar.github.io/visual-numpy/
+https://news.ycombinator.com/item?id=20282985
+
+
+https://robertheaton.com/2019/06/24/i-was-7-words-away-from-being-spear-phished/
+https://news.ycombinator.com/item?id=20283922
+
+
+
+
+
+
+https://news.ycombinator.com/item?id=20326931
+https://gethydra.sh/hydra-1.0-stable-release
+
+
+https://en.wikipedia.org/wiki/The_Toyota_Way
+https://news.ycombinator.com/item?id=20284837
+
+
+
+
+
+
+https://github.com/rtfeldman/elm-spa-example
+https://www.reddit.com/r/programming/comments/ezpoul/mint_the_programming_language_for_writing_single/
+https://nuxtjs.org/guide/
+
+
+
+
+https://learningsynths.ableton.com/
+https://news.ycombinator.com/item?id=20272346
+
+
+
+
+
+
+https://www.reddit.com/r/cpp/comments/c8ovdk/understandable_raytracing_in_256_lines_of_bare_c/
+https://www.reddit.com/r/cpp/comments/c8ovdk/understandable_raytracing_in_256_lines_of_bare_c/
+
+
+https://www.reddit.com/r/vulkan/comments/ewm069/nvidia_vulkan_ray_tracing_tutorial/
+https://nvpro-samples.github.io/vk_raytracing_tutorial/
+https://news.ycombinator.com/item?id=22771375
+https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/
+
+
+https://www.realtimerendering.com/raytracinggems/
+
+
+https://www.reddit.com/r/Python/comments/gcra5c/i_made_a_raytracer_in_python_from_scratch/
+
+
+https://github.com/s0lly/Raytracer-In-Excel
+
+
+https://blog.dominodatalab.com/data-science-at-the-new-york-times/
+https://news.ycombinator.com/item?id=20399002
+
+
+
+
+
+
+https://christophm.github.io/interpretable-ml-book/
+https://news.ycombinator.com/item?id=20390336
+
+
+https://tobydriscoll.net/blog/matlab-vs.-julia-vs.-python/
+https://news.ycombinator.com/item?id=20344675
+
+
+
+
+
+
+
+
+https://www.infoq.com/presentations/continuations-java/
+https://news.ycombinator.com/item?id=20332262
+
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Fast_Fourier_transform
+
+
+
+
+
+
+http://www.brendangregg.com/flamegraphs.html
+
+
+
+
+
+
+
+
+https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters
+https://news.ycombinator.com/item?id=20235018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://hackernoon.com/data-science-toolkit-concepts-code-20628af23cd
+
+
+
+
+http://www.eng.fsu.edu/~dommelen/quantum/style_a/sprelov.html
+
+
+https://quantiki.org/wiki/list-qc-simulators
+
+
+
+
+
+
+
+
+
+
+https://www.rascal-mpl.org/#_DSLs
+https://news.ycombinator.com/item?id=20207347
+
+
+http://blog.cleancoder.com/uncle-bob/2019/06/16/ObjectsAndDataStructures.html
+https://news.ycombinator.com/item?id=20205694
+
+
+
+
+https://blog.acolyer.org/2019/06/17/towards-multiverse-databases/
+https://news.ycombinator.com/item?id=20200127
+
+
+
+
+https://every-layout.dev/
+https://news.ycombinator.com/item?id=20196061
+
+
+
+
+
+
+
+
+
+
+[The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/mtdvio/every-programmer-should-know
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== computer science
+
+
+Computer Science Quick Reference
+https://cs.quickref.dev/
+
+
+
+
+
+
+
+
+== big data
+haddop | Hive | Pig | spark | Hsql | hbase | sqoop | hive | hql | hbase | neo4j | Alluxio
+Prometheus |  OpenTracing and Jaeger 
+  see also: portainer, sentry, papertrailapp 
+messaging: ActiveMQ, RabbitMQ
+stream: Apache Kafka (high throughput)
+stream & message: Apache Pulsar (low latency)
+messaging: NATS (high performance and low latency prioritizing performance over delivery guarantees)
+
+
+https://dzone.com/articles/ultimate-guide-to-installing-kafka-docker-on-kuber
+https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part-1
+
+
+https://spring.io/blog/2010/06/14/understanding-amqp-the-protocol-used-by-rabbitmq/
+
+
+
+
+=== data viz
+
+
+d3
+observablehq
+https://observablehq.com/@mitvis/introduction-to-d3
+
+
+kibana
+chartio (they have tutorials not only on chartio)
+
+
+https://ananasanalytics.com/
+
+
+https://www.datadoghq.com/
+
+
+== Data science
+
+
+Short article about maths
+https://www.dataquest.io/blog/math-in-data-science/
+
+
+https://machinelearningmastery.com/start-here/
+
+
+https://news.ycombinator.com/item?id=22806434
+https://dfrieds.com/articles/data-science-reality-vs-expectations.html
+ab testing
+sql analytics questions
+logistic regression
+gradient boosted trees
+
+
+[Data Science and Big Data Explained for the Non-Data Scientist](https://www.innoarchitech.com/blog/data-science-big-data-explained-non-data-scientist)
+
+
+[A CNN from scratch, Part 2](https://victorzhou.com/blog/intro-to-cnns-part-2/)
+|
+[A CNN from scratch, Part 2 (code)](https://repl.it/@vzhou842/A-CNN-from-scratch-Part-2)
+
+
+[Creating a CRNN model to recognize text in an image (Part-1)](https://theailearner.com/2019/05/29/creating-a-crnn-model-to-recognize-text-in-an-image-part-1/)
+
+
+http://www-bcf.usc.edu/~gareth/ISL/
+
+
+William S. Cleveland - DataScience: an action plan for expanding the technical areas of the fields of statistics (2001)
+
+
+ai-vs-ml: 1983
+Chapter 2. Why should machines learn
+Herbert A. Simon
+Carnigie-Melle University
+
+
+Statistical Science
+2001, Vol. 16, No. 3, 199-231
+Statistical modoling: the two cultures
+Leo Breiman
+
+
+On the likelihood that one unknow probability exceeds another in view of the evidence of two samples
+Willima R; Thompson From the Department of Pathology, Yale University.
+1933
+
+
+The Amazon Builders' Library (amazon.com)
+https://news.ycombinator.com/item?id=21714209
+
+
+https://github.com/andkret/Cookbook
+
+
+https://www.gartner.com/en/newsroom/press-releases/2019-02-18-gartner-identifies-top-10-data-and-analytics-technolo
+(from https://www.zdnet.com/article/you-can-go-your-own-graph-database-way-dgraph-secures-115m-to-pursue-its-opinionated-path/)
+
+
+
+
+tools:
+https://news.ycombinator.com/item?id=20848581
+
+
+== ai
+
+
+http://www.gameaipro.com/
+
+
+https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
+
+
+[AIKillGrandchildren](http://www.berglas.org/Articles/AIKillGrandchildren/AIKillGrandchildren.html)
+
+
+https://probcomp.github.io/Gen/tutorials.html
+
+
+ludwig (uber)
+
+
+Machine Learning - StarCraft 2 Python AI part 1
+https://www.reddit.com/r/gamedev/comments/djkm69/machine_learning_starcraft_2_python_ai_part_1/
+https://www.youtube.com/watch?v=WFugpcvIil4&feature=youtu.be
+
+
+On the Measure of Intelligence
+https://github.com/fchollet/ARC
+https://arxiv.org/abs/1911.01547
+
+
+=== computer vision
+
+
+Computer vision basics in Excel, using just formulas (github.com)
+https://news.ycombinator.com/item?id=22357374
+
+
+=== reinforcement learning
+
+
+OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+https://github.com/deepmind/open_spiel
+
+
+Spriteworld: a flexible, configurable python-based reinforcement learning environment
+https://github.com/deepmind/spriteworldSpriteWorld
+
+
+bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+https://github.com/deepmind/bsuitebsuite
+
+
+Using OpenAI Gym to train an open-source 3D printed robot
+https://github.com/nicrusso7/rex-gym
+https://news.ycombinator.com/item?id=22161693
+
+
+=== machine learning
+
+
+[D] Books, papers, content related to machine learning in production
+https://www.reddit.com/r/MachineLearning/comments/fjiciv/d_books_papers_content_related_to_machine/
+
+
+https://christophm.github.io/interpretable-ml-book/
+
+
+https://github.com/emilwallner/How-to-learn-Deep-Learning
+
+
+scikit learn
+
+
+explosion.ai (spaCy, prodigy) pronoun, article, verb, adverb
+Streamlit (Turn Python Scripts into Beautiful ML Tools)
+
+
+plotly | dash
+https://www.reddit.com/r/Python/comments/euf53h/dash_django_create_a_powerful_interactive/
+
+
+https://github.com/imdeep2905/Neural-Network-Sandbox
+
+
+==== for beginners
+
+
+https://www.blog.duomly.com/how-to-start-with-machine-learning/
+https://news.ycombinator.com/item?id=20765553
+
+
+==== articles
+
+
+AutoML-Zero: Evolving Machine Learning Algorithms from Scratch (github.com)
+https://github.com/google-research/google-research/tree/master/automl_zero
+https://news.ycombinator.com/item?id=22539117
+
+
+
+
+http://www.oranlooney.com/post/ml-from-scratch-part-2-logistic-regression/
+
+
+How I generated 1000 random faces for my game in Python
+https://itnext.io/how-i-generated-1000-random-faces-for-my-game-in-python-83340079013f
+
+
+[P] Tensorflow 2.0 implementation of EDSR, WDSR and SRGAN for single image super-resolution
+https://www.reddit.com/r/MachineLearning/comments/devpcr/p_tensorflow_20_implementation_of_edsr_wdsr_and/
+
+
+leon bottou from machine learning to machine learning paper
+
+
+https://www.reddit.com/r/MachineLearning/comments/cwdvfs/rthe_path_to_nash_equilibrium/
+https://arxiv.org/abs/1908.09021
+https://github.com/lansiz/eqpt
+
+
+https://www.reddit.com/r/MachineLearning/comments/ctmxzj/d_openais_official_774m_gpt2_model_released_15b/
+https://openai.com/blog/gpt-2-6-month-follow-up/
+https://github.com/openai/gpt-2
+  see also XLNet, BERT, ResNet-50
+  See albert 
+https://openai.com/blog/better-language-models/
+
+
+https://openai.com/blog/solving-rubiks-cube/
+
+
+https://github.com/bijection/sistine
+https://news.ycombinator.com/item?id=20624576
+
+
+https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models
+https://www.reddit.com/r/MachineLearning/comments/cd9ush/p_implementation_of_samsungs_fewshot_adversarial/
+https://arxiv.org/abs/1905.08233v1
+
+
+https://blog.floydhub.com/introduction-to-adversarial-machine-learning/
+
+
+https://www.reddit.com/r/MachineLearning/comments/bz2iwa/r_computer_vision_with_a_single_robust_classifier/
+http://gradientscience.org/robust_apps/
+
+
+https://hackernoon.com/probability-for-machine-learning-ed4b62e897f9
+
+
+https://dzone.com/articles/top-10-machine-learning-interview-questions-2019
+
+
+https://dzone.com/articles/tensorflow-with-keras-part-2-using-case-study
+
+
+https://github.com/firmai/industry-machine-learning
+
+
+
+
+https://github.com/firmai/machine-learning-asset-management
+
+
+https://www.reddit.com/r/MachineLearning/comments/cghf6r/d_nononsense_comprehensive_reading_list_for_ml_ds/
+
+
+==== Dataset
+
+
+https://blog.google/products/search/discovering-millions-datasets-web/
+https://news.ycombinator.com/item?id=22130874
+
+
+==== Maths
+
+
+https://en.wikipedia.org/wiki/Mathematical_proof
+Understand section “Methods”
+
+
+Mathematics for the adventurous self-learner
+https://news.ycombinator.com/item?id=22400375
+https://www.neilwithdata.com/mathematics-self-learner
+
+
+Mathematics for Machine Learning [pdf] (mml-book.com)
+https://news.ycombinator.com/item?id=21293132
+
+
+Books for mathematics like Feynman's lectures on physics
+https://news.ycombinator.com/item?id=21346272
+
+
+=== linear algebra
+
+
+Interactive Linear Algebra (gatech.edu) by Dan Margalit and Joseph Rabinoff
+https://textbooks.math.gatech.edu/ila/systems-of-eqns.html
+https://news.ycombinator.com/item?id=21628449
+
+
+https://news.ycombinator.com/item?id=21661545
+Matrix Calculus for Deep Learning (explained.ai)
+https://explained.ai/matrix-calculus/index.html
+
+
+==== tensorflow
+
+
+
+
+==== hidden markov models
+
+
+________________
+
+
+https://www.reddit.com/r/MachineLearning/comments/evsaoa/p_notebook_on_hidden_markov_models_hmms_in_pytorch/
+
+
+==== deep learning
+
+
+History of deep learning
+http://people.idsia.ch/~juergen/2010s-our-decade-of-deep-learning.html
+
+
+https://www.fast.ai/2017/11/16/what-you-need/
+
+
+https://news.ycombinator.com/item?id=20160693
+https://weightagnostic.github.io/
+
+
+thinc
+https://www.reddit.com/r/MachineLearning/comments/evdtm2/p_thinc_a_refreshing_functional_take_on_deep/
+
+
+neural rendering
+
+
+[A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
+
+
+[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
+
+
+https://github.com/meteofrance/formation-deep-learning
+
+
+https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books
+
+
+https://github.com/kmario23/deep-learning-drizzle
+
+
+https://paperswithcode.com/
+https://pytorch.org/hub
+[voila](https://news.ycombinator.com/item?id=20160634)
+
+
+Pytorch hydra
+
+
+https://ai.facebook.com/blog/-introducing-pytorch3d-an-open-source-library-for-3d-deep-learning/
+PyTorch: An Imperative Style, High-Performance Deep Learning Library
+https://arxiv.org/abs/1912.01703
+
+
+google ai blog:
+
+
+https://ai.google/research/pubs/pub48030
+https://news.ycombinator.com/item?id=20262235
+
+
+https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html
+https://www.reddit.com/r/MachineLearning/comments/cwmbco/r_google_ai_blog_exploring_weight_agnostic_neural/
+
+
+https://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html
+https://www.math3ma.com/blog/matrices-probability-graphs
+https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams
+https://iopscience.iop.org/article/10.1088/1751-8121/aa6dc3
+
+
+http://www.javamagazine.mozaicreader.com/MayJune2019#&pageSet=5&page=0
+https://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html
+
+
+paper:
+https://github.com/davidsandberg/facenet
+
+
+The beauty of functional languages in deep learning – Clojure and Haskell (welcometothejungle.co)
+https://news.ycombinator.com/item?id=20949974
+
+
+Building a license plate reader from scratch with deep learning (nanonets.com)
+https://news.ycombinator.com/item?id=20954147
+
+
+https://www.reddit.com/r/MachineLearning/comments/eu4ibo/r_a_gentle_introduction_to_deep_learning_for/
+
+
+=====  gpt-2
+
+
+Dungeon crawling or lucid dreaming?
+https://news.ycombinator.com/item?id=20948307
+https://www.reddit.com/r/programming/comments/f2eui5/how_we_scaled_ai_dungeon_2_to_support_over/
+https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9
+
+
+How to Make Custom AI-Generated Text with GPT-2 (minimaxir.com)
+https://news.ycombinator.com/item?id=20948480
+
+
+===== rnn
+
+
+https://victorzhou.com/blog/intro-to-rnns/
+
+
+=== persistent online environment for ai
+
+
+https://www.reddit.com/r/MachineLearning/comments/cnrrh2/p_i_made_a_persistent_online_environment_for_ai/
+https://www.terrarium.ai/
+
+
+Neural MMO
+  see also: https://ai.googleblog.com/2019/06/introducing-google-research-football.html
+
+
+https://screeps.com/
+
+
+===== speech recognition
+
+
+
+
+https://news.ycombinator.com/item?id=22154088
+
+
+article:
+
+
+https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd
+https://news.ycombinator.com/item?id=20819672
+
+
+
+
+===== nlp
+
+
+eisenstein-nlp-notes.pdf
+https://news.ycombinator.com/item?id=21327114
+https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+
+
+rasa
+Machine learning tools for developers to build, improve, and deploy contextual chatbots and assistants. Powered by open source.
+
+
+https://explosion.ai
+
+
+https://www.softkraft.co/python-nlp-libraries-features-us-cases-pros-and-cons/
+
+
+ search engine for computer science papers
+https://www.reddit.com/r/computerscience/comments/enu1hy/i_made_a_search_engine_for_computer_science/
+
+
+https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/?OCID=msr_blog_zerodeep_tw
+
+
+===== face detection
+
+
+https://github.com/justadudewhohacks/face-api.js
+
+
+https://github.com/jeeliz/jeelizFaceFilter
+
+
+== front
+
+
+===
+
+
+babel
+
+
+webpack
+
+
+=== test
+
+
+https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a
+
+
+TU
+Jest, Mocha, Jasmine, Karma, Coverage, Snon, Chai, ...
+
+
+e2e
+Puppeteer, Cypress, TestCafe, Protractor
+
+
+=== Angular
+
+
+angular ngxs
+https://github.com/immerjs/immer
+
+
+=== React
+
+
+Storybook
+
+
+https://news.ycombinator.com/item?id=22538998
+https://github.com/tannerlinsley/react-table
+
+
+https://github.com/kamranahmedse/developer-roadmap
+
+
+React generator
+https://divjoy.com/
+https://news.ycombinator.com/item?id=20688044
+
+
+static site generator: gatsby (react framework), next, hugo
+
+
+https://redux-starter-kit.js.org/introduction/quick-start
+
+
+https://fullstackopen.com/en/
+
+
+https://github.com/acdlite/react-fiber-architecture
+
+
+https://news.ycombinator.com/item?id=22537944
+https://redwoodjs.com/
+
+
+article:
+
+
+https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks
+
+
+https://tylermcginnis.com/why-react-hooks/
+check also: https://www.youtube.com/watch?v=dpw9EHDh2bM
+  from https://news.ycombinator.com/item?id=20927031
+
+
+https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh
+
+
+
+
+=== react native
+
+
+https://heartbeat.fritz.ai/airbnb-clone-with-react-native-part-1-home-screen-ui-b5ed1c9278ae
+
+
+=== svelte
+
+
+https://lihautan.com/the-svelte-compiler-handbook/
+https://news.ycombinator.com/item?id=22784153
+
+
+== ide
+
+
+=== vim
+
+
+https://begriffs.com/posts/2019-07-19-history-use-vim.html?hn=3
+https://news.ycombinator.com/item?id=20481512
+
+
+neovim
+see also: https://github.com/vhakulinen/gnvim
+
+
+== Languages
+
+
+https://insights.stackoverflow.com/survey/2018/#technology-_-most-loved-dreaded-and-wanted-languages
+Rust 78.9%
+Kotlin 75.1%
+Python 68.0%
+TypeScript 67.0%
+Go 65.6%
+
+
+
+
+
+
+https://www.reddit.com/r/rust/comments/c7z4m1/one_program_written_in_python_go_and_rust/
+http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/
+
+
+
+
+http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/
+https://news.ycombinator.com/item?id=20192645
+
+
+
+
+(How to Write a (Lisp) Interpreter (in Python))
+https://norvig.com/lispy.html
+https://news.ycombinator.com/item?id=20590439
+
+
+=== go
+
+
+https://www.learn-golang.org/
+
+
+https://tour.golang.org/flowcontrol/8
+
+
+A curated list of awesome Go frameworks, libraries and software
+
+
+Go's Tooling is an Undervalued Technology
+https://news.ycombinator.com/item?id=22113827
+
+
+https://medium.com/@adigunhammedolalekan/build-and-deploy-a-secure-rest-api-with-go-postgresql-jwt-and-gorm-6fadf3da505b
+
+
+https://www.reddit.com/r/programming/comments/fgnm8d/database_basics_writing_a_sql_database_from/
+Database basics: writing a SQL database from scratch in Go
+http://notes.eatonphil.com/database-basics.html
+
+
+
+
+=== Kotlin
+
+
+https://play.kotlinlang.org/koans/Conventions/Range%20to/Task.kt
+
+
+Des fonctions timides
+https://openclassrooms.com/fr/courses/5353106-initiez-vous-a-kotlin/5354819-ameliorez-vos-fonctions
+
+
+SimpleAST
+How Discord Renders Rich Messages on the Android App
+https://blog.discordapp.com/how-discord-renders-rich-messages-on-the-android-app-67b0e5d56fbe
+
+
+=== Rust
+
+
+Rust book
+https://doc.rust-lang.org/book/ch04-03-slices.html
+
+
+Secure Rust Guidelines
+https://anssi-fr.github.io/rust-guide/02_devenv.html
+
+
+https://livebook.manning.com/book/rust-in-action/
+https://github.com/rust-in-action/code/
+
+
+https://rust-unofficial.github.io/too-many-lists/index.html
+
+
+Rust book summary
+https://www.reddit.com/r/rust/comments/datcos/rust_book_summary/
+https://github.com/psibi/rust-book-summary
+
+
+Rust exercices
+https://github.com/rust-lang/rustlings
+
+
+https://rust-unofficial.github.io/patterns/#design-patterns
+
+
+https://www.reddit.com/r/rust/comments/cxmki8/introduction_to_rust_web_applications/
+https://erwabook.com/intro/index.html
+
+
+https://cheats.rs/
+
+
+[circular buffer](https://ferrous-systems.com/blog/lock-free-ring-buffer/)
+[circular buffer - HN](https://news.ycombinator.com/item?id=20096946)
+[circular buffer - in c++](https://www.youtube.com/watch?v=lVBvHbJsg5Y)
+
+
+[actix - web framework](https://actix.rs/)
+
+
+[https://news.ycombinator.com/item?id=20164062](Green threads explained in 200 lines of Rust (gitbook.io))
+
+
+bloom (bitbucket)
+
+
+https://nelari.us/post/raytracer_with_rust_and_zig/
+https://news.ycombinator.com/item?id=20325638
+http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
+
+
+https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/
+https://news.ycombinator.com/item?id=20511271
+
+
+https://gitlab.com/z0mbie42/rust_gui_ecosystem_overview
+https://www.reddit.com/r/rust/comments/cubg8e/rust_gui_ecosystem_overview_qt_electron_gtk/
+
+
+https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
+
+
+Article:
+
+
+https://www.reddit.com/r/rust/comments/ft1hqh/state_machines_in_rust/
+https://blog.yoshuawuyts.com/state-machines/
+
+
+https://www.reddit.com/r/rust/comments/f1y410/a_primer_to_rust_async/
+
+
+https://www.reddit.com/r/rust/comments/f1qsx9/debugging_rust_in_vscode_in_2020/
+
+
+https://jitter.company/blog/2020/01/28/measuring-space-time-behaviours-of-piano-keys-with-rust/
+https://www.reddit.com/r/rust/comments/evkkaf/we_wrote_about_our_first_embedded_rust_project/
+
+
+https://endler.dev/2019/tinysearch/
+https://www.reddit.com/r/rust/comments/dl1sw2/a_tiny_static_fulltext_search_engine_using_rust/
+
+
+AWS’ Sponsorship of the Rust Project
+https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/
+
+
+Making the Tokio scheduler 10x faster
+https://news.ycombinator.com/item?id=21249708
+https://tokio.rs/blog/2019-10-scheduler/
+
+
+https://blog.mozilla.org/nnethercote/2019/10/11/how-to-speed-up-the-rust-compiler-some-more-in-2019/
+
+
+https://www.jamesbaum.co.uk/blether/procedural-level-generation-rust/
+
+
+https://msrc-blog.microsoft.com/2019/10/08/designing-a-com-library-for-rust/
+
+
+Writing an HTTP server in Rust
+https://www.reddit.com/r/rust/comments/dgevpc/writing_an_http_server_in_rust/
+https://curiosityoverflow.xyz/posts/linda/
+
+
+=== Python
+
+
+https://www.learnpython.org/en/Loops
+
+
+
+
+https://forums.fast.ai/t/recommended-python-learning-resources/26888
+
+
+
+
+
+
+https://stxnext.com/blog/2018/09/27/beginners-introduction-python-frameworks/
+https://news.ycombinator.com/item?id=20751949
+
+
+WebDev
+- Flask
+- requests
+- Jinja2
+- SQLAlchemy
+- MarkupSafe
+
+
+DataScience
+- tensorflow
+- jupyter
+- matplotlib (see https://bids.github.io/colormap/)
+- numpy
+- pandas (https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html)
+- scipy (see https://www.quora.com/What-is-the-difference-between-NumPy-and-SciPy)
+
+
+pyenv
+tox
+
+
+A curated list of awesome Python frameworks, libraries, software and resources
+https://github.com/vinta/awesome-python
+
+
+article:
+
+
+https://jakevdp.github.io/blog/2014/05/05/introduction-to-the-python-buffer-protocol/
+
+
+https://www.data-structures-in-practice.com/hash-tables/
+
+
+=== julia
+
+
+Julia Academy: Learn ML, Parallel Programming, Julia and More (juliaacademy.com)
+https://news.ycombinator.com/item?id=20907876
+
+
+https://genieframework.com/
+
+
+try with python and julia:
+https://en.wikipedia.org/wiki/Lorenz_system
+
+
+Article:
+
+
+JuliaLang Antipatterns
+https://news.ycombinator.com/item?id=23415682
+https://white.ucc.asn.au/2020/04/19/Julia-Antipatterns.html
+
+
+https://www.analytech-solutions.com/analytech-solutions/blog/nlos.html
+https://news.ycombinator.com/item?id=20813557
+
+
+=== shell
+
+
+https://www.learnshell.org/
+
+
+Shit – An implementation of Git using POSIX shell (sr.ht)
+https://news.ycombinator.com/item?id=22303710
+         
+=== lisp 
+
+
+Technical Breakdown of a new NES game written in Lisp (dustmop.io)
+https://news.ycombinator.com/item?id=20930986
+
+
+Ray tracing with uLisp
+http://www.ulisp.com/show?2NWA
+https://news.ycombinator.com/item?id=20565559
+
+
+Do you have a problem? Write a compiler!
+http://oleg.fi/gists/posts/2019-09-26-write-a-compiler.html
+
+
+https://news.ycombinator.com/item?id=21808598
+https://m.stopa.io/macros-by-example-6ddbc8f3d93b
+
+
+=== ocam
+
+
+Functional Programming in OCaml
+lhttps://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/
+
+
+=== Java
+
+
+how to create custom validator
+
+
+http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html
+
+
+http://www.adam-bien.com/roller/abien/entry/2020_predictions
+
+
+https://www.reddit.com/r/java/comments/f5xyiq/transition_from_java_8_to_java_11/
+https://docs.microsoft.com/en-us/azure/java/jdk/transition-from-java-8-to-java-11
+    See especially jdeprscan et jdeps
+
+
+Project
+
+
+https://www.reddit.com/r/java/comments/fl5nhh/what_are_some_interesting_things_made_fr
+om_java/
+
+
+==== graal
+
+
+https://jpgough.github.io/blog/2020/03/29/hacking-graal-compiler
+
+
+==== test
+
+
+A Tool For Automatically Generating System-Level Test Cases
+https://github.com/EMResearch/EvoMaster
+
+
+==== hibernate
+
+
+lazy loading
+caching
+dirty tracking
+
+
+https://javabrains.io
+  from https://www.quora.com/What-are-the-best-sources-to-learn-hibernate
+
+
+https://thoughts-on-java.org/tips/
+
+
+
+
+jpatools (generate entités)
+
+
+https://thoughts-on-java.org/hibernate-logging-guide/
+
+
+https://jivimberg.io/blog/2018/08/04/recursive-queries-on-rdbms-with-jpa/
+
+
+https://spring.io/blog/2018/09/17/introducing-spring-data-jdbc
+
+
+https://www.baeldung.com/spring-data-jpa-save-saveandflush
+https://stackoverflow.com/questions/2471055/why-use-a-read-uncommitted-isolation-level
+
+
+https://www.marcobehler.com/guides/java-databases-jdbc-hibernate-spring-data
+
+
+==== Spring
+
+
+Tutorals (not only spring)
+https://javabrains.io/
+
+
+https://www.marcobehler.com/guides/spring-framework
+
+
+https://www.marcobehler.com/guides/spring-security
+https://www.reddit.com/r/java/comments/fvuv67/spring_security_authentication_and_authorization/
+
+
+swagger code gen
+Génération de la couche REST en utilisant le swagger.yaml
+see also: https://dzone.com/articles/doing-more-with-swaggger-and-spring
+
+
+spring jpa entity graph
+spring metrics micrometer
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+https://www.baeldung.com/rest-api-spring-oauth2-angular
+https://spring.io/guides/gs/authenticating-ldap/
+  see also: http://www.zytrax.com/books/ldap/
+https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
+https://www.baeldung.com/mockito-junit-5-extension
+
+
+https://spring.io/guides/gs/managing-transactions/
+oauth guide
+
+
+https://www.oauth.com/
+   From https://www.reddit.com/r/webdev/comments/isx7fg/oauth_20_resources_you_can_actually_understand/
+
+
+https://news.ycombinator.com/item?id=21352045
+https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+
+
+https://nordicapis.com/the-difference-between-http-auth-api-keys-and-oauth/
+
+
+Spring jpa transaction (how does it work?)
+
+
+https://dzone.com/articles/add-login-to-your-spring-boot-app-in-10-mins
+
+
+https://github.com/gothinkster/spring-boot-realworld-example-app
+https://github.com/gothinkster/realworld
+
+
+https://www.javacodegeeks.com/2011/12/spring-pitfalls-transactional-tests.html
+
+
+https://www.liquibase.org/bestpractices.html
+
+
+mybatis
+https://softwareengineering.stackexchange.com/questions/158109/what-are-the-advantages-of-mybatis-over-hibernate
+https://stackoverflow.com/questions/1984548/hibernate-vs-ibatis
+
+
+@Scheduled vs Quartz
+https://dzone.com/articles/managing-quartz-using-spring-actuator
+https://www.baeldung.com/quartz
+
+
+===== Spring batch
+
+
+https://dzone.com/articles/batch-processing-large-data-sets-with-spring-boot
+
+
+==== quarkus
+
+
+
+
+quarkus.io (java framework):
+- eclipse vert.x
+- hibernate
+- resteasy
+- apache camel
+- eclipse microprofile
+- netty
+- kubernetes 
+- openshift
+- jaeger
+- prometheus
+- apache kafka
+- infinispan
+
+
+article:
+
+
+https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
+
+
+
+
+=== groovy
+
+
+https://groovy-lang.org/documentation.html#gettingstarted
+
+
+gradle book p69 (chrome:89) - CHAPTER 5, Testing with Gradle
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/Languages/Java/Gradle/Berlund%20T.%20&%20McCullaugh%20-%20Building%20and%20Testing%20with%20Gradle%20(2011).pdf
+
+
+=== C
+
+
+https://leandromoreira.com.br/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design
+
+
+recovers JPG images from SD cards and hard drives.
+https://www.reddit.com/r/programming/comments/es3005/i_just_finished_my_first_project_in_c_the_program/
+
+
+https://hackr.io/blog/c-interview-questions
+
+
+http://home.hccnet.nl/r.helderman/adventures/htpataic01.html
+https://news.ycombinator.com/item?id=22652690
+
+
+=== nim 
+
+
+https://github.com/oakes/vim_cubed
+https://www.reddit.com/r/programming/comments/fsbbcv/vim%C2%B3_vim_rendered_on_a_cube_for_no_reason/
+
+
+=== zig
+
+
+https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Rust%3F
+
+
+https://www.reddit.com/r/programming/comments/ekx2pf/hobby_x86_kernel_written_with_zig/
+
+
+=== c++
+
+
+https://stuartwheaton.com/blog/2020-06-14-c++11-guide/#critical-changes
+
+
+[https://dirkstrauss.com/visual-studio-intellicode/](visual-studio-intellicode)
+
+
+[learncpp](https://www.learncpp.com/) chap 4 done (Fundamental Data Types)
+
+
+article:
+
+
+linkers
+https://news.ycombinator.com/item?id=20851786
+
+
+books (fron bjarne srtoustrup 10/2019):
+I recommend my Programming: Principles and Practice Using C++ (2nd Edition) for people just beginning to learn to program, and A Tour of C++ (2nd Edition) for people who are already programmers and need to know about modern C++. People with a strong mathematical background can start with Peter Gottschling‘s Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers.
+Once you start using C++ for real, you need a set of guidelines to distinguish what can be done and what is good practice. For that, I recommend the C++ Core Guidelines on GitHub.
+For good brief explanations of individual language features and standard-library functions, I recommend www.cppreference.com.
+
+
+C++ Ecosystem: Compilers, IDEs, Tools, Testing and More
+https://www.bfilipek.com/2019/10/cppecosystem.html
+
+
+https://lemire.me/blog/2020/01/14/how-fast-can-you-allocate-a-large-block-of-memory-in-c/
+https://news.ycombinator.com/item?id=22047091
+
+
+https://www.reddit.com/r/programming/comments/fcz6zo/c20_is_feature_complete_heres_what_changes_are/
+https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/
+
+
+=== Javascript
+
+
+https://www.learn-js.org/
+
+
+https://storybook.js.org/
+
+
+==== typescript
+
+
+
+
+
+
+https://news.ycombinator.com/item?id=20823565
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/#more-accurate-array-spread
+
+
+==== firebase 
+
+
+opensource Firebase alternative
+https://supabase.io/
+https://news.ycombinator.com/item?id=23319901
+
+
+
+
+https://codersera.com/blog/angular-5-tutorial-step-2-connecting-angular-with-firebase/
+
+
+https://pragli.com/blog/firebase-as-a-react-hook/
+https://news.ycombinator.com/item?id=22056536
+
+
+=== elixir
+
+
+Phoenix (web framework) ("My startup uses Phoenix, along with a Vue front-end. The combo is an absolute joy to use.")
+https://github.com/phoenixframework/phoenix
+https://www.youtube.com/watch?v=8xJzHq8ru0M&app=desktop
+https://nerves-project.org/ (building more serious software projects, more durable solutions, with less work and a nicer workflow)
+https://github.com/boydm/scenic (An independent, functional, UI framework)
+https://github.com/rusterlium/rustler (call out to some native functionality)
+
+
+=== crystal
+
+
+amber framework
+
+
+=== Ceylon
+
+
+https://ceylon-lang.org/documentation/1.3/introduction/
+
+
+=== Clojure
+
+
+A History of Clojure [pdf] (clojure.org)
+https://news.ycombinator.com/item?id=23418699
+https://clojure.org/about/history
+
+
+https://github.com/CmdrDats/igoki
+
+
+https://clojure.org/guides/getting_started
+https://clojure.org/api/cheatsheet
+https://clojure.org/community/resources
+https://clojure.org/reference/reader
+https://clojure.org/guides/learn/hashed_colls <- stopped here
+
+
+article:
+
+
+https://www.reddit.com/r/programming/comments/cypk3k/animated_particle_constellations_in_42_lines_of/
+https://github.com/yogthos/particle-constellations/blob/master/src/particle_constellations/core.cljs
+
+
+=== Clojure script
+
+
+https://www.learn-clojurescript.com/
+
+
+=== f#
+
+
+https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/
+
+
+https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp -> 
+https://docs.microsoft.com/en-us/dotnet/fsharp/tour
+
+
+article:
+
+
+https://news.ycombinator.com/item?id=20791775
+http://tomasp.net/blog/2018/write-your-own-excel/
+
+
+https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/
+
+
+=== Haskell
+
+
+https://www.reddit.com/r/programming/comments/espttv/haskell_resources_for_beginners/
+https://argumatronic.com/posts/1970-01-01-beginners.html
+
+
+http://www-cs-students.stanford.edu/~blynn/haskell/
+
+
+http://learnyouahaskell.com/chapters
+
+
+article
+
+
+Haskell in Production (felixmulder.com)
+https://news.ycombinator.com/item?id=21282647
+
+
+https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html
+https://news.ycombinator.com/item?id=21566546
+
+
+=== scala
+
+
+https://docs.scala-lang.org/tour/unified-types.html
+
+
+https://openclassrooms.com/fr/courses/409949-apprenez-la-programmation-avec-scala/409697-pourquoi-scala
+
+
+https://openclassrooms.com/fr/courses/409949-apprenez-la-programmation-avec-scala/409947-mots-cles
+
+
+https://www.learnscala.org/
+
+
+article:
+
+
+https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html
+https://alvinalexander.com/scala/fp-book-diffs-val-def-scala-functions
+
+
+=== Assembly
+
+
+
+
+Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+https://github.com/chrislgarry/Apollo-11
+
+
+blog articles:
+https://www.eejournal.com/article/ibm-gives-away-powerpc-goes-open-source/
+https://news.ycombinator.com/item?id=20824713
+
+
+https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html
+from https://news.ycombinator.com/item?id=20732867
+
+
+https://www.tutorialspoint.com/assembly_programming/assembly_environment_setup.htm
+
+
+https://docs.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference?view=vs-2019
+
+
+=== debugger
+
+
+https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1
+See other articles
+
+
+=== compiler
+
+
+Advanced Compilers: Self-Guided Online Course (cornell.edu)
+https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+
+
+
+
+
+
+== c
+
+
+
+
+
+
+== computer architecture
+
+
+Computer Architecture – Fall 2019
+https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule
+https://news.ycombinator.com/item?id=21631116
+
+
+Follow these links in this order:
+Yes, I will test you on these videos!!!
+1. how a CPU works
+https://youtu.be/cNN_tTXABUA
+2. number systems (how binary, decimal, and hex work)
+https://youtu.be/aW3qCcH6Dao
+3. hexadecimal tutorial:
+https://learn.sparkfun.com/tutorials/hexadecimal
+assembly cheatsheet:
+http://infocenter.arm.com/help/topic/com.arm.doc.qrc0001l/QRC0001_UAL.pdf
+
+
+good resources:
+http://ian.seyler.me/easy_x86-64/
+http://skilldrick.github.io/easy6502/index.html
+http://www.plantation-productions.com/Webster/www.artofasm.com/index.html
+
+
+
+
+
+
+build a computer
+https://eater.net/6502
+https://news.ycombinator.com/item?id=20974405
+
+
+Gaudi AI training processor / AI chipmaker 
+https://www.reddit.com/r/MachineLearning/comments/ebkmfj/n_intel_buys_ai_chipmaker_habana_for_2_billion/
+
+
+http://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html
+Write your own Virtual CPU in C++ (4001 CPU)
+
+
+=== network driver
+
+
+A high-speed network driver written in C, Rust, Go, C#, Java (github.com)
+https://news.ycombinator.com/item?id=20945819
+
+
+=== meta programming
+
+
+step2
+https://www.jetbrains.com/help/mps/fast-track-to-mps.html
+
+
+== programming
+
+
+Teach Yourself Programming in Ten Years
+https://norvig.com/21-days.html#answers
+
+
+=== code review 
+
+
+https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/?cb=1
+How to do a code review (google.github.io)
+https://news.ycombinator.com/item?id=20890682
+
+
+=== 3d
+
+
+https://www.realtimerendering.com/
+
+
+Distributed GPU rendering on the blockchain
+https://twitter.com/RenderToken/status/1218994166044098560
+
+
+====
+
+
+https://github.com/rougier/scientific-visualization-book
+https://news.ycombinator.com/item?id=21352631
+https://www.labri.fr/perso/nrougier/python-opengl/#python-opengl-for-scientific-visualization
+
+
+==== gpu
+
+
+https://simonschreibt.de/gat/renderhell/
+http://fragmentbuffer.com/gpu-performance-for-game-artists/
+https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline
+https://gpuopen.com/presentations/2019/nordic-game-2019-triangles-are-precious.pdf
+
+
+==== webgl
+
+
+https://www.reddit.com/r/programming/comments/cw7m2s/amazing_opengl_fluid/
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+
+
+https://www.youtube.com/watch?v=nGboy6uH-GQ
+https://www.shadertoy.com/view/MsXyzN
+
+
+WebGPU and WSL in Safari (webkit.org)
+https://news.ycombinator.com/item?id=20953942
+
+
+==== shader
+
+
+https://thebookofshaders.com/
+
+
+==== collision
+
+
+https://0fps.net/2015/01/07/collision-detection-part-1/
+
+
+=== voice recognition
+
+
+https://talonvoice.com/
+https://serenade.ai
+[2] http://kaldi-asr.org
+[3] https://serenade.ai/download
+
+
+=== building a text editor
+
+
+
+
+
+
+https://viewsourcecode.org/snaptoken/kilo/index.html
+https://news.ycombinator.com/item?id=20603567
+
+
+https://www.reddit.com/r/rust/comments/f5vpco/introducing_kibi_a_text_editor_in_1024_lines_of/
+https://github.com/ilai-deutel/kibi
+    Inspired by kilo
+
+
+http://cowlark.com/2019-06-28-cpm-vi/index.html (video)
+
+
+=== building a code formater
+
+
+The Hardest Program I've Ever Written
+http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
+https://news.ycombinator.com/item?id=22706242
+https://github.com/dart-lang/dart_style
+
+
+=== building a compiler
+
+
+https://compilers.iecc.com/crenshaw/
+Let's Build a Compiler, by Jack Crenshaw
+
+
+My First LLVM Compiler (2015) (wilfred.me.uk)
+https://news.ycombinator.com/item?id=20945762
+
+
+Ask HN: Compiler Engineers, what would you advise new grads/students to learn?
+https://news.ycombinator.com/item?id=20914046
+
+
+https://craftinginterpreters.com/
+        
+Niklaus Wirth's "Compiler Construction", which teaches how to build an Oberon subset compiler.
+https://inf.ethz.ch/personal/wirth/
+
+
+http://cowlark.com/2019-07-15-cowgol-prototype/index.html  (video)
+
+
+https://github.com/jamiebuilds/the-super-tiny-compiler
+
+
+Parallel GCC: a research project aiming to parallelize a real-world compiler (gnu.org)
+https://news.ycombinator.com/item?id=20971004
+
+
+https://github.com/sam46/Paskell
+________________
+
+
+
+
+article:
+
+
+How an Optimizing Compiler Works
+https://news.ycombinator.com/item?id=21490889
+
+
+Compiling a Functional Language Using C++
+https://news.ycombinator.com/item?id=22701857
+https://danilafe.com/blog/10_compiler_polymorphism/
+
+
+=== unix
+
+
+http://www.grymoire.com/Unix/
+
+
+https://devconnected.com/syslog-the-complete-system-administrator-guide/
+https://news.ycombinator.com/item?id=20612791
+
+
+=== algo 
+
+
+https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html
+
+
+https://lisp-univ-etc.blogspot.com/2019/08/programming-algorithms-data-structures.html
+
+
+https://gieseanw.wordpress.com/2019/05/10/algorithms-as-objects/
+https://news.ycombinator.com/item?id=20197815
+
+
+[intro to genetics algo](https://news.ycombinator.com/item?id=20118292)
+  see also space invader with genetic algo https://news.ycombinator.com/item?id=21577659
+red black tree | elm
+https://groups.google.com/forum/#!msg/elm-dev/--fK-wMoDig/p6zF4-5sAgAJ
+
+
+=== design pattern 
+
+
+source...
+https://dzone.com/refcardz/design-patterns
+
+
+=== refactoring
+
+
+https://refactoring.guru/refactoring/techniques
+
+
+== Techno
+
+
+=== serach engine
+
+
+elastic serach ( see also https://www.elastic.co/products/)
+solr
+algolia
+
+
+=== Database 
+
+
+Database migration 
+https://news.ycombinator.com/item?id=16665447 (see comments)
+also: https://www.martinfowler.com/articles/evodb.html
+
+
+https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/
+https://news.ycombinator.com/item?id=20587393
+
+
+==== sql
+
+
+https://www.learnsqlonline.org/
+
+
+
+
+https://blog.blazingdb.com/blazingsql-is-now-open-source-b859d342ec20
+
+
+https://www.masterywithsql.com/
+https://news.ycombinator.com/item?id=20260292
+
+
+SQL Murder Mystery - Can you find out whodunnit?
+http://mystery.knightlab.com/
+
+
+===== postgres
+
+
+https://postgrest.org/en/v6.0/
+
+
+https://hevodata.com/blog/postgresql-full-text-search-setup/
+  see also tsquery
+
+
+[postgres - listen/notify](https://tapoueh.org/blog/2018/07/postgresql-listen/notify/)
+
+
+https://dzone.com/articles/how-to-the-pgexercises-postgresql-tutorial-running
+https://dzone.com/articles/postgres-tips-for-the-average-and-power-user
+
+
+article:
+
+
+https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
+https://www.reddit.com/r/programming/comments/fuywwv/10_things_i_hate_about_postgresql/
+
+
+https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/
+https://news.ycombinator.com/item?id=22766681
+
+
+Aquameta: Web development platform built in PostgreSQL (github.com)
+https://news.ycombinator.com/item?id=21281042
+
+
+==== column db
+
+
+https://dzone.com/articles/an-introduction-to-apache-cassandra
+
+
+==== graph db
+
+
+Dgraph
+
+
+
+
+less popular:
+Most popular among them are Cypher, open sourced by Neo4j, and Gremlin, part of the open source Apache Tinkerpop project. 
+
+
+===== graphql
+
+
+graphql
+https://news.ycombinator.com/item?id=20356808
+&
+https://dzone.com/articles/moving-beyond-rest-with-graphql
+
+
+https://dev.to/yvonnickfrin/mock-your-graphql-server-realistically-with-faker-js-25oo
+
+
+==== redis
+
+
+Redis 
+
+
+https://oss.redislabs.com/redisearch/
+
+
+=== DevOps
+
+
+devops
+
+
+Road map to DevOps
+https://ilhicas.com/2019/08/11/What-you-as-a-Devops.html
+https://ilhicas.com/assets/images/devops-roadmap.png
+
+
+https://medium.com/rate-engineering/using-docker-containers-as-development-machines-4de8199fc662
+
+
+https://github.com/moby/moby
+
+
+how to integrate testing in a spring project
+https://github.com/hamvocke/spring-testing
+https://martinfowler.com/articles/practical-test-pyramid.html
+
+
+docker assemble
+docker app
+docker template
+docker buildx
+docker context
+
+
+container format: docker | rkt | oci
+
+
+https://jenkins.io/doc/tutorials/
+
+
+https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/
+https://blog.docker.com/2017/07/multi-stage-builds/
+https://dzone.com/articles/know-more-about-devops-culture-sdlc-and-agile-deve
+
+
+
+
+https://medium.com/rate-engineering/using-docker-containers-as-development-machines-4de8199fc662
+
+
+terraform (https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
+  see also: https://medium.com/@timhberry/terraform-pipelines-in-gitlab-415b9d842596
+ansible (see https://github.com/dessalines/lemmy/ it uses ansible)
+packer
+puppet
+vagrant
+  https://www.vagrantup.com/docs/provisioning/ansible_intro.html
+  DONE https://www.youtube.com/watch?v=TtQqhp-wjY4
+  https://www.youtube.com/watch?v=jBiueVhDg1Q
+  https://www.youtube.com/watch?v=gumSW5eNm_0
+nagios
+
+
+git hooks
+
+
+https://dzone.com/articles/cicd-pipelines-to-run-unit-testing-in-docker-video
+
+
+github actions
+  https://jeffrafter.com/working-with-github-actions/
+Github workspace
+  https://github.blog/2020-03-16-npm-is-joining-github/
+https://github.com/npm/rfcs/blob/de8d71c0453f5cf443d3ef2f47e313f12dd6aaf9/accepted/0000-workspaces.md
+
+
+  https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/
+  https://news.ycombinator.com/item?id=20646350
+TravisCI
+CirlcleCI
+Jenkins | Blueocean | Jenkins X
+Drone
+Concourse
+gitlab ci 
+  https://learn.gitlab.com/c/youtube-41?x=eK9OiC&utm_medium=email&utm_source=marketo&utm_campaign=cicdcmp2&utm_content=gitlabcidemonoshow
+  https://about.gitlab.com/blog/2016/12/14/continuous-delivery-of-a-spring-boot-application-with-gitlab-ci-and-kubernetes/
+
+
+Helm (package manager for kubernetes)
+
+
+Minikube
+Apache Airflow (see also Cloud Composer)
+
+
+https://kubesphere.io/
+https://github.com/kubesphere/kubesphere
+
+
+https://n8n.io/
+
+
+article 
+
+
+https://dzone.com/articles/achieve-cicd-with-jenkins-x-kubernetes-and-spring
+
+
+==== docker
+
+
+Docker swarm
+https://docs.docker.com/engine/swarm/key-concepts/
+    See also https://www.docker.com/blog/realtime-cluster-monitoring-docker-swarm-riemann/
+
+
+https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
+https://github.com/bottlerocket-os/bottlerocket
+https://news.ycombinator.com/item?id=22539403
+
+
+https://github.com/docker/labs/tree/master/developer-tools/java/
+
+
+https://docker-hy.github.io/
+
+
+Reducing Docker Image Size (ardanlabs.com)
+https://news.ycombinator.com/item?id=22369080
+https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html
+
+
+==== kubernetes
+
+
+https://www.learncloudnative.com/blog/2020-05-26-getting-started-with-kubernetes-part-1/
+
+
+Tanka – Kubernetes Deployment System by Grafana Labs
+https://news.ycombinator.com/item?id=22011251
+
+
+A Gentle introduction to Kubernetes with more than just the basics (github.com)
+https://news.ycombinator.com/item?id=21021184
+
+
+https://github.com/cuelang/cue/blob/master/doc/tutorial/kubernetes/README.md
+
+
+artivle:
+
+
+https://news.ycombinator.com/item?id=22617684
+https://ttt.io/anatomy-of-my-kubernetes-cluster
+
+
+https://www.reddit.com/r/programming/comments/fdic1p/lets_use_kubernetes_now_you_have_8_problems/
+https://pythonspeed.com/articles/dont-need-kubernetes/
+
+
+https://unixism.net/2019/08/a-managers-guide-to-kubernetes-adoption/
+https://news.ycombinator.com/item?id=20847996
+
+
+A Kubernetes/GKE mistake that cost me thousands of dollars (medium.com)
+https://news.ycombinator.com/item?id=20968330
+
+
+==== gradle
+
+
+https://alexkudlick.com/blog/building-modular-java-applications-with-gradle/
+
+
+==== git
+
+
+99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org)
+https://news.ycombinator.com/item?id=21189256
+
+
+https://mukulrathi.com/git-beginner-cheatsheet/
+
+
+https://www.daolf.com/posts/git-series-part-1/
+https://www.reddit.com/r/programming/comments/ex5rzh/understanding_git_for_real_by_exploring_the_git/
+
+
+=== Security
+
+
+https://www.html5rocks.com/en/tutorials/cors/
+
+
+CSRF is really dead
+https://news.ycombinator.com/item?id=20900276
+
+
+https://github.com/vasanthk/web-security-basics
+https://github.com/vasanthk/how-web-works
+https://news.ycombinator.com/item?id=20189668
+
+
+https://pagedout.institute/?page=issues.php
+https://www.reddit.com/r/programming/comments/coxyhh/paged_out_issue_1_is_out_its_a_free_ezine_about/
+
+
+https://cheatsheetseries.owasp.org/
+
+
+[The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
+
+
+https://dzone.com/articles/trust-but-verify-your-jwts
+https://blog.angular-university.io/angular-jwt-authentication/
+
+
+https://news.ycombinator.com/item?id=22355790
+https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-three/
+
+
+DLL hijacking techniques
+
+
+article:
+
+
+https://news.ycombinator.com/item?id=22808121
+https://miscdotgeek.com/curlytp-every-web-server-is-a-dead-drop/
+
+
+https://news.ycombinator.com/item?id=22802645
+https://matrix.org/blog/2020/04/06/running-your-own-secure-communication-service-with-matrix-and-jitsi
+
+
+https://blog.jonlu.ca/posts/safeway
+https://news.ycombinator.com/item?id=21250421
+
+
+Elliptic Curve Cryptography Explained
+https://news.ycombinator.com/item?id=21182982
+https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/
+
+
+A Graduate Course in Applied Cryptography (cryptobook.us)
+https://news.ycombinator.com/item?id=22980003
+https://toc.cryptobook.us/
+
+
+https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html
+https://news.ycombinator.com/item?id=20835223
+
+
+https://www.reddit.com/r/rust/comments/dvc9mf/announcing_the_bytecode_alliance_building_a/
+  see also spectre
+
+
+Blog
+
+
+https://www.aldeid.com/wiki/Ptrace-anti-debugging
+
+
+=== game cheat
+________________
+
+
+How anti-cheats catch hackers using thread heuristics
+https://www.reddit.com/r/programming/comments/enqlr3/how_anticheats_catch_hackers_using_thread/
+
+
+=== web browser security
+
+
+https://news.ycombinator.com/item?id=21259108
+https://restoreprivacy.com/firefox-privacy/
+
+
+=== network
+
+
+https://datprotocol.github.io/how-dat-works/
+https://news.ycombinator.com/item?id=20363813
+
+
+https://ietf.org/blog/whats-happening-quic/
+https://www.reddit.com/r/programming/comments/eubd1i/quic_the_next_tcp/
+
+
+[Matrix | SMTP](https://news.ycombinator.com/item?id=20157809)
+
+
+Setup VPN with forticlient
+Openvpn
+Wireguard (see https://news.ycombinator.com/item?id=22724768)
+  Also https://miguelmota.com/blog/getting-started-with-wireguard/
+          https://news.ycombinator.com/item?id=22788584
+
+
+article 
+
+
+https://www.petri.com/create-nat-rules-hyper-v-nat-virtual-switch
+
+
+
+
+=== cloud
+
+
+Amazon Web Services
+Each service explained in one line
+https://adayinthelifeof.nl/2020/05/20/aws.html
+
+
+https://dzone.com/articles/microsoft-azure-vs-amazon-web-services-a-cloud-pla
+https://hackr.io/blog/google-cloud-vs-aws-vs-azure
+
+
+https://news.ycombinator.com/item?id=22608106
+https://hassenchaieb.com/aws-good-parts/
+
+
+https://news.ycombinator.com/item?id=21804939
+https://www.cockroachlabs.com/blog/2020-cloud-report/#
+
+
+=== Testing
+
+
+https://martinfowler.com/articles/practical-test-pyramid.html
+
+
+consumer driven contract testing,
+https://github.com/pact-foundation/pact-ruby
+
+
+=== api rest
+
+
+https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf
+
+
+api platfrom
+
+
+https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+openAPI (code gen) / oauth / basic auth / jwt  
+fastapi (python)
+Spring REST Docs
+https://learning.getpostman.com/docs/postman/sending_api_requests/authorization/
+Postman API
+
+
+https://dzone.com/articles/restful-webservices-with-spring-boot-gradle-hateos
+see also JSON-LD
+
+
+=== Microservices
+
+
+testing with pact:
+https://martinfowler.com/articles/practical-test-pyramid.html
+
+
+https://www.reddit.com/r/java/comments/f7s6f3/github_oraclehelidon_java_libraries_for_writing/
+
+
+articles:
+
+
+https://www.freecodecamp.org/news/testing-microservices-are-they-production-ready-2/
+https://www.reddit.com/r/programming/comments/fmweur/how_to_test_microservices_to_make_sure_they_are/
+
+
+https://dev.to/heroku/best-practices-for-event-driven-microservice-architecture-2lh7
+
+
+https://dzone.com/articles/microservices-in-the-cloud-part-one
+https://dzone.com/articles/microservices-in-the-cloud-part-two
+
+
+https://dzone.com/articles/microservices-observability
+
+
+https://dzone.com/articles/business-intelligence-in-microservices-improving-p
+
+
+https://dzone.com/articles/deploy-a-spring-boot-microservice-architecture-to
+
+
+https://dzone.com/articles/design-patterns-for-microservices-1
+
+
+=== api management
+
+
+https://dzone.com/articles/api-management-additional-considerations
+
+
+[Apigee](https://cloud.google.com/apigee/)
+
+
+free solution:
+[Kong](https://konghq.com/)
+Otoroshi 
+[wso2](https://wso2.com/) 
+https://wso2.com/api-management/
+
+
+api gateway
+
+
+portainer
+istio
+
+
+=== free software
+
+
+[local first](https://www.inkandswitch.com/local-first.html)
+
+
+https://standardebooks.org/about/
+http://www.gutenberg.org/
+https://archive.org/
+
+
+=== crypto money
+
+
+[ETH](https://en.wikipedia.org/wiki/Ethereum)
+[XMR](https://en.wikipedia.org/wiki/Monero_(cryptocurrency))
+[BTC](https://en.wikipedia.org/wiki/Bitcoin)
+
+
+[desentralized web](https://news.ycombinator.com/item?id=20137918)
+
+
+=== server
+
+
+==== nginx
+
+
+https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/#location-blocks
+
+
+see also how to configure an apache server
+
+
+==== serverless app
+
+
+[Your Server as a Function](https://monkey.org/~marius/funsrv.pdf)
+
+
+interesting discussion:
+https://news.ycombinator.com/item?id=21046547
+
+
+=== Android
+
+
+https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f
+https://proandroiddev.com/android-architecture-d7405db1361c
+
+
+=== web scrapping
+
+
+https://www.statworx.com/de/blog/web-scraping-101-in-python-with-requests-beautifulsoup/
+
+
+https://www.freecodecamp.org/news/web-scraping-101-in-python/
+https://www.scrapingninja.co/blog/web-scraping-101-with-python
+https://www.reddit.com/r/programming/comments/cuf4q5/web_scraping_101_in_python/
+
+
+
+
+https://www.reddit.com/r/java/comments/fgejtx/the_java_web_scraping_handbook_free_130_pages/
+https://www.scrapingbee.com/java-webscraping-book/
+
+
+==== http
+
+
+article:
+
+
+https://stackoverflow.com/questions/10636611/how-does-access-control-allow-origin-header-work
+
+
+https://www.keycdn.com/blog/http-cache-headers
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control
+https://github.com/jhipster/jhipster/blob/master/jhipster-framework/src/main/java/io/github/jhipster/web/filter/CachingHttpHeadersFilter.java
+
+
+==== html
+
+
+https://htmldom.dev/
+how to manage HTML DOM with vanilla JavaScript only?
+
+
+
+
+https://www.learn-html.org/
+
+
+==== css
+
+
+Show HN: Cyberpunk web design made easy, really easy (augmented-ui.com)
+https://news.ycombinator.com/item?id=20923792
+
+
+===== sass
+http://getbem.com/introduction/ (voir :scope)
+https://en.bem.info/
+  start with quick start
+
+
+https://material.io/
+https://materializecss.com/
+
+
+https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
+
+
+article:
+
+
+https://www.zendevs.xyz/cest-quoi-la-fusion-de-marge-en-css/
+https://www.web4college.com/questions/methods-for-vertical-centering.php
+
+
+=== distributed system
+
+
+Distributed system in go
+MIT's 6.824 Distributed Systems course is taught in Go.
+https://pdos.csail.mit.edu/6.824/index.html
+https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21...
+
+
+praxos
+https://lamport.azurewebsites.net/tla/paxos-algorithm.html
+https://news.ycombinator.com/item?id=20837663
+
+
+blockchain
+paxos 
+raft
+
+
+article:
+
+
+https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+https://news.ycombinator.com/item?id=20227499
+
+
+Distributed system in rust
+https://github.com/pingcap/talent-plan/tree/master/dss
+
+
+https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-postgresql/
+https://news.ycombinator.com/item?id=20760324
+
+
+== Engineering
+
+
+=== Software
+
+
+
+
+https://12factor.net/dependencies
+
+
+https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html
+https://news.ycombinator.com/item?id=20794861
+
+
+=== Management
+
+
+trell | quire
+https://dzone.com/articles/top-12-best-task-management-software-for-creative
+
+
+https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/
+https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ/htmlview?sle=true#
+https://news.ycombinator.com/item?id=20530046
+
+
+== Science 
+
+
+https://sciencetonnante.wordpress.com/2011/02/28/les-cycles-de-milankovitch/
+
+
+[free text book](https://it.wisc.edu/news/6-sites-for-free-alternative-textbooks/)
+[free text book](http://www.openculture.com/free_textbooks)
+
+
+[No boundary universe](https://news.ycombinator.com/item?id=20114964)
+
+
+=== rocket science
+
+
+17:17
+https://www.youtube.com/watch?v=HESOat2iPzU
+
+
+=== theorical physics
+
+
+http://www.goodtheorist.science/
+http://www.damtp.cam.ac.uk/user/tong/teaching.html
+
+
+=== quantum theory
+
+
+Thirty Years That Shook Physics, by Gamow, is a great popularisation of the early days of quantum theory, from a historical point of view
+
+
+Conceptual Physics, by Hewitt, is an excellent intro to much of physics
+
+
+MIT Physics Series’ Introduction to Quantum Theory (I think that’s the right title but I can’t recall for sure) is a very good early-undergraduate intro to quantum theory
+
+
+Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles by Eisberg & Resnick is another excellent intro and it’s similar in difficulty level to the MIT Physics Series above, but goes much farther
+
+
+MIT Opencourseware is a good place to start
+
+
+C++ framework
+http://www.second-quantization.com
+
+
+=== Electronics
+
+
+http://sam.zeloof.xyz/category/semiconductor/
+https://news.ycombinator.com/item?id=20657398
+
+
+FPGA design for Software Engineers
+https://www.walknsqualk.com/post/014-tiny-fpga-bx/
+  see in particular: Starting with Electronics
+
+
+https://ultimateelectronicsbook.com/#superposition
+
+
+http://www.righto.com/2014/05/reverse-engineering-tl431-most-common.html
+https://news.ycombinator.com/item?id=22885819
+
+
+=== Maths
+
+
+Be a Better Programmer with these 45 Mathematics Courses
+https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2
+
+
+https://blog.stephenwolfram.com/2019/07/mitchell-feigenbaum-1944-2019-4-66920160910299067185320382/
+
+
+[Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-and-code/)
+
+
+[z3 guide](https://rise4fun.com/Z3/tutorial/guide)
+
+
+[CTF z3](https://anee.me/solving-a-simple-crackme-using-z3-68c55af7f7b1)
+|
+[Mandlebrot](https://scionofbytes.me/misc/generating-mandelbrot-fractals/)
+
+
+[Foundations of Mathematics (2015)](http://www.mathetal.net/data/book1.pdf)
+
+
+Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
+https://www.reddit.com/r/MachineLearning/comments/dhj7t5/algebra_topology_differential_calculus_and/
+https://www.cis.upenn.edu/~jean/math-deep.pdf
+
+
+==== category theory
+
+
+Category Theory is in our minds? Bartosz Milewski weighs in.
+https://corecursive.com/category-theory-is-how-our-minds-work-with-bartosz-milewski/
+see also:
+  https://news.ycombinator.com/item?id=21242713
+  https://news.ycombinator.com/item?id=9651828
+
+
+==== Theorem prover
+
+
+https://news.ycombinator.com/item?id=20909404
+http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/msr.pdf
+
+
+https://arend-lang.github.io/
+https://news.ycombinator.com/item?id=20630319
+
+
+===== lean
+
+
+https://leanprover.github.io/theorem_proving_in_lean/dependent_type_theory.html
+
+
+==== Information theory
+
+
+Information Theory for Intelligent People (2018) [pdf] (santafe.edu)
+For another perspective of "the study of information in the social world", check out "Variational ecology and the physics of sentient systems" (https://www.sciencedirect.com/science/article/pii/S157106451...). Also based on information theory, released just a few months after op paper.
+
+
+==== fourier transform
+
+
+An Interactive Introduction to Fourier Transforms
+https://github.com/Jezzamonn/fourier
+
+
+==== statistics
+
+
+The Little Handbook of Statistical Practice
+Gerard E. Dallal, PhD
+http://www.jerrydallal.com/LHSP/LHSP.htm
+
+
+=== physics
+
+
+https://physicstravelguide.com/start
+Physics Travel Guide – Physics concepts explained in three levels of difficulty 
+https://news.ycombinator.com/item?id=22757466
+
+
+
+
+== Socio eco
+
+
+=== Economy
+
+
+==== Quantitative economy
+
+
+Lectures in Quantitative Economics with Python [pdf] (quantecon.org)
+https://news.ycombinator.com/item?id=21022620
+
+
+=== trading
+
+
+https://www.investopedia.com/terms
+[investopedia](https://www.investopedia.com/articles/markets/050614/introduction-dark-pools.asp)
+
+
+Great depression
+Financial crisis of 2007-2008
+
+
+=== Social
+
+
+[Be a better codder](https://www.recurse.com/manual)
+
+
+=== Communication 
+
+
+https://news.ycombinator.com/item?id=21263894
+https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1
+
+
+BLUF: A military standard to make writing more powerful (animalz.co)
+https://news.ycombinator.com/item?id=20964907
+https://www.animalz.co/blog/bottom-line-up-front/
+
+
+https://www.improveyoursocialskills.com/basic-social-skills-guide
+https://news.ycombinator.com/item?id=21585235
+
+
+==== Documentation
+
+
+https://www.divio.com/blog/documentation/
+
+
+== Video games
+
+
+=== open source games
+
+
+https://archive.org/details/gamesourcecode
+
+
+[Open Source Game Clones](https://osgameclones.com/)
+
+
+
+
+=== procedural gen
+
+
+[elite proc universe](https://news.ycombinator.com/item?id=20145984)
+
+
+Flying through procedural clouds and mountains
+https://www.reddit.com/r/proceduralgeneration/comments/demicl/flying_through_procedural_clouds_and_mountains/
+Hello! Here's a little video of my current progress with procedural cloud generation.
+I'm creating them by layering 3d worley noise, and then raymarching through that to calculate lighting. If you'd like to know more about it, I've made a little video about my process: https://youtu.be/4QOcCGI6xOU
+I would love to hear your thoughts about how they could be improved!
+The mountains are generated with simplex noise + a crude hydraulic erosion simulation to try make them look more natural.
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/fu81pl/my_first_attempt_at_volumetric_clouds/
+https://www.shadertoy.com/view/ttcSD8
+
+
+https://www.reddit.com/r/Physics/comments/deiw4w/interactive_fluid_simulation/
+  see also http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/fak5zz/procedural_asteroid_generation_in_rust_and/
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/f2b9q5/essay_series_on_creating_generative_art_with/
+https://tylerxhobbs.com/essays
+https://tylerxhobbs.com/essays/2015/using-quil-for-artwork
+
+
+Townhouses generated using Wave Function Collapse
+https://www.reddit.com/r/proceduralgeneration/comments/fz7rng/townhouses_generated_using_wave_function_collapse/
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/g40hdv/first_attempt_at_a_2d_rpg_world_generator_rivers/
+    https://en.wikipedia.org/wiki/OpenSimplex_noise
+    https://en.wikipedia.org/wiki/Flood_fill
+
+
+
+
+https://gamedev.ru/code/articles/grass_raycast
+http://www.thetenthplanet.de/archives/1180
+    From ttps://www.reddit.com/r/proceduralgeneration/comments/g5wtfb/im_reworking_my_terrain_shader_to_add_some_grass/fo6gtvs?utm_source=share&utm_medium=web2x
+
+
+== Series TV
+
+
+The Twilight Zone
+black mirror
+chernobyl - mini series TV
+
+
+
+
+== Film / movie
+
+
+Her (about AI)
+
+
+== music
+
+
+=== piano
+________________
+
+
+https://fundamentals-of-piano-practice.readthedocs.io/
+
+
+== books 
+
+
+https://www.reddit.com/r/programming/comments/irap6v/some_great_books_for_programmers_that/
+https://medium.com/@mickael.riga.79/some-great-books-for-programmers-that-stackoverflow-cannot-replace-514773b273a3
+
+
+All The Math Books You’ll Ever Need
+https://mathblog.com/mathematics-books/
+
+
+https://news.ycombinator.com/item?id=23485477
+the greatest and most useful textbooks
+
+
+https://link.springer.com/book/10.1007%2F978-3-662-46950-7
+
+
+https://www.reddit.com/r/programming/comments/hssbl9/a_list_of_free_programming_ebooks/
+https://ebookfoundation.github.io/free-programming-books/free-programming-books.html#linux
+
+
+https://www.reddit.com/r/MachineLearning/comments/i0l5m9/p_ive_asked_a_dozen_researchers_about_their/
+https://mentorcruise.com/books/ml/
+
+
+https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality
+http://www.hpmor.com/
+
+
+ Lois Lowry, The Giver.
+https://en.wikipedia.org/wiki/The_Giver
+
+
+Ask HN: Mind bending books to read and never be the same as before?
+https://news.ycombinator.com/item?id=23151144
+
+
+https://www.reddit.com/r/java/comments/g3udy2/any_book_rec_of_the_caliber_of_effective_java_and/
+https://blogs.oracle.com/javamagazine/book-review-archive
+   Check oracle book list
+
+
+https://compilerbook.com/
+Could not find this one:
+filetype:pdf thorsten ball Writing A compiler In Go
+
+
+https://zeroequalsfalse.com/posts/programming-books-you-wish-you-read-earlier/
+https://www.reddit.com/r/computerscience/comments/fqftyy/programming_books_you_wish_you_read_earlier/
+
+
+The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal
+
+
+Albert Camus - the plague
+
+
+Hamlet
+
+
+Tolstoy, Leo - War and Peace
+
+
+SF sci-fi
+Story of Your Life
+Novella by Ted Chiang
+
+
+Foundation (Asimov)
+Dune(Herbert)
+Enders’s Game (OSC)
+Neuromance (Gibson)
+Snow Crash (Stephenson)
+Fire Upon The Deep (Vinge)
+The Moon is a Harsh Mistress for Heinlein, Lucifer’s Hammer by Niven & Pournelle
+ Starhammer & Stainless Steel Rat
+
+
+3 books:
+Surely your joking mr feyman
+What do you care waht they say
+… ?
+
+
+Got 3rd Edition 
+ peter norvig Artificial Intelligence A Modern Approach 4th edition
+
+
+Could not find
+filetype:pdf vitanyi kolmogorov complexity
+
+
+Could not find 
+nicholas alchin theory of knowledge 2nd edition
+
+
+https://www.reddit.com/r/programming/comments/f9ut5f/the_most_recommended_programming_books_of_alltime/
+
+
+From https://github.com/dwmkerr/hacker-laws#reading-list :
+* Extreme Programming Installed - Ron Jeffries, Ann Anderson, Chet Hendrikson - Covers the core principles of Extreme Programming.
+* The Mythical Man Month - Frederick P. Brooks Jr. - A classic volume on software engineering. Brooks' Law is a central theme of the book.
+* Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter. - This book is difficult to classify. Hofstadter's Law is from the book.
+* The Dilbert Principle - Scott Adams - A comic look at corporate America, from the author who created the Dilbert Principle.
+* The Peter Principle - Lawrence J. Peter - Another comic look at the challenges of larger organisations and people management, the source of The Peter Principle.
+
+
+
+
+In Pursuit of the Unknown: 17 Equations That Changed the World
+Book by Ian Stewart
+
+
+
+
+From a john carmack lecture:
+Hackers: Heroes of the Computer Revolution
+- Paul Graham's esseys
+- The Unix-Haters Handbook
+
+
+UNIX: A History and a Memoir by Brian Kernighan.
+https://en.wikipedia.org/wiki/History_of_Unix
+https://en.wikipedia.org/wiki/Unix_philosophy
+https://en.wikipedia.org/wiki/C_%28programming_language%29
+
+
+The Soul of a New Machine
+Book by Tracy Kidder
+
+
+The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer
+Novel by Sydney Padua
+
+
+The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal
+
+
+Turing’s Cathedral
+Book by George Dyson
+
+
+Clifford Stoll, Cuckoo's Egg
+
+
+"The Computer and The Brain" by John von Neumann 
+
+
+"The Road Ahead" by Bill Gates is an interesting look into what Bill envisioned for the Internet. It came with a CD-ROM full of videos of how devices would be used in schools and workplaces (I thonk law enforcement too if I remember correctly). The videos are much better than the book.
+"The Second Coming of Steve Jobs" was eye opening for me regarding the life of Jobs, his family life, and his business involvements.
+
+
+"Close to the Machine" by Ellen Ullman is the memoir of a software developer in the 80s. I need to read this one again, but it was enjoyable. I think about one part in particular from time to time where the author recounts being offered a job to work on an aging mainframe. The man pitching the job is probably the last person around who's dedicated to maintaining it. She would have made a lot of money doing it, but the work itself looked to be soul draining, so she skipped it fpr pther opportunities
+
+
+"The Fugitive Game" by Jonathan Littman documents the story of Kevin Mitnick, the so-called most wanted hacker alive. Certainly has some surprises and is a fun read.
+
+
+Pretty much anything by Norbert Wiener regarding cybernetics is interesting from a historical perspective. I've read several but the one that comes to mind immediately is "God and Golem, Inc". While unfinished, it goes into cybernetics, which was a practice or idea that technology could interface with biological life in a complementary way and those ways should be pursued. I think he was ultimately successful since we take a lot of those ideas for granted today.
+
+
+* "IBM's 360 and Early 370 Systems " https://mitpress.mit.edu/books/ibms-360-and-early-370-systems
+
+
+* "Broad Band: The Untold Story of the Women Who Made the Internet" https://www.goodreads.com/book/show/35953464-broad-band
+
+
+* "Fire in the Valley: The Making of the Personal Computer
+https://www.goodreads.com/book/show/1427580.Fire_in_the_Valley
+
+
+
+
+K. C. Cole - The Universe and the Teacup: The Mathematics of Truth and Beauty
+
+
+machine learning (from Daniel Bourke):
+
+
+https://www.dropbox.com/s/e38nil1dnl7481q/machine_learning.pdf?dl=0
+
+
+Python for Data Analysis
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/machine%20learning/Data%20Science/Python/McKinnery,%20Wes%20-%20Python%20for%20Data%20Analysis%20(2013).pdf
+
+
+Geron, A. - Hands-On Machine Learning with Scikit-Learn & TensorFlow (2017)
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/machine%20learning/Geron,%20A.%20-%20Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20&%20TensorFlow%20(2017).pdf
+
+
+https://mlbook.explained.ai/
+
+
+Burkov, Andriy - The Hundred-Page Machine Learning Book (2019)
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/Machine%20learning/Burkov,%20Andriy%20-%20The%20Hundred-Page%20Machine%20Learning%20Book%20(2019).pdf
+
+
+https://www.deeplearningbook.org/
+
+
+
+
+read in order:
+An Introduction to Statistical Learning with Applications in R (Gareth et al 2017)
+Geron, A. - Hands-On Machine Learning with Scikit-Learn & TensorFlow (2017)
+The Elements of Statistical Learning (Hastie et. al. 2009) 
+
+
+more on ML:
+Stevens, E. & Antiga, L. - Deep Learning with PyTorch (2019)
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/Machine%20learning/Stevens,%20E.%20&%20Antiga,%20L.%20-%20Deep%20Learning%20with%20PyTorch%20(2019).pdf
+
+
+https://jakevdp.github.io/PythonDataScienceHandbook/
+Jake VanderPlas
+
+
+AI: from Conférence Cédric Villani - L'Intelligence Artificielle
+Stuart Russel, Peter Norvig - Artificial Intelligence - A Modern Approach
+  Also from Peter Norvig Paradigms of AI Programming 
+Murray Shanahan - The technological singurality
+David Breyer - The future of machine intelligence
+
+
+The little schemer (p7)
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/Languages/Scheme/Freidman,%20Daniel%20P%20-%20The%20Little%20Schemer%204th%20(1996).pdf
+https://repl.it/languages/scheme
+
+
+ConceptsBiology-OP_u37jtpq p14
+file:///C:/Users/mgemard/Documents/ASI/book/openstax/Science/ConceptsBiology-OP_u37jtpq.pdf
+
+
+jhipster p 160 (test)
+Full stack developement with jhipster
+
+
+
+
+p152 - (Configuring Jenkins)
+Continious delivery with docker and jenkins
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/DevOps/Leszko,%20Rafat%20-%20continuous-delivery-with-docker-and-jenkins%20(2017).pdf
+
+
+
+
+Hands-On Object-Oriented Programming with Kotlin p18
+file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/Languages/Kotlin/Khan,%20A.%20&%20Kucherenko,%20I.%20-%20Hands-On%20Object-Oriented%20Programming%20with%20Kotlin%20(2018).pdf
+
+
+Krochmalski, J - Docker and Kubernetes for Java Developers (2017)
+
+
+
+
+
+
+book: microservices-for-java-developers
+
+
+https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century
+https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels
+
+
+Clean code - chap 11
+[How to Design Programs-An Introduction to Computing and Programming](https://htdp.org/2003-09-26/Book/curriculum.html)
+
+
+[The Scheme Programming Language](https://www.scheme.com/tspl4/)
+
+
+[Schrödinger E. - What is life?](http://www.whatislife.ie/downloads/What-is-Life.pdf)
+
+
+
+
+the pragmatic programmer (https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+code complete
+hacker hero
+Operating systems in three easy steps (100% must read and it’s free)
+
+
+Thinking, Fast and Slow by Daniel Kahneman
+Richard Sutton's Reinforcement Learning book
+
+
+
+
+intro to programming
+https://papl.cs.brown.edu/2018/index.html
+
+
+https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/
+"But this low number of 2% surprised me because when I was at Yale, everybody kept talking about how broke they were."
+https://news.ycombinator.com/item?id=20663997
+
+
+book: tao of physics
+
+
+machine learning books
+
+
+https://lisp-univ-etc.blogspot.com/2019/07/programming-algorithms-book.html
+
+
+Book from naval: 
+ Adam Smith’s The Wealth of Nations
+ Darwin’s Origin of the Species
+    See also https://news.ycombinator.com/item?id=22615215
+    https://phys.org/news/2020-03-darwin-evolution-theories-cambridge.html
+Eighth Day of Creation by Watson and Crick
+ Neil Degrasse Tyson and Stephen Hawking
+Richard Feynman’s Six Easy Pieces
+Donald Knuth’s books on algorithms
+Feynman’s lectures on physics
+micro/macroeconomy
+
+
+https://github.com/arpitjindal97/technology_books
+
+
+Superintelligence: Paths, Dangers, Strategies" by Professor Nick 
+
+
+Adams, Douglas - The ultimate Hitchhiker's Guide (1996)
+
+
+Ignition!: An informal history of liquid rocket propellants by John D. Clark
+Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel,
+
+
+Benjamin Franklin: An American Life  by Walter Isaacson.
+
+
+Howard Hughes: His Life and Madness by Donald L. Barlett and James B. Steele. 
+
+
+ Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life 
+
+
+Kleppman, Martin - designing-data-intensive-applications (2017)
+
+
+
+
+https://arxiv.org/pdf/1306.0159.pdf
+
+
+
+
+I’m still a big fan of the “Lisp 1.5 Programmers Manual” (MIT Press — still in print). This version of the language is no longer with us, but the book — first written ca 1962 — by John McCarthy, who invented, and his colleagues, who implemented, is a perfect classic.
+
+
+It starts with a version of John’s first papers about Lisp, and develops the ideas in a few pages of examples to culminate on page 13 with Lisp eval and apply defined in itself. There are many other thought provoking ideas and examples throughout the rest of the book.
+
+
+The way to grow from this book is to deeply learn what they did and how they did it, and then try to rewrite page 13 in a number of ways. How nicely can this be written in “a lisp” using recursion. How nicely can this be written without recursion? (In both cases, look ahead in the book to see that Lisp 1.5 had gotten to the idea of EXPRs and FEXPRs (functions which don’t eval their arguments before the call — thus they can be used to replace all the “special forms” — do a Lisp made from FEXPRs and get the rest by definition, etc.).
+
+
+What is a neat bootstrapping path? How could you combine this with Val Shorre’s “Meta II” programmatic parser to make a really extensible language? What does it take to get to “objects”? What are three or four really interesting (and different ways) to think about objects here? (Hints: how many different ways can you define “closures” in a language that executes? What about using Lisp atoms as a model for objects? Etc.)
+
+
+The idea is that Lisp is not just a language but a really deep “building material” that is tidy enough to “think with” not just make things (it’s a “building material” for thoughts as well as computer processes).
+
+
+Dani Richard reminded me to mention: “Computation: Finite and Infinite Machines” by Marvin Minsky (Prentice-Hall, 1967), which — since it is one of my favorite books of all time — I’m surprised I didn’t include in the original list. Marvin could really write, and in this book he is at his best. It is actually a “math book” — with lots of ideas, theorems, proofs, etc., — but presented in the friendliest way imaginable by a great mind who treated everyone — including children — as equal to him, and as fellow appreciators of great ideas. There are lots of interesting things to ponder in this book, but perhaps it is the approach that beckons to the reader to start thinking “like this” that is the most rewarding.
+
+
+“Advances in Programming and Non-Numerical Computation” (Ed. L. Fox) mid-60s. The papers presented at a 1963 summer workshop in the UK. The most provocative ones were by Christopher Strachey and several by Peter Landin. This was one of the books that Bob Barton had us read in his famous advanced systems design class in 1967.
+
+
+Try “The Mythical Man-Month” by Fred Brooks, for an early look and experience with timeless truths (and gotchas) from systems building with teams …
+
+
+Try “The Sciences of the Artificial” by Herb Simon. A much stronger way to think about computing — and what “Computer Science” might mean — by a much stronger thinker than most today.
+
+
+“A Programming Language” by Ken Iverson (ca 1962). This has the same thought expanding properties of Lisp. And, like Lisp, the way to learn from these really old ideas is to concentrate on what is unique and powerful in the approach (we know how to better improve both Lisp and APL today, but the deep essence is perhaps easier to grasp in the original manifestations of the ideas). Another book that Barton had us read.
+
+
+I like Dave Fisher’s 1970 CMU Thesis — “Control Structures for Programming Languages” — most especially the first 100 pages. Still a real gem for helping to think about design and implementations.
+
+
+More recent: (80s) “The Meta-Object Protocol” by Kiczales, et al. The first section and example is a must to read and understand.
+
+
+Joe Armstrong’s PhD thesis — after many years of valuable experience with Erlang — was published as a book ca 2003 …
+
+
+Jordan Peterson books collection (* means not read and ? might be at vertou lib):
+* 1. Man’s Search for Meaning by Viktor Frankl; https://amzn.to/2PoQcix 
+* 2. How to Spend $50 Billion to Make the World a Better Place by Björn Lomborg; https://amzn.to/2GAqQKC 
+* 3. Modern Man in Search of A Soul by Carl Jung; https://amzn.to/2IMqgvU 
+4. Brave New World by Aldous Huxley; https://amzn.to/2Gtp4uB 
+5. The Idiot by Fyodor Dostoyevsky; https://amzn.to/2XAOA81 
+6. Beyond Good And Evil by Friedrich Nietzsche; https://amzn.to/2XHBNAV 
+* 7. The Road to Wigan Pier by George Orwell; https://amzn.to/2XAOGwp 
+* 8. A History of Religious Ideas by Mircea Eliade;
+PART I: https://amzn.to/2DutFvU 
+PART II: https://amzn.to/2DttBMN 
+PART III: https://amzn.to/2GsUqBp 
+9. A Farewell to Arms by Ernest Hemingway; https://amzn.to/2IAmFlj 
+* 10. THe World’s Religions by Huston Smith; https://amzn.to/2ICJHbi 
+* 11. Affective Neuroscience by Jaak Panksepp; https://amzn.to/2GtuBRO 
+12. The Grapes of Wrath by John Steinbeck; https://amzn.to/2PscrUu 
+* 13. Notes From The Underground by Fyodor Dostoyevsky; https://amzn.to/2VmDyG0 
+14. The Red and the Black by Stendhal; https://amzn.to/2GAK02G 
+15. The Gulag Archipelago by Aleksandr Solzhenitsyn; https://amzn.to/2Gzv30L 
+* 16. Maps of Meaning: The Architecture of Belief by Jordan Peterson; https://amzn.to/2DtUW1s 
+
+
+James Barrat - Our Final Invention (recommended by elon musk)
+
+
+pinoccio
+peter pan
+
+
+from https://news.ycombinator.com/item?id=21332072
+rework by basecamp
+This is marketing by Seth Godin
+Get into a "starter mindset" by reading and then do.
+
+
+Wizard Book
+Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
+
+
+Computer Science: An Interdisciplinary Approach
+Book by Kevin Wayne and Robert Sedgewick
+
+
+1. How to Win Friends and Influence People - Dale Carnagy
+2. You Can Negotiate Anything - Herb Cohrn
+3. The Millionaire Next Door - Thomas J. Stanly
+4. Predictably Irrational - Dan Ariely 
+5. Tough Time Never Lasts but Tough People Do - Robert Schuller 
+6. Think and Grow Rich - Napoleon Hill 
+7.  7 Habits of Highly Effective People - Stephen Covey
+8.  Why You Act the Way You Do - Tim Lahaye
+9.  Rich Dad Poor Dad - Robert Kiyosaki
+10.  The Richest Man in Babylon - George S Clason
+
+
+https://www.reddit.com/r/computerscience/comments/eljg2w/what_are_some_interesting_nonacademic_books_that/
+In particulary: Godel, Escher, Bach: an Eternal Golden Braid -> see also: I am a strange loop dou Douglas Hofstadter
+And Algorithms to live by
+
+
+Cathy o’neil’s - weapons of mass destruction
+
+
+== Psychology
+
+
+The Myth of Mental Illness
+Book by Thomas Szasz
+
+
+
+
+== chess
+
+
+https://blitzstream.fr/selection-de-livres-pour-bien-jouer-les-finales-aux-echecs/
+https://blitzstream.fr/selection-de-livres-echecs-pour-progresser-en-milieu-de-jeu-a-partir-de-1700/
+
+
+# Education
+
+
+## Wikipedia:Vital articles
+
+
+https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+
+
+
+
+
+
+#####
+
+
+L’auverniat
+Les copains d’abord
+Pauvre soldat revient de guerre
+Le petit bal perdu
+Plaisir d’amoud
+Les petites femmes de pigales
+Les trois cloches
+Voulez-vous danser grand-mere
+Guantanamera
