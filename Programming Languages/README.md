@@ -21,8 +21,9 @@
 
 ## Java
 
-[Book] [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch [[Drive](https://drive.google.com/drive/search?q=bloch%20effective%20java)  
+[Book] [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997) by Joshua Bloch [[Drive](https://drive.google.com/drive/search?q=bloch%20effective%20java)]  
 
+[Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html) by Angelika Langer  
 ## Kotlin
 
 [Kotlin Official Documentation](https://kotlinlang.org/docs)  
