@@ -43,6 +43,7 @@
 
 ##	Computer graphics and visualization
 
+[Book] [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) by Gabriel Gambetta  
 ## Game Engine
 
 [Book] [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459) by Jason Gregory [[Drive](https://drive.google.com/drive/search?q=gregory%20Game%20engine%20architecture)]  

@@ -859,6 +859,8 @@ https://news.ycombinator.com/item?id=24233229
     From comments: 
     https://ki.infil.net/w02-netcode-p2.html
     https://gabrielgambetta.com/client-server-gadu
+      https://gabrielgambetta.com/client-server-game-architecture.html
+      https://gabrielgambetta.com/generic-search.html
 me-architecture.html
     https://gafferongames.com/categories/game-networking/
 https://gameprogrammingpatterns.com/contents.html
@@ -2653,6 +2655,9 @@ https://cs.quickref.dev/
 
 
 == big data
+
+https://arrow.apache.org/docs/
+
 haddop | Hive | Pig | spark | Hsql | hbase | sqoop | hive | hql | hbase | neo4j | Alluxio
 Prometheus |  OpenTracing and Jaeger 
   see also: portainer, sentry, papertrailapp 
@@ -3395,9 +3400,10 @@ https://www.reddit.com/r/rust/comments/cubg8e/rust_gui_ecosystem_overview_qt_ele
 
 https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 
-
 Article:
 
+https://www.reddit.com/r/rust/comments/lazq0i/rust_made_my_open_source_project_1000x_faster/
+https://github.com/opticdev/optic
 
 https://www.reddit.com/r/rust/comments/ft1hqh/state_machines_in_rust/
 https://blog.yoshuawuyts.com/state-machines/
@@ -3438,6 +3444,7 @@ https://msrc-blog.microsoft.com/2019/10/08/designing-a-com-library-for-rust/
 Writing an HTTP server in Rust
 https://www.reddit.com/r/rust/comments/dgevpc/writing_an_http_server_in_rust/
 https://curiosityoverflow.xyz/posts/linda/
+
 
 
 === Python
@@ -5222,6 +5229,8 @@ https://www.shadertoy.com/view/ttcSD8
 https://www.reddit.com/r/Physics/comments/deiw4w/interactive_fluid_simulation/
   see also http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html
 
+https://codepen.io/PavelDoGreat/pen/zdWzEL
+https://www.reddit.com/r/webdev/comments/ld1xv1/webgl_fluid_simulation/
 
 https://www.reddit.com/r/proceduralgeneration/comments/fak5zz/procedural_asteroid_generation_in_rust_and/
 
