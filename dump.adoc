@@ -144,6 +144,8 @@ https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
 ********************************************
 ```````
 
+https://robotmoon.com/ssh-tunnels/
+https://news.ycombinator.com/item?id=26053323
 
 Firefox tabs
 https://cnot.io/background/comp_sci/
@@ -785,6 +787,8 @@ https://www.reddit.com/r/cpp/comments/hpz198/best_practices_for_a_c_programmer/
 https://www.reddit.com/r/rust/comments/huja76/blog_post_three_architectures_for_a_responsive_ide/
 https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html
 
+https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html
+https://github.com/rust-analyzer/rust-analyzer/blob/d7c99931d05e3723d878bea5dc26766791fa4e69/docs/dev/architecture.md
 
 https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
 
@@ -798,6 +802,14 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
  
 ``` LESS MUST READ PART 2
 
+https://github.com/kailau02/Dolly-Zoom
+
+https://github.com/Soldat/soldat
+https://news.ycombinator.com/item?id=26058312
+
+Veloren – Open-source MMORPG written in Rust (veloren.net)
+https://news.ycombinator.com/item?id=26037461
+https://veloren.net/
 
 https://64.github.io/cmake-raytracer/
 
@@ -5284,6 +5296,10 @@ https://fundamentals-of-piano-practice.readthedocs.io/
 
 == books 
 
+The Elements of Computing Systems, Second Edition
+Building a Modern Computer from First Principles
+By Noam Nisan and Shimon Schocken
+2nd edition
 
 https://www.reddit.com/r/programming/comments/irap6v/some_great_books_for_programmers_that/
 https://medium.com/@mickael.riga.79/some-great-books-for-programmers-that-stackoverflow-cannot-replace-514773b273a3
