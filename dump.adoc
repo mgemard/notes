@@ -543,6 +543,7 @@ Read everything
 ```
 MUST READ
 
+https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html
 
 https://openai.com/blog/dall-e/
 

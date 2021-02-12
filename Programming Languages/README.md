@@ -41,6 +41,9 @@
 
 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) 
 
+## Python
+
+[What the f*ck Python!](https://github.com/satwikkansal/wtfpython) by Satwik Kansal
 ## Rust
 
  [The Rust Programming Language](https://doc.rust-lang.org/book/)  

@@ -28,6 +28,7 @@
 
 [Book] [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) (2017) by Martin Kleppmann [[Drive](https://drive.google.com/drive/search?q=kleppmann%20designing%20data%20intensive%20application)]  
 
+[Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) by Unmesh Joshi
 ##	Computer networks
 
 
