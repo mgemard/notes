@@ -8,6 +8,8 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+https://beej.us/guide/bgnet/html/
+https://news.ycombinator.com/item?id=26100075
 
 https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python/
 
@@ -665,6 +667,7 @@ https://github.com/kettle11/LD46
 
 Less must read part 1
 
+https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 
 Ask HN: Top Coursera Courses?
 https://news.ycombinator.com/item?id=25245125
@@ -4499,6 +4502,9 @@ https://github.com/kubesphere/kubesphere
 
 
 https://n8n.io/
+
+Kubernetes Failure Stories
+https://k8s.af/
 
 
 article 
