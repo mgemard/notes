@@ -141,10 +141,18 @@ How does it works?
 https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
 
 
+********************************************
+```` 5 min read
+
+https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 
 
 ********************************************
 ```````
+
+
+https://github.com/haltakov/natural-language-youtube-search
+https://news.ycombinator.com/item?id=26118756
 
 https://robotmoon.com/ssh-tunnels/
 https://news.ycombinator.com/item?id=26053323
@@ -486,12 +494,10 @@ https://blog.soshace.com/list-of-coding-games-to-practice-improve-your-programmi
 https://www.reddit.com/r/programming/comments/fxp13i/list_of_coding_games_to_practice_improve_your/
 
 
-https://github.com/danistefanovic/build-your-own-x
-
-
+Site Reliability Engineering (SRE)
 https://landing.google.com/sre/books/
 https://news.ycombinator.com/item?id=22815453
-
+  not related: https://github.com/upgundecha/howtheysre
 
 computer architecture
 https://www.nand2tetris.org/
@@ -1800,8 +1806,6 @@ https://openclassrooms.com/en/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-
 https://openclassrooms.com/fr/courses/4525296-maitrisez-les-bases-des-probabilites/5415741-decouvrez-les-notions-de-covariance-et-de-correlation-lineaire stopped here
 
 
-https://github.com/danistefanovic/build-your-own-x
-
 
 p21
 file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/AI/Machine%20learning/Liu,%20Yuxi%20(Hayden)%20-%20python%20machine%20learning%20by%20example%20(2019).pdf
@@ -2836,6 +2840,9 @@ https://news.ycombinator.com/item?id=22161693
 
 === machine learning
 
+https://github.com/aaronwangy/Data-Science-Cheatsheet
+
+https://blog.datasciencedojo.com/machine-learning-algorithms/
 
 [D] Books, papers, content related to machine learning in production
 https://www.reddit.com/r/MachineLearning/comments/fjiciv/d_books_papers_content_related_to_machine/
@@ -5302,6 +5309,11 @@ https://fundamentals-of-piano-practice.readthedocs.io/
 
 
 == books 
+
+https://pragprog.com/titles/swdddf/domain-modeling-made-functional/
+Domain Modeling Made Functional
+Tackle Software Complexity with Domain-Driven Design and F#
+by Scott Wlaschin
 
 The Elements of Computing Systems, Second Edition
 Building a Modern Computer from First Principles

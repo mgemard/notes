@@ -35,8 +35,8 @@
 
 ##	Computer security and cryptography
 
-[Mozilla Infosec](https://infosec.mozilla.org/)
-
+[Mozilla Infosec](https://infosec.mozilla.org/)  
+[OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)  
 
 ##	Databases and data mining
 

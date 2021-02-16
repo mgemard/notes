@@ -46,13 +46,14 @@
 [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) by Satwik Kansal
 ## Rust
 
- [The Rust Programming Language](https://doc.rust-lang.org/book/)  
+[The Rust Programming Language](https://doc.rust-lang.org/book/)  
 [The Rust Performance Book](https://nnethercote.github.io/perf-book/)  
 [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
 
 [Rust by Example](https://doc.rust-lang.org/rust-by-example)  
 [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)  
 
+[Rustlings](https://github.com/rust-lang/rustlings)  
 ## Scala
 
 [The Official Scala Book](https://docs.scala-lang.org/overviews/scala-book/introduction.html)  
@@ -67,5 +68,8 @@
 
 ## TypeScript
 
-[TypeScript Documentation](https://www.typescriptlang.org/docs)
+[TypeScript Documentation](https://www.typescriptlang.org/docs)  
 
+## Zig
+
+[ziglings](https://github.com/ratfactor/ziglings)  
