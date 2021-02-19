@@ -140,16 +140,23 @@ How does it works?
 
 https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
 
-
+https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind
+https://news.ycombinator.com/item?id=26175894
+   compare with bash: (the comment "A lot of these can be easily done in Bash, too!")
+   https://stackoverflow.com/questions/4200800/in-bash-how-do-i-bind-a-function-key-to-a-command
+   
 ********************************************
 ```` 5 min read
 
 https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 
+https://www.reddit.com/r/programming/comments/livw57/svg_the_good_the_bad_and_the_ugly/
+https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ********************************************
 ```````
 
+what is the difference between a compiler, jit compiler and interpreter
 
 https://github.com/haltakov/natural-language-youtube-search
 https://news.ycombinator.com/item?id=26118756
@@ -601,7 +608,8 @@ https://www.mit.edu/~amidi/teaching/data-science-tools/
 
 https://www.reddit.com/r/programming/comments/ibaok7/factorio_and_software_engineering/
 https://blog.nindalf.com/posts/factorio-and-software-engineering/
-
+    related: https://bartoszmilewski.com/2021/02/16/functorio/ 
+       note: his blog is interesting
 
 A guide to learning algorithms through LeetCode (github.com)
 https://news.ycombinator.com/item?id=24167297
@@ -3405,9 +3413,6 @@ https://cheats.rs/
 [https://news.ycombinator.com/item?id=20164062](Green threads explained in 200 lines of Rust (gitbook.io))
 
 
-bloom (bitbucket)
-
-
 https://nelari.us/post/raytracer_with_rust_and_zig/
 https://news.ycombinator.com/item?id=20325638
 http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
@@ -3419,7 +3424,7 @@ https://news.ycombinator.com/item?id=20511271
 
 https://gitlab.com/z0mbie42/rust_gui_ecosystem_overview
 https://www.reddit.com/r/rust/comments/cubg8e/rust_gui_ecosystem_overview_qt_electron_gtk/
-
+    see also https://tauri.studio/en/ (rust based electron)
 
 https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 

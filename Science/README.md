@@ -23,8 +23,12 @@
 
 ## Mathematics
 
-[Book] [An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.amazon.com/Invitation-Applied-Category-Theory-Compositionality/dp/1108711820)
-by Brendan Fong and David I. Spivak [[Drive](https://drive.google.com/drive/search?q=fong%20invitation%20applied%20theory)]
+### Category Theory
+
+[Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski
+
+[Book] [An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.amazon.com/Invitation-Applied-Category-Theory-Compositionality/dp/1108711820) by Brendan Fong and David I. Spivak [[Drive](https://drive.google.com/drive/search?q=fong%20invitation%20applied%20theory)]
+
 
 ## Philosophy
 

@@ -44,6 +44,9 @@
 ## Python
 
 [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) by Satwik Kansal
+
+
+[Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) by Qingkai Kong, Timmy Siauw and Alexandre Bayen  
 ## Rust
 
 [The Rust Programming Language](https://doc.rust-lang.org/book/)  
