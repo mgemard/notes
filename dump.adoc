@@ -1712,6 +1712,8 @@ deployment
 https://christine.website/blog/the-cult-of-kubernetes-2019-09-07
 https://news.ycombinator.com/item?id=20915626
 
+https://free-for.dev/#/
+https://news.ycombinator.com/item?id=26239711
 
 https://www.pythonanywhere.com/
 
