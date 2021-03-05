@@ -8,10 +8,14 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
-https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives
 https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel/4451521-metamorphosez-vos-applications-temps-reel-avec-kafka
    also: https://kafka-tutorials.confluent.io/
+         spring boot kafka
 
+
+https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives
+   also see other spark tutorials
+   
 https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 
 https://beej.us/guide/bgnet/html/
