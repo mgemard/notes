@@ -8,6 +8,12 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives
+https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel/4451521-metamorphosez-vos-applications-temps-reel-avec-kafka
+   also: https://kafka-tutorials.confluent.io/
+
+https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+
 https://beej.us/guide/bgnet/html/
 https://news.ycombinator.com/item?id=26100075
 
@@ -155,6 +161,10 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ********************************************
 ```````
+
+https://news.ycombinator.com/item?id=26337046
+https://www.mattkeeter.com/blog/2021-03-01-happen/
+  https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
 
 what is the difference between a compiler, jit compiler and interpreter
 
@@ -641,7 +651,6 @@ https://modelpredict.com/python-dependency-management-tools
 https://www.reddit.com/r/Python/comments/gul5zp/70_code_profiles_of_common_python_algorithms/
 
 
-https://raytracing.github.io/
 
 
 https://www.reddit.com/r/datascience/comments/h9q7im/things_i_learned_while_building_machine_learning/
@@ -657,7 +666,7 @@ https://mathematical-tours.github.io/
 http://www.numerical-tours.com/
 
 
-https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
 
 
 https://blog.education-ecosystem.com/machine-learning-projects-to-practice-during-quarantine/
@@ -819,6 +828,7 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
 
  
 ``` LESS MUST READ PART 2
+
 
 https://github.com/kailau02/Dolly-Zoom
 
@@ -2498,20 +2508,6 @@ https://news.ycombinator.com/item?id=20272346
 
 
 
-
-https://www.reddit.com/r/cpp/comments/c8ovdk/understandable_raytracing_in_256_lines_of_bare_c/
-https://www.reddit.com/r/cpp/comments/c8ovdk/understandable_raytracing_in_256_lines_of_bare_c/
-
-
-https://www.reddit.com/r/vulkan/comments/ewm069/nvidia_vulkan_ray_tracing_tutorial/
-https://nvpro-samples.github.io/vk_raytracing_tutorial/
-https://news.ycombinator.com/item?id=22771375
-https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/
-
-
-https://www.realtimerendering.com/raytracinggems/
-
-
 https://www.reddit.com/r/Python/comments/gcra5c/i_made_a_raytracer_in_python_from_scratch/
 
 
@@ -3286,6 +3282,8 @@ https://news.ycombinator.com/item?id=22784153
 
 === vim
 
+https://www.reddit.com/r/programming/comments/ltm4vh/a_vim_guide_for_advanced_users/
+https://thevaluable.dev/vim-advanced/
 
 https://begriffs.com/posts/2019-07-19-history-use-vim.html?hn=3
 https://news.ycombinator.com/item?id=20481512
@@ -3416,9 +3414,6 @@ https://cheats.rs/
 [https://news.ycombinator.com/item?id=20164062](Green threads explained in 200 lines of Rust (gitbook.io))
 
 
-https://nelari.us/post/raytracer_with_rust_and_zig/
-https://news.ycombinator.com/item?id=20325638
-http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
 
 
 https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/
@@ -4009,7 +4004,14 @@ https://alvinalexander.com/scala/fp-book-diffs-val-def-scala-functions
 
 === Assembly
 
+https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+https://www.reddit.com/r/programming/comments/lw0cyi/a_fundamental_introduction_to_x86_assembly/
 
+assembly
+https://stackoverflow.com/a/3527083/5818405
+https://www.gladir.com/CODER/index.htm
+   (x86, awk, ...)
+https://en.wikibooks.org/wiki/X86_Assembly#Table_of_Contents
 
 
 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -4144,6 +4146,31 @@ https://twitter.com/RenderToken/status/1218994166044098560
 https://github.com/rougier/scientific-visualization-book
 https://news.ycombinator.com/item?id=21352631
 https://www.labri.fr/perso/nrougier/python-opengl/#python-opengl-for-scientific-visualization
+
+==== ray tracing
+
+https://www.reddit.com/r/rust/comments/lukgyi/c_to_rust_introduction_with_practical_raytracing/
+https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/
+
+https://raytracing.github.io/
+
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+https://www.reddit.com/r/cpp/comments/c8ovdk/understandable_raytracing_in_256_lines_of_bare_c/
+https://www.reddit.com/r/cpp/comments/c8ovdk/understandable_raytracing_in_256_lines_of_bare_c/
+
+
+https://www.reddit.com/r/vulkan/comments/ewm069/nvidia_vulkan_ray_tracing_tutorial/
+https://nvpro-samples.github.io/vk_raytracing_tutorial/
+https://news.ycombinator.com/item?id=22771375
+https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/
+
+
+https://www.realtimerendering.com/raytracinggems/
+
+https://nelari.us/post/raytracer_with_rust_and_zig/
+https://news.ycombinator.com/item?id=20325638
+http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf
 
 
 ==== gpu
@@ -4915,10 +4942,14 @@ article:
 https://stackoverflow.com/questions/10636611/how-does-access-control-allow-origin-header-work
 
 
+===== http cache
+
 https://www.keycdn.com/blog/http-cache-headers
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control
 https://github.com/jhipster/jhipster/blob/master/jhipster-framework/src/main/java/io/github/jhipster/web/filter/CachingHttpHeadersFilter.java
 
+https://httptoolkit.tech/blog/http-wtf/
+https://news.ycombinator.com/item?id=26343577
 
 ==== html
 
@@ -4934,6 +4965,8 @@ https://www.learn-html.org/
 
 ==== css
 
+https://codepen.io/amit_sheen/pen/PobQjMX
+https://www.reddit.com/r/webdev/comments/lvum75/not_oc_if_anyone_tells_you_html_css_cant_be_real/
 
 Show HN: Cyberpunk web design made easy, really easy (augmented-ui.com)
 https://news.ycombinator.com/item?id=20923792
