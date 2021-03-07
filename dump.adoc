@@ -5824,6 +5824,7 @@ And Algorithms to live by
 Cathy o’neil’s - weapons of mass destruction
 
 
+
 == Psychology
 
 
@@ -5839,6 +5840,10 @@ Book by Thomas Szasz
 https://blitzstream.fr/selection-de-livres-pour-bien-jouer-les-finales-aux-echecs/
 https://blitzstream.fr/selection-de-livres-echecs-pour-progresser-en-milieu-de-jeu-a-partir-de-1700/
 
+
+== Arabic
+
+https://www.lebanesearabicinstitute.com/arabic-alphabet/
 
 # Education
 
