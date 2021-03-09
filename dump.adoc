@@ -155,6 +155,8 @@ https://news.ycombinator.com/item?id=26175894
    compare with bash: (the comment "A lot of these can be easily done in Bash, too!")
    https://stackoverflow.com/questions/4200800/in-bash-how-do-i-bind-a-function-key-to-a-command
    
+   https://github.com/xqbase/xqwlight/tree/master/JavaScript
+
 ********************************************
 ```` 5 min read
 
@@ -4619,6 +4621,129 @@ https://news.ycombinator.com/item?id=20847996
 A Kubernetes/GKE mistake that cost me thousands of dollars (medium.com)
 https://news.ycombinator.com/item?id=20968330
 
+=====
+
+scala pas scalable
+
+java vertical
+nodejs horizontal
+?
+
+erlang vs elixir
+
+https://adoptingerlang.org/
+
+
+chroot
+https://systemzone.net/
+unix jails
+cgroups
+netns
+systemd-nspawnd
+lxc
+nmap
+
+
+cri
+cni
+contenaired(recommande)
+cri-o(a connaitre pour kubernetes)
+podman(en local)
+rockt
+
+https://cloud.google.com/kubernetes-engine/kubernetes-comic
+
+monolithe
+IBM i/Z
+Java
+C++
+
+Microservices
+
+
+Monolith
+Virtual machine
+Microservice
+Serverless
+KNative OpenWhisk, OpenFAAS, Kubeless
+
+KNative  commence par assambly (ou un truc commme ça j'ai pas le nom exacte) comme ingress
+
+dapr (backed by microsoft)
+
+https://knative.dev/
+
+l'avenir se voit en:
+https://dapr.io/
+wasm
+
+hype cycle
+
+
+** Cloud
+- Mise a dispo par API
+- Facturation a la conso
+- Multitentants
+OpenShift, VMware Tanzu
+
+** Industrialisation (massification). knative (knative est a la mode) -> kubernetes -> containerd
+- Orchestration(elasticite)
+- Ordonnancement (scheduler)
+
+** Decouplage
+Par contenu (java, erlang)
+Par contenant: VM (hyperviseurs), conteneurs (CRI)
+Docker, cri-o, containerd, ESXi, KVM, Hyper-V, ...
+
+
+www.12factor.net
+
+how to get stating (differentes approaches):
+- keysley hightower kubernetes the hard way (from scratch)
+- minikube
+- kubeadm (on utilisera celui la)
+En passant par une distribution
+- openshift (super)
+- VMware Tanzu (super mais un peu moins que openshift)
+- k8s rancher (un peu moins bien que tanzu)
+
+kubectl: gestion de l'infra
+kubeadm: deploiement de l'infra
+
+Reseau supervise:
+flannel kubernetes
+calico kubernetes
+
+nslookpup
+
+ovirt
+proxmox
+ganeti
+busybox
+
+https://github.com/lucky-sideburn/KubeInvaders
+
+https://hsto.org/webt/nj/pq/ea/njpqeaqfbddxy9zhvyidqwazgua.png
+
+hashicorp nomad
+nomad autoscaling
+
+vimtutor
+vimgolf
+
+MB Mb Mi
+hpa deployment
+nas file
+iscsi
+
+
+dd if=/dev/zero bs=1M count=1023 > /DISK
+hexdump -C ./DISK
+sudo losetup /dev/loop9 ......
+
+pervirt
+novm google
+
 
 ==== gradle
 
@@ -5854,6 +5979,9 @@ https://www.lebanesearabicinstitute.com/arabic-alphabet/
 https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
 
 
+
+
+#####
 
 
 
