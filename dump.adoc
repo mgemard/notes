@@ -5156,6 +5156,8 @@ https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
 
 article:
 
+https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/
+https://news.ycombinator.com/item?id=26422286
 
 https://www.zendevs.xyz/cest-quoi-la-fusion-de-marge-en-css/
 https://www.web4college.com/questions/methods-for-vertical-centering.php
