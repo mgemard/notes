@@ -160,6 +160,12 @@ https://news.ycombinator.com/item?id=26175894
 ********************************************
 ```` 5 min read
 
+https://kevinlynagh.com/rust-zig/
+https://www.reddit.com/top/?t=week
+
+https://theta.eu.org/2021/03/08/async-rust-2.html
+https://news.ycombinator.com/item?id=26406989
+
 https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 
 https://www.reddit.com/r/programming/comments/livw57/svg_the_good_the_bad_and_the_ugly/
@@ -167,6 +173,10 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ********************************************
 ```````
+
+https://www.reddit.com/r/programming/comments/lzyg7f/linux_is_now_on_mars_and_available_on_github/
+https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars
+https://github.com/nasa/fprime
 
 https://news.ycombinator.com/item?id=26337046
 https://www.mattkeeter.com/blog/2021-03-01-happen/
@@ -1297,8 +1307,10 @@ https://webwormhole.io/
 https://github.com/saljam/webwormhole
 
 
-regex
-https://refrf.shreyasminocha.me/
+
+
+
+
 
 
 https://www.reddit.com/r/Python/comments/gbko3e/deving_an_app_to_help_visualize_data_from_any/
@@ -3624,7 +3636,7 @@ om_java/
 https://jpgough.github.io/blog/2020/03/29/hacking-graal-compiler
 
 
-==== test
+==== testing
 
 
 A Tool For Automatically Generating System-Level Test Cases
@@ -3716,9 +3728,6 @@ Spring jpa transaction (how does it work?)
 
 https://dzone.com/articles/add-login-to-your-spring-boot-app-in-10-mins
 
-
-https://github.com/gothinkster/spring-boot-realworld-example-app
-https://github.com/gothinkster/realworld
 
 
 https://www.javacodegeeks.com/2011/12/spring-pitfalls-transactional-tests.html
@@ -3813,6 +3822,11 @@ https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Ru
 
 https://www.reddit.com/r/programming/comments/ekx2pf/hobby_x86_kernel_written_with_zig/
 
+
+==== article
+
+https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome
+https://news.ycombinator.com/item?id=26416531
 
 === c++
 
@@ -4124,8 +4138,18 @@ https://www.jetbrains.com/help/mps/fast-track-to-mps.html
 == programming
 
 
+
 Teach Yourself Programming in Ten Years
 https://norvig.com/21-days.html#answers
+
+=== programming game
+
+
+==== regex game
+
+regex
+http://jimbly.github.io/regex-crossword/
+https://regexcrossword.com/
 
 
 === code review 
@@ -4134,6 +4158,22 @@ https://norvig.com/21-days.html#answers
 https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/?cb=1
 How to do a code review (google.github.io)
 https://news.ycombinator.com/item?id=20890682
+
+=== regex
+
+https://refrf.shreyasminocha.me/
+
+
+=== open source project
+
+real worl app
+
+https://github.com/gothinkster/spring-boot-realworld-example-app
+https://github.com/gothinkster/realworld
+
+Clone Wars - Open source clones of popular sites
+https://github.com/GorvGoyl/Clone-Wars
+https://gourav.io/clone-wars
 
 
 === 3d
@@ -5233,6 +5273,9 @@ http://www.second-quantization.com
 
 === Electronics
 
+SPICE (Simulation Program with Integrated Circuit Emphasis)
+general-purpose, open-source analog electronic circuit simulator
+https://en.wikipedia.org/wiki/SPICE
 
 http://sam.zeloof.xyz/category/semiconductor/
 https://news.ycombinator.com/item?id=20657398
