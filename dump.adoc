@@ -8,6 +8,10 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+https://news.ycombinator.com/item?id=26493990
+https://htdp.org/2018-01-06/Book/index.html
+  see also Systematic Program Design on edx
+
 https://plato.stanford.edu/entries/lambda-calculus/
 https://plato.stanford.edu/entries/category-theory/
 
@@ -176,6 +180,9 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ********************************************
 ```````
+
+Unity Machine Learning Agents
+https://github.com/Unity-Technologies/ml-agents
 
 https://www.reddit.com/r/programming/comments/lzyg7f/linux_is_now_on_mars_and_available_on_github/
 https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars
@@ -3549,6 +3556,8 @@ https://www.data-structures-in-practice.com/hash-tables/
 
 === julia
 
+https://news.ycombinator.com/item?id=26516824
+https://datasciencejuliahackers.com/
 
 Julia Academy: Learn ML, Parallel Programming, Julia and More (juliaacademy.com)
 https://news.ycombinator.com/item?id=20907876
