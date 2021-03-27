@@ -98,7 +98,7 @@ Rust book
 
 [FASTAI] https://youtu.be/p50s63nPq9I?t=4967
     https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb
-
+    see also https://www.reddit.com/r/MachineLearning/comments/mbhewa/d_advanced_takeaways_from_fastai_book/
 
 
 
@@ -167,6 +167,9 @@ https://news.ycombinator.com/item?id=26175894
 ********************************************
 ```` 5 min read
 
+https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
+https://news.ycombinator.com/item?id=26582109
+
 https://kevinlynagh.com/rust-zig/
 https://www.reddit.com/top/?t=week
 
@@ -180,6 +183,9 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ********************************************
 ```````
+
+https://benhoyt.com/writings/hash-table-in-c/
+https://www.reddit.com/r/programming/comments/mdkzli/how_to_implement_a_hash_table_in_c/
 
 Unity Machine Learning Agents
 https://github.com/Unity-Technologies/ml-agents
@@ -1604,7 +1610,8 @@ https://ljvmiranda921.github.io/notebook/2020/03/06/jupyter-notebooks-in-2020/
 
 
 https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
-
+  see also https://antonz.org/sqlite-is-not-a-toy-database/
+           https://news.ycombinator.com/item?id=26580614
 
 https://www.youtube.com/watch?v=B-TOUPXytw4
 https://docs.python-guide.org/scenarios/imaging/
@@ -4375,12 +4382,15 @@ https://lisp-univ-etc.blogspot.com/2019/08/programming-algorithms-data-structure
 https://gieseanw.wordpress.com/2019/05/10/algorithms-as-objects/
 https://news.ycombinator.com/item?id=20197815
 
+==== genetic algorithms
 
 [intro to genetics algo](https://news.ycombinator.com/item?id=20118292)
   see also space invader with genetic algo https://news.ycombinator.com/item?id=21577659
 red black tree | elm
 https://groups.google.com/forum/#!msg/elm-dev/--fK-wMoDig/p6zF4-5sAgAJ
 
+https://www.reddit.com/r/rust/comments/mc5tmp/learning_to_fly_lets_simulate_evolution_in_rust/
+https://pwy.io/en/posts/learning-to-fly-pt3/
 
 === design pattern 
 

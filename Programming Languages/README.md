@@ -33,9 +33,11 @@
 ## Go
 
 [Tour of Go](https://tour.golang.org)  
-[Go wiki](https://github.com/golang/go/wiki)
+[Go wiki](https://github.com/golang/go/wiki)  
 
-[Effective Go](https://golang.org/doc/effective_go.html#introduction)
+[Effective Go](https://golang.org/doc/effective_go.html#introduction)  
+
+[Practical Go Lessons](https://www.practical-go-lessons.com/) by Maximilien Andile  
 
 ## Hashkell
 
