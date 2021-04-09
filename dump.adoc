@@ -167,6 +167,12 @@ https://news.ycombinator.com/item?id=26175894
 ********************************************
 ```` 5 min read
 
+https://www.lesswrong.com/posts/JZZENevaLzLLeC3zn/predictive-coding-has-been-unified-with-backpropagation
+https://news.ycombinator.com/item?id=26697892
+
+https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
+https://news.ycombinator.com/item?id=26741829
+
 https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
 https://news.ycombinator.com/item?id=26582109
 
@@ -180,6 +186,7 @@ https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 
 https://www.reddit.com/r/programming/comments/livw57/svg_the_good_the_bad_and_the_ugly/
 https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
+
 
 ********************************************
 ```````
@@ -861,6 +868,9 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
  
 ``` LESS MUST READ PART 2
 
+A simple C implementation to stream H.264 to browser using WebRTC (github.com/sepfy)
+https://github.com/sepfy/pear/tree/main/src
+https://news.ycombinator.com/item?id=26735423
 
 https://github.com/kailau02/Dolly-Zoom
 
@@ -3849,6 +3859,8 @@ https://news.ycombinator.com/item?id=26416531
 
 === c++
 
+https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html
+https://news.ycombinator.com/item?id=26723851
 
 https://stuartwheaton.com/blog/2020-06-14-c++11-guide/#critical-changes
 

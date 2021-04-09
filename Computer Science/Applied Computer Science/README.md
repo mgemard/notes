@@ -38,4 +38,8 @@
 
 [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) by Yangshun Tay
 
+### Git
+
+[Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub  
+
 ##	Human-computer interaction
