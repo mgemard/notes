@@ -167,6 +167,9 @@ https://news.ycombinator.com/item?id=26175894
 ********************************************
 ```` 5 min read
 
+https://surma.dev/things/js-to-asc/
+https://news.ycombinator.com/item?id=26803155
+
 https://www.lesswrong.com/posts/JZZENevaLzLLeC3zn/predictive-coding-has-been-unified-with-backpropagation
 https://news.ycombinator.com/item?id=26697892
 
@@ -187,6 +190,10 @@ https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 https://www.reddit.com/r/programming/comments/livw57/svg_the_good_the_bad_and_the_ugly/
 https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
+```` cool projects
+
+https://www.reddit.com/r/webdev/comments/mnzrzc/i_made_a_chrome_extension_to_overlay_guitar/
+https://github.com/XtremePwnership/YoutubeOverlay
 
 ********************************************
 ```````
@@ -979,15 +986,18 @@ https://www.reddit.com/r/MachineLearning/comments/hy3hry/p_python_implementation
 https://github.com/uvipen/Super-mario-bros-PPO-pytorch
 
 
+
 https://news.ycombinator.com/item?id=23904000
 https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/
 
-
-https://github.com/Requarks/wiki
-
-
 https://news.ycombinator.com/item?id=23868355
 https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+
+https://www.reddit.com/r/webdev/comments/mpgc9g/how_to_design_almost_any_ui_element_list_of_58/
+
+
+
+https://github.com/Requarks/wiki
 
 
 https://news.ycombinator.com/item?id=23837838
@@ -4844,6 +4854,8 @@ https://www.reddit.com/r/programming/comments/ex5rzh/understanding_git_for_real_
 
 https://www.html5rocks.com/en/tutorials/cors/
 
+https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
+https://news.ycombinator.com/item?id=26798412
 
 CSRF is really dead
 https://news.ycombinator.com/item?id=20900276
@@ -5167,6 +5179,7 @@ https://www.learn-html.org/
 
 
 ==== css
+
 
 https://codepen.io/amit_sheen/pen/PobQjMX
 https://www.reddit.com/r/webdev/comments/lvum75/not_oc_if_anyone_tells_you_html_css_cant_be_real/
@@ -5897,9 +5910,6 @@ https://github.com/arpitjindal97/technology_books
 
 
 Superintelligence: Paths, Dangers, Strategies" by Professor Nick 
-
-
-Adams, Douglas - The ultimate Hitchhiker's Guide (1996)
 
 
 Ignition!: An informal history of liquid rocket propellants by John D. Clark
