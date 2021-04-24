@@ -9,6 +9,12 @@
 
 [Community resources](https://clojure.org/community/resources)
 
+## C
+
+[Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt  
+[Beej’s Guide to C Programming](https://beej.us/guide/bgc/) by Brian “Beej Jorgensen” Hall  
+
+
 ## C+
 
 [Book] [A Tour of C++ (C++ In-Depth Series)](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) [[Drive](https://drive.google.com/drive/search?q=stroustrup%20tour)]  

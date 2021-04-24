@@ -8,6 +8,8 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+
 https://news.ycombinator.com/item?id=26493990
 https://htdp.org/2018-01-06/Book/index.html
   see also Systematic Program Design on edx
@@ -166,6 +168,13 @@ https://news.ycombinator.com/item?id=26175894
 
 ********************************************
 ```` 5 min read
+
+https://earthly.dev/blog/brown-green-language/
+https://www.reddit.com/r/programming/comments/mw4juh/green_programming_languages_vs_brown_programming/
+
+https://www.youtube.com/watch?v=j0UnS3jHhAA
+https://www.reddit.com/r/programming/comments/mtjpt4/i_made_an_openaipowered_linux_shell_that_does/
+https://riveducha.onfabrica.com/openai-powered-linux-shell
 
 https://surma.dev/things/js-to-asc/
 https://news.ycombinator.com/item?id=26803155
@@ -874,6 +883,11 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
 
  
 ``` LESS MUST READ PART 2
+
+My collection of machine learning paper notes (notion.so)
+https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
+https://news.ycombinator.com/item?id=26891227
+
 
 A simple C implementation to stream H.264 to browser using WebRTC (github.com/sepfy)
 https://github.com/sepfy/pear/tree/main/src
@@ -4236,6 +4250,9 @@ https://www.labri.fr/perso/nrougier/python-opengl/#python-opengl-for-scientific-
 
 ==== ray tracing
 
+https://graphicscodex.courses.nvidia.com/app.html
+https://www.reddit.com/r/programming/comments/mugin9/graphics_codex_is_now_a_free_online_computer/
+
 https://www.reddit.com/r/rust/comments/lukgyi/c_to_rust_introduction_with_practical_raytracing/
 https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/
 
@@ -4596,7 +4613,9 @@ vagrant
   https://www.youtube.com/watch?v=jBiueVhDg1Q
   https://www.youtube.com/watch?v=gumSW5eNm_0
 nagios
-
+pulumi
+  https://www.pulumi.com/blog/pulumi-3-0/
+  https://news.ycombinator.com/item?id=26880935
 
 git hooks
 
@@ -5107,6 +5126,8 @@ https://archive.org/
 
 ==== nginx
 
+https://vishnu.hashnode.dev/nginx-cheatsheet
+https://www.reddit.com/r/programming/comments/mt8mrn/nginx_cheatsheet/
 
 https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/#location-blocks
 
