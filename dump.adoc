@@ -8,6 +8,14 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+computer architecture
+https://www.nand2tetris.org/
+    https://news.ycombinator.com/item?id=25282507
+https://www.coursera.org/learn/build-a-computer
+
+https://www.bottomupcs.com/
+https://news.ycombinator.com/item?id=26981668
+
 https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 
 https://news.ycombinator.com/item?id=26493990
@@ -166,8 +174,19 @@ https://news.ycombinator.com/item?id=26175894
    
    https://github.com/xqbase/xqwlight/tree/master/JavaScript
 
+https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
+https://news.ycombinator.com/item?id=26989577
+
 ********************************************
 ```` 5 min read
+
+https://cybergibbons.com/security-2/what3words-the-algorithm/
+https://news.ycombinator.com/item?id=27015046
+
+https://engineering.fb.com/2021/04/29/developer-tools/rust/
+https://news.ycombinator.com/item?id=26982879
+
+https://github.com/you-dont-need/You-Dont-Need-GUI
 
 https://earthly.dev/blog/brown-green-language/
 https://www.reddit.com/r/programming/comments/mw4juh/green_programming_languages_vs_brown_programming/
@@ -204,8 +223,18 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 https://www.reddit.com/r/webdev/comments/mnzrzc/i_made_a_chrome_extension_to_overlay_guitar/
 https://github.com/XtremePwnership/YoutubeOverlay
 
+https://github.com/supabase/realtime
+https://news.ycombinator.com/item?id=26968449
+
 ********************************************
 ```````
+
+https://github.com/dekuNukem/bob_cassette_rewinder
+https://news.ycombinator.com/item?id=27013880
+
+https://ciechanow.ski/internal-combustion-engine/
+https://news.ycombinator.com/item?id=26991300
+   read other articles
 
 https://benhoyt.com/writings/hash-table-in-c/
 https://www.reddit.com/r/programming/comments/mdkzli/how_to_implement_a_hash_table_in_c/
@@ -570,11 +599,6 @@ Site Reliability Engineering (SRE)
 https://landing.google.com/sre/books/
 https://news.ycombinator.com/item?id=22815453
   not related: https://github.com/upgundecha/howtheysre
-
-computer architecture
-https://www.nand2tetris.org/
-    https://news.ycombinator.com/item?id=25282507
-https://www.coursera.org/learn/build-a-computer
 
 
 https://www.classcentral.com/report/free-online-learning-coronavirus/
@@ -4870,11 +4894,14 @@ https://www.reddit.com/r/programming/comments/ex5rzh/understanding_git_for_real_
 
 === Security
 
-
 https://www.html5rocks.com/en/tutorials/cors/
 
 https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
 https://news.ycombinator.com/item?id=26798412
+
+
+CSRF, CORS, and HTTP Security headers Demystified
+https://blog.vnaik.com/posts/web-attacks.html
 
 CSRF is really dead
 https://news.ycombinator.com/item?id=20900276
