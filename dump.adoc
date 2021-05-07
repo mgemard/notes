@@ -177,8 +177,18 @@ https://news.ycombinator.com/item?id=26175894
 https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
 https://news.ycombinator.com/item?id=26989577
 
+
+https://news.ycombinator.com/item?id=27051468
+https://github.com/andymatuschak/orbit
+
 ********************************************
 ```` 5 min read
+
+https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/
+https://www.reddit.com/r/programming/comments/n5an68/doordash_migrating_from_python_to_kotlin_for_our/
+
+https://www.reddit.com/r/programming/comments/n3bfyb/hosting_a_database_on_github_pages_or_any_static/
+https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 
 https://cybergibbons.com/security-2/what3words-the-algorithm/
 https://news.ycombinator.com/item?id=27015046
@@ -3675,6 +3685,9 @@ http://oleg.fi/gists/posts/2019-09-26-write-a-compiler.html
 https://news.ycombinator.com/item?id=21808598
 https://m.stopa.io/macros-by-example-6ddbc8f3d93b
 
+https://news.ycombinator.com/item?id=27036317
+http://www.ulisp.com/
+https://github.com/technoblogy/ulisp/blob/master/ulisp.ino
 
 === ocam
 
@@ -5235,6 +5248,9 @@ https://www.reddit.com/r/webdev/comments/lvum75/not_oc_if_anyone_tells_you_html_
 Show HN: Cyberpunk web design made easy, really easy (augmented-ui.com)
 https://news.ycombinator.com/item?id=20923792
 
+https://github.com/Etesam913/euismod
+https://www.euismod.dev/
+https://www.reddit.com/r/webdev/comments/n2b32f/i_made_a_website_that_helps_people_learn_css_grid/
 
 ===== sass
 http://getbem.com/introduction/ (voir :scope)
@@ -5348,6 +5364,7 @@ http://www.damtp.cam.ac.uk/user/tong/teaching.html
 
 === quantum theory
 
+https://quantum.country/
 
 Thirty Years That Shook Physics, by Gamow, is a great popularisation of the early days of quantum theory, from a historical point of view
 
