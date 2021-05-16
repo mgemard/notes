@@ -155,6 +155,7 @@ Read Concurrency java
 
 Read Concurrency go
 
+https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
 
 # quantum computers
 
@@ -183,6 +184,9 @@ https://github.com/andymatuschak/orbit
 
 ********************************************
 ```` 5 min read
+
+https://questdb.io/blog/2021/05/10/questdb-release-6-0-tsbs-benchmark/
+https://www.reddit.com/r/programming/comments/nao3ts/how_we_achieved_write_speeds_of_14_million_rows/
 
 https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/
 https://www.reddit.com/r/programming/comments/n5an68/doordash_migrating_from_python_to_kotlin_for_our/
@@ -230,11 +234,32 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ```` cool projects
 
+https://github.com/pieromqwerty/url-lengthener
+https://news.ycombinator.com/item?id=27156106
+  how the encoding and decoding works?
+
+https://www.reddit.com/r/programming/comments/nbepec/for_anyone_using_the_soon_to_shut_down_dark_sky/
+https://github.com/darkskyapp/translations
+read Technical details on https://pirateweather.net/
+
 https://www.reddit.com/r/webdev/comments/mnzrzc/i_made_a_chrome_extension_to_overlay_guitar/
 https://github.com/XtremePwnership/YoutubeOverlay
 
 https://github.com/supabase/realtime
 https://news.ycombinator.com/item?id=26968449
+
+```` cool project (but complex)
+
+https://blog.zulip.com/2021/05/13/zulip-4-0-released/
+Zulip 4.0: Threaded open source team chat
+https://github.com/zulip/zulip
+
+I wrote my own RTS game engine in C (github.com/eduard-permyakov)
+https://github.com/eduard-permyakov/permafrost-engine
+https://news.ycombinator.com/item?id=27132334
+
+https://github.com/sidkshatriya/rd#why-implement-in-rust
+https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
@@ -1589,6 +1614,9 @@ https://en.wikipedia.org/wiki/Duffing_equation
 https://www.reddit.com/r/programming/comments/fq4ez3/doom_3_running_in_web_assembly/
 http://www.continuation-labs.com/projects/d3wasm/
 
+Quake3e, a modern Quake III Arena engine
+https://github.com/ec-/Quake3e
+https://news.ycombinator.com/item?id=27159906
 
 
 
@@ -2829,6 +2857,9 @@ https://www.datadoghq.com/
 Short article about maths
 https://www.dataquest.io/blog/math-in-data-science/
 
+https://www.reddit.com/r/MachineLearning/comments/najnjg/r_the_modern_mathematics_of_deep_learning/
+https://www.researchgate.net/publication/351476107_The_Modern_Mathematics_of_Deep_Learning
+
 
 https://machinelearningmastery.com/start-here/
 
@@ -2986,11 +3017,12 @@ https://news.ycombinator.com/item?id=20765553
 
 ==== articles
 
+https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/
+https://www.reddit.com/r/MachineLearning/comments/ncdy6m/r_google_replaces_bert_selfattention_with_fourier/
 
 AutoML-Zero: Evolving Machine Learning Algorithms from Scratch (github.com)
 https://github.com/google-research/google-research/tree/master/automl_zero
 https://news.ycombinator.com/item?id=22539117
-
 
 
 
@@ -3811,7 +3843,6 @@ https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 
 
 https://nordicapis.com/the-difference-between-http-auth-api-keys-and-oauth/
-
 
 Spring jpa transaction (how does it work?)
 
@@ -4942,6 +4973,7 @@ https://blog.angular-university.io/angular-jwt-authentication/
 https://news.ycombinator.com/item?id=22355790
 https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-three/
 
+https://webauthn.guide/
 
 DLL hijacking techniques
 
