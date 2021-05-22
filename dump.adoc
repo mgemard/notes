@@ -185,6 +185,10 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+WebContainers: Run Node.js natively in the browser (stackblitz.com)
+https://news.ycombinator.com/item?id=27223012
+https://blog.stackblitz.com/posts/introducing-webcontainers/
+
 https://questdb.io/blog/2021/05/10/questdb-release-6-0-tsbs-benchmark/
 https://www.reddit.com/r/programming/comments/nao3ts/how_we_achieved_write_speeds_of_14_million_rows/
 
@@ -943,6 +947,10 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
  
 ``` LESS MUST READ PART 2
 
+https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
+https://news.ycombinator.com/item?id=27209412
+https://github.com/gabrielesvelto/symbol-scrapers/blob/master/debian/script.sh
+
 My collection of machine learning paper notes (notion.so)
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
 https://news.ycombinator.com/item?id=26891227
@@ -1418,7 +1426,7 @@ https://github.com/saljam/webwormhole
 
 
 
-
+https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
 
 
 
@@ -2215,7 +2223,8 @@ https://news.ycombinator.com/item?id=21026522
 see also https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/
   for more
 
-
+https://news.ycombinator.com/item?id=27226382
+https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million
 
 
 Ask HN: What is the ops architecture like for AAA multiplayer game servers?
@@ -3267,8 +3276,8 @@ https://screeps.com/
 
 ===== speech recognition
 
-
-
+https://voice2json.org/
+https://news.ycombinator.com/item?id=27235970
 
 https://news.ycombinator.com/item?id=22154088
 
@@ -5224,6 +5233,10 @@ https://proandroiddev.com/the-missing-google-sample-of-android-architecture-comp
 https://proandroiddev.com/android-architecture-d7405db1361c
 
 
+=== web dev
+
+https://web.dev/
+
 === web scrapping
 
 
@@ -5507,6 +5520,9 @@ For another perspective of "the study of information in the social world", check
 
 An Interactive Introduction to Fourier Transforms
 https://github.com/Jezzamonn/fourier
+
+https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+https://news.ycombinator.com/item?id=27229836
 
 
 ==== statistics
