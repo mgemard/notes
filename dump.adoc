@@ -5480,6 +5480,10 @@ Algebra, Topology, Differential Calculus, and Optimization Theory For Computer S
 https://www.reddit.com/r/MachineLearning/comments/dhj7t5/algebra_topology_differential_calculus_and/
 https://www.cis.upenn.edu/~jean/math-deep.pdf
 
+==== matrix rotation
+
+https://en.wikiversity.org/wiki/Permutation_notation
+  see perm notation used here: https://en.wikipedia.org/wiki/Rotation_matrix
 
 ==== category theory
 
