@@ -4,9 +4,17 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 
 
-
-
 ******************* Current reading *******************
+
+
+What every programmer should know about memory, Part 1
+https://lwn.net/Articles/250967/
+
+
+https://github.com/norvig/pytudes
+
+How to learn pure mathematics on your own: a complete self-study guide
+https://www.youtube.com/watch?v=fo-alw2q-BU
 
 computer architecture
 https://www.nand2tetris.org/
@@ -238,6 +246,11 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ```` cool projects
 
+https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
+https://news.ycombinator.com/item?id=27256867
+  also https://web.eecs.utk.edu/~azh/blog/challengingprojects.html
+  also https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
+
 https://github.com/pieromqwerty/url-lengthener
 https://news.ycombinator.com/item?id=27156106
   how the encoding and decoding works?
@@ -267,6 +280,23 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+
+
+https://news.ycombinator.com/item?id=27372292
+https://textslashplain.com/2021/06/02/leaky-abstractions/
+
+https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
+https://news.ycombinator.com/item?id=27359081
+
+https://github.com/psenough/teach_yourself_demoscene_in_14_days
+https://news.ycombinator.com/item?id=27254838
+
+Ask HN: Favorite Blogs by Individuals?
+https://news.ycombinator.com/item?id=27302195
+
+https://crispgm.com/page/neovim-is-overpowering.html
+https://news.ycombinator.com/item?id=27291302
 
 https://github.com/dekuNukem/bob_cassette_rewinder
 https://news.ycombinator.com/item?id=27013880
@@ -946,6 +976,8 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
 
  
 ``` LESS MUST READ PART 2
+
+https://github.com/SerenityOS/serenity/blob/master/Documentation/BuildInstructions.md
 
 https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
 https://news.ycombinator.com/item?id=27209412
@@ -2108,6 +2140,8 @@ https://developers.google.com/optimization
 https://medium.com/comet-ml/applyingmachinelearningtoaudioanalysis-utm-source-kdnuggets11-19-e160b069e88
 https://www.reddit.com/r/MachineLearning/comments/dyl8rf/p_how_to_apply_machine_learning_and_deep_learning/
 
+Ask HN: How to get started with audio programming?
+https://news.ycombinator.com/item?id=27273706
 
 https://news.ycombinator.com/item?id=21530860
   see also https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
@@ -3054,6 +3088,9 @@ https://arxiv.org/abs/1908.09021
 https://github.com/lansiz/eqpt
 
 
+https://github.com/microsoft/CodeXGLUE
+https://github.com/microsoft/CodeBERT
+
 https://www.reddit.com/r/MachineLearning/comments/ctmxzj/d_openais_official_774m_gpt2_model_released_15b/
 https://openai.com/blog/gpt-2-6-month-follow-up/
 https://github.com/openai/gpt-2
@@ -3140,6 +3177,7 @@ https://news.ycombinator.com/item?id=21628449
 https://news.ycombinator.com/item?id=21661545
 Matrix Calculus for Deep Learning (explained.ai)
 https://explained.ai/matrix-calculus/index.html
+
 
 
 ==== tensorflow
@@ -4947,6 +4985,9 @@ https://www.reddit.com/r/programming/comments/ex5rzh/understanding_git_for_real_
 
 === Security
 
+hack the box
+root-me.org
+
 https://www.html5rocks.com/en/tutorials/cors/
 
 https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
@@ -5528,6 +5569,12 @@ https://github.com/Jezzamonn/fourier
 https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 https://news.ycombinator.com/item?id=27229836
 
+=== probability
+
+A Concrete Introduction to Probability (2018) (github.com/norvig)
+https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
+https://news.ycombinator.com/item?id=27379366
+   see also https://github.com/norvig/pytudes
 
 ==== statistics
 
