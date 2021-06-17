@@ -6,6 +6,13 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+prolog tutorial
+https://www.tutorialspoint.com/prolog/prolog_relations.htm
+https://www.javatpoint.com/prolog
+  see other tutorials (computer network, computer system, computer fundamentals, ...)
+
+https://en.wikipedia.org/wiki/Programming_paradigm
+was looking at agent oriented programming
 
 What every programmer should know about memory, Part 1
 https://lwn.net/Articles/250967/
@@ -281,7 +288,12 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 ********************************************
 ```````
 
+https://news.ycombinator.com/item?id=27460887
+https://tryapl.org/
 
+ARTIFICIAL LIFE ENVIRONMENT
+https://alien-project.org/
+https://news.ycombinator.com/item?id=27472224
 
 https://news.ycombinator.com/item?id=27372292
 https://textslashplain.com/2021/06/02/leaky-abstractions/
@@ -4043,6 +4055,10 @@ https://www.learn-js.org/
 
 https://storybook.js.org/
 
+Exploring JS: JavaScript books for programmers
+https://exploringjs.com/index.html
+Dr. Axel Rauschmayer
+
 
 ==== typescript
 
@@ -5733,8 +5749,10 @@ ________________
 
 https://fundamentals-of-piano-practice.readthedocs.io/
 
-
 == books 
+
+Tanenbaum: Modern Operating Systems.
+  from How is heap and stack memories mananged, implemented, allocated [duplicate]
 
 https://pragprog.com/titles/swdddf/domain-modeling-made-functional/
 Domain Modeling Made Functional
