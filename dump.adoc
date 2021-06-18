@@ -200,6 +200,14 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+Representing SHA-256 Hashes As Avatars
+https://www.reddit.com/r/programming/comments/o1q0kr/representing_sha256_hashes_as_avatars/
+https://francoisbest.com/posts/2021/hashvatars
+
+The most copied StackOverflow snippet of all time is flawed!
+https://programming.guide/worlds-most-copied-so-snippet.html
+https://news.ycombinator.com/item?id=27533684
+
 WebContainers: Run Node.js natively in the browser (stackblitz.com)
 https://news.ycombinator.com/item?id=27223012
 https://blog.stackblitz.com/posts/introducing-webcontainers/
@@ -287,6 +295,11 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+Start Your Own ISP
+https://startyourownisp.com/
+https://news.ycombinator.com/item?id=27539165
+
 
 https://news.ycombinator.com/item?id=27460887
 https://tryapl.org/
