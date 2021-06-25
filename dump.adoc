@@ -296,6 +296,14 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 ********************************************
 ```````
 
+Django for Startup Founders: A better software architecture for SaaS startups and consumer apps
+https://news.ycombinator.com/item?id=27605052
+https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
+
+A from-scratch tour of Bitcoin in Python
+https://news.ycombinator.com/item?id=27593772
+https://karpathy.github.io/2021/06/21/blockchain/
+
 Start Your Own ISP
 https://startyourownisp.com/
 https://news.ycombinator.com/item?id=27539165
