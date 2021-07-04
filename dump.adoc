@@ -7,9 +7,16 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 ******************* Current reading *******************
 
 prolog tutorial
+https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
 https://www.tutorialspoint.com/prolog/prolog_relations.htm
 https://www.javatpoint.com/prolog
   see other tutorials (computer network, computer system, computer fundamentals, ...)
+https://github.com/stassa/Gleemin Magic the Gathering expert system
+
+https://www.quora.com/Are-there-any-other-languages-similar-to-prolog
+https://github.com/swannodette/logic-tutorial A Very Gentle Introduction To Relational & Functional Programming
+https://github.com/clojure/core.logic
+
 
 https://en.wikipedia.org/wiki/Programming_paradigm
 was looking at agent oriented programming
@@ -47,7 +54,9 @@ https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-re
 
 https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives
    also see other spark tutorials
-   
+
+https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html
+
 https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 
 https://beej.us/guide/bgnet/html/
@@ -68,7 +77,6 @@ Graphikart elixir
 
 
 Kubernetes
-Gitlab ci
 
 
 # OpenClassRooms
@@ -296,6 +304,13 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 ********************************************
 ```````
 
+https://news.ycombinator.com/item?id=27643054
+https://github.com/trimstray/the-book-of-secret-knowledge
+
+Avoiding complexity with systemd
+https://news.ycombinator.com/item?id=27649342
+https://mgdm.net/weblog/systemd/
+
 Django for Startup Founders: A better software architecture for SaaS startups and consumer apps
 https://news.ycombinator.com/item?id=27605052
 https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
@@ -411,7 +426,6 @@ https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/
 https://news.ycombinator.com/item?id=25915023
 
 
-https://docs.gitlab.com/runner/
 
 
 https://news.ycombinator.com/item?id=25776525
@@ -2170,11 +2184,20 @@ https://developers.google.com/optimization/scheduling/employee_scheduling
 https://developers.google.com/optimization
 
 
+
+
 https://medium.com/comet-ml/applyingmachinelearningtoaudioanalysis-utm-source-kdnuggets11-19-e160b069e88
 https://www.reddit.com/r/MachineLearning/comments/dyl8rf/p_how_to_apply_machine_learning_and_deep_learning/
 
 Ask HN: How to get started with audio programming?
 https://news.ycombinator.com/item?id=27273706
+
+Mumble: Open-Source, Low Latency, High Quality Voice Chat (mumble.info)
+https://news.ycombinator.com/item?id=27648915
+  Opus codec
+  CELT
+
+
 
 https://news.ycombinator.com/item?id=21530860
   see also https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/
@@ -3055,6 +3078,8 @@ https://news.ycombinator.com/item?id=22161693
 
 
 === machine learning
+
+https://huyenchip.com/ml-interviews-book/
 
 https://github.com/aaronwangy/Data-Science-Cheatsheet
 
@@ -4789,9 +4814,25 @@ CirlcleCI
 Jenkins | Blueocean | Jenkins X
 Drone
 Concourse
+
+
+
 gitlab ci 
   https://learn.gitlab.com/c/youtube-41?x=eK9OiC&utm_medium=email&utm_source=marketo&utm_campaign=cicdcmp2&utm_content=gitlabcidemonoshow
   https://about.gitlab.com/blog/2016/12/14/continuous-delivery-of-a-spring-boot-application-with-gitlab-ci-and-kubernetes/
+
+Settings > General > Merge requests
+What is semi-linear history, Fast-forward merges only., Fast-forward merge, ...
+
+https://docs.gitlab.com/ee/ci/docker/using_docker_build.html
+What are the differences between:
+- The shell executor
+- The Docker executor with the Docker image (Docker-in-Docker)
+- Docker socket binding
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-continuous-deployment-pipeline-with-gitlab-ci-cd-on-ubuntu-18-04
+
+
 
 
 Helm (package manager for kubernetes)
@@ -5121,6 +5162,8 @@ https://restoreprivacy.com/firefox-privacy/
 
 === network
 
+Ask HN: Good books/courses to learn networking essentials for web developers?
+https://news.ycombinator.com/item?id=27650775
 
 https://datprotocol.github.io/how-dat-works/
 https://news.ycombinator.com/item?id=20363813
@@ -5142,6 +5185,8 @@ Wireguard (see https://news.ycombinator.com/item?id=22724768)
 
 article 
 
+https://news.ycombinator.com/item?id=27654182
+https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 
 https://www.petri.com/create-nat-rules-hyper-v-nat-virtual-switch
 
@@ -5592,6 +5637,8 @@ https://leanprover.github.io/theorem_proving_in_lean/dependent_type_theory.html
 
 ==== Information theory
 
+https://news.ycombinator.com/item?id=27642906
+https://arxiv.org/abs/1802.05968
 
 Information Theory for Intelligent People (2018) [pdf] (santafe.edu)
 For another perspective of "the study of information in the social world", check out "Variational ecology and the physics of sentient systems" (https://www.sciencedirect.com/science/article/pii/S157106451...). Also based on information theory, released just a few months after op paper.
