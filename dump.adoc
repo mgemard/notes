@@ -7,8 +7,8 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 ******************* Current reading *******************
 
 prolog tutorial
+https://www.tutorialspoint.com/prolog/prolog_data_objects.htm
 https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
-https://www.tutorialspoint.com/prolog/prolog_relations.htm
 https://www.javatpoint.com/prolog
   see other tutorials (computer network, computer system, computer fundamentals, ...)
 https://github.com/stassa/Gleemin Magic the Gathering expert system
@@ -1167,7 +1167,8 @@ https://www.reddit.com/r/programming/comments/hfxj1p/fix_your_timestep_a_great_a
 https://gafferongames.com/post/fix_your_timestep/
    See other articles from the site
 
-
+Introductory course on microcontroller-based embedded systems that uses Rust
+https://docs.rust-embedded.org/discovery/index.html
 
 
 Markov Chains for Text Generation
