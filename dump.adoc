@@ -6,6 +6,12 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+https://ocw.mit.edu/
+
+https://en.wikipedia.org/wiki/Domain_Name_System
+  from (see also Custom hosts file) https://lichess.org/ads
+https://github.com/EmilHernvall/dnsguide
+
 prolog tutorial
 https://www.tutorialspoint.com/prolog/prolog_data_objects.htm
 https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html
@@ -207,6 +213,15 @@ https://github.com/andymatuschak/orbit
 
 ********************************************
 ```` 5 min read
+
+https://wattenberger.com/blog/css-percents
+https://news.ycombinator.com/item?id=27769291
+
+https://news.ycombinator.com/item?id=27763965
+https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
+
+https://scattered-thoughts.net/writing/against-sql/
+https://news.ycombinator.com/item?id=27791539
 
 Representing SHA-256 Hashes As Avatars
 https://www.reddit.com/r/programming/comments/o1q0kr/representing_sha256_hashes_as_avatars/
@@ -1248,7 +1263,6 @@ https://news.ycombinator.com/item?id=23453308
 https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html
 
 
-https://github.com/EmilHernvall/dnsguide
 
 
 https://github.com/netcan/AnimalChess
@@ -3713,6 +3727,11 @@ https://www.reddit.com/r/rust/comments/dgevpc/writing_an_http_server_in_rust/
 https://curiosityoverflow.xyz/posts/linda/
 
 
+Compiling Rust is NP-hard
+https://news.ycombinator.com/item?id=27769718
+https://niedzejkob.p4.team/rust-np/
+
+
 
 === Python
 
@@ -4396,6 +4415,8 @@ https://news.ycombinator.com/item?id=20890682
 
 https://refrf.shreyasminocha.me/
 
+https://news.ycombinator.com/item?id=27774584
+http://rexegg.com/regex-best-trick.html
 
 === open source project
 
