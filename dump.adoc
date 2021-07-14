@@ -6,15 +6,15 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
-watch in order
+watch in order (watched: AI, )
 https://thecrashcourse.com/courses
-last viewed:
-Supervised Learning: Crash Course AI #2
-https://www.youtube.com/watch?v=4qVRBYAdLAo
+not watched:
+How to make an AI read your handwriting (LAB) : Crash Course Ai #5
+https://www.youtube.com/watch?v=6nGCGYWMObE
 
 Code, The hidden Language of Computer Hardware
 https://drive.google.com/file/d/1y_fTS-pr5ZHoc7vC_NWQAhktOTZeRk2q/view
-not read yat: chap8 p47
+not read yat: chap9 p61
 
 https://ocw.mit.edu/
 
@@ -328,6 +328,13 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+understand decimal/binary/octal/hexa conversion
+Polynomial division
+https://en.wikipedia.org/wiki/Synthetic_division
+https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor#Euclidean_division
+https://en.wikipedia.org/wiki/Polynomial_long_division
+
 
 https://news.ycombinator.com/item?id=27643054
 https://github.com/trimstray/the-book-of-secret-knowledge
