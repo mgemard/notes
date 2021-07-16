@@ -224,6 +224,13 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+https://news.ycombinator.com/item?id=27823180
+https://earthly.dev/blog/python-timsort-merge/
+
+
+https://tonsky.me/blog/icfpc-2021/
+https://news.ycombinator.com/item?id=27829635
+
 https://wattenberger.com/blog/css-percents
 https://news.ycombinator.com/item?id=27769291
 
@@ -537,8 +544,7 @@ https://www.reddit.com/r/programming/comments/k8fa3h/github_repositories_to_impr
 https://denic.hashnode.dev/github-repositories
 
 
-https://developers.google.com/web/updates/2020/12/webassembly
-https://news.ycombinator.com/item?id=25373597
+
 
 
 https://github.com/tuvtran/project-based-learning
@@ -792,6 +798,11 @@ Read everything
 **********************************************************
 ```
 MUST READ
+
+https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/
+https://news.ycombinator.com/item?id=27833064
+Daily Rituals: How Artists Work[1]
+The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play[2]
 
 https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html
 
@@ -1056,6 +1067,13 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
  
 ``` LESS MUST READ PART 2
 
+
+Pharo is a pure object-oriented programming language and a powerful environment,
+focused on simplicity and immediate feedback (think IDE and OS rolled into one).
+https://news.ycombinator.com/item?id=27842933
+https://pharo.org/news/pharo9-released.html
+
+
 https://github.com/SerenityOS/serenity/blob/master/Documentation/BuildInstructions.md
 
 https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
@@ -1231,6 +1249,12 @@ Check this project https://github.com/rustwasm/wasm-bindgen
   From tour of WebAssembly
   Also : https://github.com/richardanaya/ramen
 
+https://developers.google.com/web/updates/2020/12/webassembly
+https://news.ycombinator.com/item?id=25373597
+
+WebAssembly from Scratch: From FizzBuzz to DooM
+https://github.com/diekmann/wasm-fizzbuzz
+https://news.ycombinator.com/item?id=27832115
 
 https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464
 ________________
@@ -2961,7 +2985,8 @@ https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part-1
 
 https://spring.io/blog/2010/06/14/understanding-amqp-the-protocol-used-by-rabbitmq/
 
-
+https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/
+https://news.ycombinator.com/item?id=27825889
 
 
 === data viz
@@ -3495,55 +3520,36 @@ Storybook
 https://news.ycombinator.com/item?id=22538998
 https://github.com/tannerlinsley/react-table
 
-
 https://github.com/kamranahmedse/developer-roadmap
-
 
 React generator
 https://divjoy.com/
 https://news.ycombinator.com/item?id=20688044
 
-
-static site generator: gatsby (react framework), next, hugo
-
-
 https://redux-starter-kit.js.org/introduction/quick-start
-
 
 https://fullstackopen.com/en/
 
-
 https://github.com/acdlite/react-fiber-architecture
-
 
 https://news.ycombinator.com/item?id=22537944
 https://redwoodjs.com/
 
-
 article:
 
-
 https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks
-
 
 https://tylermcginnis.com/why-react-hooks/
 check also: https://www.youtube.com/watch?v=dpw9EHDh2bM
   from https://news.ycombinator.com/item?id=20927031
 
-
 https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh
-
-
-
 
 === react native
 
-
 https://heartbeat.fritz.ai/airbnb-clone-with-react-native-part-1-home-screen-ui-b5ed1c9278ae
 
-
 === svelte
-
 
 https://lihautan.com/the-svelte-compiler-handbook/
 https://news.ycombinator.com/item?id=22784153
@@ -4685,6 +4691,9 @@ https://news.ycombinator.com/item?id=20587393
 
 ==== sql
 
+SQLBolt
+Learn SQL with simple, interactive exercises.
+https://sqlbolt.com/lesson/introduction
 
 https://www.learnsqlonline.org/
 
