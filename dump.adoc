@@ -6,6 +6,8 @@ Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2
 
 ******************* Current reading *******************
 
+https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4568716-decouvrez-la-projection-et-la-restriction
+
 watch in order (watched: AI, )
 https://thecrashcourse.com/courses
 not watched:
@@ -224,6 +226,12 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep
+https://news.ycombinator.com/item?id=27956313
+
+https://news.ycombinator.com/item?id=27941208
+https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
+
 https://news.ycombinator.com/item?id=27823180
 https://earthly.dev/blog/python-timsort-merge/
 
@@ -322,6 +330,9 @@ https://news.ycombinator.com/item?id=26968449
 
 ```` cool project (but complex)
 
+https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/
+https://news.ycombinator.com/item?id=27982671
+
 https://blog.zulip.com/2021/05/13/zulip-4-0-released/
 Zulip 4.0: Threaded open source team chat
 https://github.com/zulip/zulip
@@ -335,6 +346,9 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/
+https://news.ycombinator.com/item?id=27996684
 
 understand decimal/binary/octal/hexa conversion
 Polynomial division
@@ -1067,6 +1081,14 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
  
 ``` LESS MUST READ PART 2
 
+
+https://news.ycombinator.com/item?id=27973497
+https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
+
+
+Inserting One Billion Rows in SQLite Under A Minute
+https://news.ycombinator.com/item?id=27872575
+https://avi.im/blag/2021/fast-sqlite-inserts/
 
 Pharo is a pure object-oriented programming language and a powerful environment,
 focused on simplicity and immediate feedback (think IDE and OS rolled into one).
@@ -2305,6 +2327,9 @@ https://blogs.oracle.com/javamagazine/inside-java-13s-switch-expressions-and-rei
 https://news.ycombinator.com/item?id=21363121
 https://www.wezm.net/technical/2019/10/useful-command-line-tools/
 
+https://news.ycombinator.com/item?id=27992073
+https://earthly.dev/blog/command-line-tools/
+
 
 Markov Chains: How to Train Text Generation to Write like George R. R. Martin
 http://www.datastuff.tech/machine-learning/markov-chains-teaching-ai-to-write-game-of-thrones/
@@ -3279,6 +3304,12 @@ https://news.ycombinator.com/item?id=21293132
 
 Books for mathematics like Feynman's lectures on physics
 https://news.ycombinator.com/item?id=21346272
+
+=== calculus
+
+
+https://news.ycombinator.com/item?id=27991120
+https://calculusmadeeasy.org/9.html
 
 
 === linear algebra
@@ -6350,3 +6381,14 @@ https://blitzstream.fr/selection-de-livres-echecs-pour-progresser-en-milieu-de-j
 ## Wikipedia:Vital articles
 
 https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+
+
+
+dell optiplex 760
+P/N7120035100G ati radeon graphics
+
+
+= tech blog
+
+https://refined.blog/
+https://news.ycombinator.com/item?id=27973836
