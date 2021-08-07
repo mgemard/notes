@@ -3,7 +3,6 @@ Stopped at
 Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2018)
 
 
-
 ******************* Current reading *******************
 
 https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4568716-decouvrez-la-projection-et-la-restriction
