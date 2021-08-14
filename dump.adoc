@@ -3199,6 +3199,10 @@ https://news.ycombinator.com/item?id=20765553
 
 ==== articles
 
+procedurally generated fish drawings
+https://news.ycombinator.com/item?id=28157657
+https://fishdraw.glitch.me/
+
 https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/
 https://www.reddit.com/r/MachineLearning/comments/ncdy6m/r_google_replaces_bert_selfattention_with_fourier/
 
@@ -4740,6 +4744,11 @@ https://news.ycombinator.com/item?id=20260292
 SQL Murder Mystery - Can you find out whodunnit?
 http://mystery.knightlab.com/
 
+article 
+
+A future for SQL on the web
+https://news.ycombinator.com/item?id=28156831
+https://jlongster.com/future-sql-web
 
 ===== postgres
 
