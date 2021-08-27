@@ -310,6 +310,9 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ```` cool projects
 
+https://news.ycombinator.com/item?id=28300951
+https://github.com/marceloprates/prettymaps
+
 https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 https://news.ycombinator.com/item?id=27256867
   also https://web.eecs.utk.edu/~azh/blog/challengingprojects.html
@@ -617,6 +620,8 @@ https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10-chea
 Youtube: owasp api security top 10 webinar
 
 
+https://fly.io/blog/api-tokens-a-tedious-survey/
+https://news.ycombinator.com/item?id=28295348
 
 
 Grafikart Ansible
@@ -2814,6 +2819,7 @@ https://www.reddit.com/r/programming/comments/ezpoul/mint_the_programming_langua
 https://nuxtjs.org/guide/
 
 
+https://engineering.rakuten.today/post/elm-at-rakuten/
 
 
 https://learningsynths.ableton.com/
