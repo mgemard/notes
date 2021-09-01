@@ -354,6 +354,9 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 ********************************************
 ```````
 
+https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/
+https://news.ycombinator.com/item?id=28370662
+
 https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/
 https://news.ycombinator.com/item?id=27996684
 
