@@ -6002,13 +6002,6 @@ chernobyl - mini series TV
 
 
 
-
-== Film / movie
-
-
-Her (about AI)
-
-
 == music
 
 
@@ -6017,6 +6010,7 @@ ________________
 
 
 https://fundamentals-of-piano-practice.readthedocs.io/
+https://news.ycombinator.com/item?id=29052747
 
 == books 
 
