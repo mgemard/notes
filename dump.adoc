@@ -2,8 +2,17 @@
 Stopped at 
 Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2018)
 
+A search engine that favors text-heavy sites and punishes modern web design (marginalia.nu)
+https://search.marginalia.nu/
+https://news.ycombinator.com/item?id=28550764
 
 ******************* Current reading *******************
+
+codeamigo
+https://news.ycombinator.com/item?id=29025401
+
+https://github.com/localstack/localstack
+https://news.ycombinator.com/item?id=28820012
 
 https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4568716-decouvrez-la-projection-et-la-restriction
 
@@ -227,6 +236,18 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+https://whitehoodhacker.net/posts/2021-10-04-the-big-rick
+https://news.ycombinator.com/item?id=28844101
+
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+https://news.ycombinator.com/item?id=28797485
+
+https://earthly.dev/blog/awk-examples/
+https://news.ycombinator.com/item?id=28707463
+
+https://www.osohq.com/post/why-authorization-is-hard
+https://news.ycombinator.com/item?id=28543457
+
 https://www.fredrikholmqvist.com/posts/why-erlang/
 https://news.ycombinator.com/item?id=28365911
 
@@ -356,6 +377,12 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+https://blog.cloudflare.com/october-2021-facebook-outage/
+https://news.ycombinator.com/item?id=28752131
+
+https://news.ycombinator.com/item?id=28764416
+https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
 
 https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/
 https://news.ycombinator.com/item?id=28370662
@@ -624,6 +651,10 @@ https://github.com/OWASP/API-Security/
 Youtube: owasp api security top 10 by erez yalon & inon shkedy
 https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10-cheat-sheet.htm
 Youtube: owasp api security top 10 webinar
+
+What's changed in the Top 10 for 2021
+https://owasp.org/Top10/
+https://news.ycombinator.com/item?id=28467397
 
 
 https://fly.io/blog/api-tokens-a-tedious-survey/
@@ -1051,6 +1082,9 @@ http://wiki.c2.com/?ArgumentsAgainstOop
 http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end
 https://www.quora.com/Is-C%2B%2B-slower-than-C-If-yes-is-the-difference-significant/answer/Simon-Hardy-Francis
 
+https://news.ycombinator.com/item?id=29031488
+High throughput Fizz Buzz
+https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630
 
 https://www.reddit.com/r/programming/comments/hhr49g/source_code_for_the_fruit_ninja_ai_which_blew_up/
 https://github.com/LupascuAndrei/fruit_ninja_ai/blob/master/fruits.py
@@ -2047,6 +2081,10 @@ Deploy your side-projects at scale for basically nothing – Google Cloud Run
 https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless
 https://news.ycombinator.com/item?id=22027459
 
+Almost free serverless on-demand Minecraft server in AWS (github.com/doctorray117)
+https://github.com/doctorray117/minecraft-ondemand
+https://news.ycombinator.com/item?id=28454968
+
 
 netlify
 
@@ -2823,6 +2861,10 @@ https://news.ycombinator.com/item?id=20284837
 https://github.com/rtfeldman/elm-spa-example
 https://www.reddit.com/r/programming/comments/ezpoul/mint_the_programming_language_for_writing_single/
 https://nuxtjs.org/guide/
+
+jamstack
+https://jamstack.org/
+see the book: Polesny, Ondrej - Serious Jamstack (2021)
 
 
 https://engineering.rakuten.today/post/elm-at-rakuten/
@@ -4145,6 +4187,9 @@ https://www.reddit.com/r/programming/comments/ekx2pf/hobby_x86_kernel_written_wi
 
 ==== article
 
+https://kristoff.it/blog/maintain-it-with-zig/
+https://news.ycombinator.com/item?id=28458713
+
 https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome
 https://news.ycombinator.com/item?id=26416531
 
@@ -4199,6 +4244,13 @@ Exploring JS: JavaScript books for programmers
 https://exploringjs.com/index.html
 Dr. Axel Rauschmayer
 
+
+==== deno 
+
+A modern runtime for JavaScript and TypeScript.
+
+https://deno.com/blog/v1.14
+https://news.ycombinator.com/item?id=28550339
 
 ==== typescript
 
@@ -4271,6 +4323,8 @@ https://clojure.org/guides/learn/hashed_colls <- stopped here
 
 article:
 
+https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc
+https://news.ycombinator.com/item?id=28630209
 
 https://www.reddit.com/r/programming/comments/cypk3k/animated_particle_constellations_in_42_lines_of/
 https://github.com/yogthos/particle-constellations/blob/master/src/particle_constellations/core.cljs
@@ -4703,6 +4757,11 @@ https://groups.google.com/forum/#!msg/elm-dev/--fK-wMoDig/p6zF4-5sAgAJ
 
 https://www.reddit.com/r/rust/comments/mc5tmp/learning_to_fly_lets_simulate_evolution_in_rust/
 https://pwy.io/en/posts/learning-to-fly-pt3/
+
+===== articles
+
+https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+https://news.ycombinator.com/item?id=28811477
 
 === design pattern 
 
@@ -5434,6 +5493,8 @@ https://archive.org/
 
 ==== nginx
 
+https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
+
 https://vishnu.hashnode.dev/nginx-cheatsheet
 https://www.reddit.com/r/programming/comments/mt8mrn/nginx_cheatsheet/
 
@@ -5466,6 +5527,8 @@ https://web.dev/
 
 === web scrapping
 
+https://news.ycombinator.com/item?id=28827509
+https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 
 https://www.statworx.com/de/blog/web-scraping-101-in-python-with-requests-beautifulsoup/
 
@@ -5838,6 +5901,7 @@ https://www.divio.com/blog/documentation/
 
 == Video games
 
+HTML5, Haxe + OpenFL + HaxeFlixel
 
 === open source games
 
@@ -5924,6 +5988,9 @@ ________________
 https://fundamentals-of-piano-practice.readthedocs.io/
 
 == books 
+
+https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
+https://news.ycombinator.com/item?id=28595967
 
 Tanenbaum: Modern Operating Systems.
   from How is heap and stack memories mananged, implemented, allocated [duplicate]
@@ -6419,3 +6486,11 @@ P/N7120035100G ati radeon graphics
 
 https://refined.blog/
 https://news.ycombinator.com/item?id=27973836
+
+
+= movies
+
+Dune - Versión Extendida [1984]
+https://www.youtube.com/watch?v=ILcd0rbhg4Y
+spanish subtitles
+
