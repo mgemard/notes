@@ -236,6 +236,9 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+https://ciechanow.ski/curves-and-surfaces/
+https://news.ycombinator.com/item?id=29083349
+
 https://whitehoodhacker.net/posts/2021-10-04-the-big-rick
 https://news.ycombinator.com/item?id=28844101
 
