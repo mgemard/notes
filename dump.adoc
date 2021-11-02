@@ -1130,6 +1130,37 @@ https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
  
 ``` LESS MUST READ PART 2
 
+--jars
+Show HN: Web browser to help programmers think clearly (bonsaibrowser.com)
+https://news.ycombinator.com/item?id=28446147
+We are fixing up our Linux and Windows versions for public use.
+---------------------------------------
+Show HN: A tool for your learning, like Anki and Notion in one (web.app)
+https://news.ycombinator.com/item?id=28400446
+---------------------------------------
+MIT Mathlets (mathlets.org)
+https://mathlets.org/mathlets/
+https://news.ycombinator.com/item?id=28405675
+---------------------------------------
+An optimal algorithm for bounded random integers (github.com/apple)
+https://news.ycombinator.com/item?id=28396077
+---------------------------------------
+Kubescape – tool for testing if Kubernetes is deployed securely (github.com/armosec)
+https://news.ycombinator.com/item?id=28419103
+---------------------------------------
+A Gentle Introduction to Graph Neural Networks (distill.pub)
+https://news.ycombinator.com/item?id=28397556
+---------------------------------------
+MadeWithML – A practical approach to learning production machine learning (github.com/gokumohandas)
+https://news.ycombinator.com/item?id=28388179
+---------------------------------------
+SQLite-TUI: A TUI for viewing SQLite databases, written in Go (github.com/mathaou)
+https://news.ycombinator.com/item?id=28408682
+---------------------------------------
+Pong Circuit-Level Simulation (falstad.com)
+https://news.ycombinator.com/item?id=28388983
+
+
 
 https://news.ycombinator.com/item?id=27973497
 https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
