@@ -8,6 +8,8 @@ https://news.ycombinator.com/item?id=28550764
 
 ******************* Current reading *******************
 
+https://github.blog/2021-11-03-thank-you-github/
+
 codeamigo
 https://news.ycombinator.com/item?id=29025401
 
@@ -5257,6 +5259,17 @@ https://mukulrathi.com/git-beginner-cheatsheet/
 https://www.daolf.com/posts/git-series-part-1/
 https://www.reddit.com/r/programming/comments/ex5rzh/understanding_git_for_real_by_exploring_the_git/
 
+===== github
+
+actions https://github.com/features/actions
+codespaces https://github.com/features/codespaces
+copilot https://copilot.github.com/
+GitHub Advanced Security https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security#about-github-advanced-security
+CodeQL https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql
+secret scanning for your repositories https://docs.github.com/en/code-security/secret-scanning/configuring-secret-scanning-for-your-repositories
+Dependabot https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates
+GitHub Advisory Database https://github.com/advisories
+from https://github.blog/2021-11-03-thank-you-github/
 
 === Security
 
