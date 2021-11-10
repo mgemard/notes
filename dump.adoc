@@ -4881,6 +4881,8 @@ https://dzone.com/articles/postgres-tips-for-the-average-and-power-user
 
 article:
 
+https://news.ycombinator.com/item?id=29163319
+https://hakibenita.com/postgresql-unknown-features
 
 https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
 https://www.reddit.com/r/programming/comments/fuywwv/10_things_i_hate_about_postgresql/
