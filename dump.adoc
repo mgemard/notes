@@ -8,6 +8,15 @@ https://news.ycombinator.com/item?id=28550764
 
 ******************* Current reading *******************
 
+
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+
+https://github.com/rougier/scientific-visualization-book
+
+
+https://www.grymoire.com/Unix/Sed.html
+https://github.com/adrianscheff/useful-sed
+
 https://github.blog/2021-11-03-thank-you-github/
 
 codeamigo
@@ -4576,6 +4585,9 @@ How to do a code review (google.github.io)
 https://news.ycombinator.com/item?id=20890682
 
 === regex
+
+https://regexlearn.com/
+https://news.ycombinator.com/item?id=29251702
 
 https://refrf.shreyasminocha.me/
 
