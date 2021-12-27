@@ -253,9 +253,6 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
-https://ciechanow.ski/curves-and-surfaces/
-https://news.ycombinator.com/item?id=29083349
-
 https://whitehoodhacker.net/posts/2021-10-04-the-big-rick
 https://news.ycombinator.com/item?id=28844101
 
@@ -1766,6 +1763,9 @@ https://news.ycombinator.com/item?id=22808121
 https://wpodns.adtac.in/
 https://git.adtac.in/wpodns/
 https://github.com/aaronjanse/dns-over-wikipedia
+
+https://jvns.ca/blog/2021/12/15/mess-with-dns/
+https://news.ycombinator.com/item?id=29568510
 
 
 https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/
@@ -3436,6 +3436,19 @@ https://news.ycombinator.com/item?id=28168339 (more recent)
 https://news.ycombinator.com/item?id=21661545
 Matrix Calculus for Deep Learning (explained.ai)
 https://explained.ai/matrix-calculus/index.html
+
+
+
+=== bezier curves
+
+https://javascript.info/bezier-curve
+
+https://ciechanow.ski/curves-and-surfaces/
+https://news.ycombinator.com/item?id=29083349
+
+https://dragonman225.js.org/curved-arrows.html
+https://news.ycombinator.com/item?id=29652139
+
 
 
 
@@ -5363,6 +5376,9 @@ https://toc.cryptobook.us/
 
 https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html
 https://news.ycombinator.com/item?id=20835223
+
+https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+https://news.ycombinator.com/item?id=29568625
 
 
 https://www.reddit.com/r/rust/comments/dvc9mf/announcing_the_bytecode_alliance_building_a/
