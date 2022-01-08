@@ -8,9 +8,27 @@ https://news.ycombinator.com/item?id=28550764
 
 ******************* Current reading *******************
 
+***** Chess 
+
+https://www.youtube.com/watch?v=qKz6ywb1QOY&list=PLtC_-Z_-4GKV0IjB147-dIMd7756jipSY&index=5
+xiangqi
+
+https://www.youtube.com/watch?v=mNQV5cAIOTY&list=PL587865CAE59EB84A&index=12
+How to play Shogi(将棋) -Lesson#11- Fork
+
+https://www.youtube.com/watch?v=bK1UnZASTfY&list=PLoZIU5jkY_Y-d4VeR8YvI2_FmoYRYv-JY&index=3
+go
+
+***** Languages
+
+https://www.youtube.com/watch?v=AOKIzmOLt58
+Russian lessons – Lesson 2 – Russian pronunciation. Personal pronouns | Russian language
+
+***** 
+
 Functional Programming I - CS 61A, Brian Harvey, Berkeley, Spring 2008
-https://www.youtube.com/watch?v=cuTOo_Kj4U0
-stopped at 22:46
+https://www.youtube.com/watch?v=U1-ZE3tRmp0
+stooped at 32:06
 https://docs.racket-lang.org/sicp-manual/index.html
 from https://teachyourselfcs.com/#programming
 
@@ -253,6 +271,9 @@ https://github.com/andymatuschak/orbit
 ********************************************
 ```` 5 min read
 
+https://news.ycombinator.com/item?id=29845208
+https://moxie.org/2022/01/07/web3-first-impressions.html
+
 https://whitehoodhacker.net/posts/2021-10-04-the-big-rick
 https://news.ycombinator.com/item?id=28844101
 
@@ -394,6 +415,9 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+https://github.com/wader/fq
+https://news.ycombinator.com/item?id=29657094
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
 https://news.ycombinator.com/item?id=28752131
@@ -6536,6 +6560,8 @@ And Algorithms to live by
 
 
 Cathy o’neil’s - weapons of mass destruction
+
+William L. Shirer - The Rise and Fall of the Third Reich: A History of Nazi Germany.
 
 == Psychology
 
