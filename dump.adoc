@@ -8,6 +8,13 @@ https://news.ycombinator.com/item?id=28550764
 
 ******************* Current reading *******************
 
+https://cloud.google.com/dns/docs/dns-overview
+what is NS, SOA...
+
+AWS Certified Solutions Architect Associate
+https://www.youtube.com/watch?v=10JKpg-eqZU&list=PLt1SIbA8guuusDOIqQuiFKerF_4_nQ_Xs
+Check other videos of his channel
+
 ***** Chess 
 
 https://www.youtube.com/watch?v=qKz6ywb1QOY&list=PLtC_-Z_-4GKV0IjB147-dIMd7756jipSY&index=5
@@ -26,8 +33,10 @@ Russian lessons – Lesson 2 – Russian pronunciation. Personal pronouns | Russ
 
 ***** 
 
-Functional Programming I - CS 61A, Brian Harvey, Berkeley, Spring 2008
-https://www.youtube.com/watch?v=U1-ZE3tRmp0
+
+
+Functional Programming I - CS 61A, Brian Harvey, Berkeley, Spring 2010
+https://www.youtube.com/watch?v=M1EqyWHkTH4
 stooped at 32:06
 https://docs.racket-lang.org/sicp-manual/index.html
 from https://teachyourselfcs.com/#programming
@@ -139,6 +148,10 @@ Graphikart elixir
 
 Kubernetes
 
+
+Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI.
+https://github.com/BoltzmannEntropy/interviews.ai
+https://news.ycombinator.com/item?id=29876742
 
 # OpenClassRooms
 
