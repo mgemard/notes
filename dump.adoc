@@ -1,15 +1,22 @@
-﻿Drive favorite
-Stopped at 
-Gonzalez, R. C. & Woods, R. E. - Digital Image Processing, Global Edition 4th (2018)
-
-A search engine that favors text-heavy sites and punishes modern web design (marginalia.nu)
-https://search.marginalia.nu/
-https://news.ycombinator.com/item?id=28550764
-
+﻿
 ******************* Current reading *******************
 
-https://cloud.google.com/dns/docs/dns-overview
-what is NS, SOA...
+MIPS Tutorial (for exercism.org)
+https://www.youtube.com/watch?v=cQ2sB_UfRnM&list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A&index=9
+
+https://openstax.org/books/biology-2e/pages/2-2-water
+
+watch in order (watched: AI, )
+https://thecrashcourse.com/courses
+not watched:
+How to make an AI read your handwriting (LAB) : Crash Course Ai #5
+https://www.youtube.com/watch?v=6nGCGYWMObE
+
+
+https://www.youtube.com/watch?v=9TJx7QTrTyo
+Server Monitoring // Prometheus and Grafana Tutorial
+
+https://openclassrooms.com/fr/courses/4810836-decouvrez-le-cloud-avec-amazon-web-services/4954941-se-connecter-a-linstance
 
 AWS Certified Solutions Architect Associate
 https://www.youtube.com/watch?v=10JKpg-eqZU&list=PLt1SIbA8guuusDOIqQuiFKerF_4_nQ_Xs
@@ -58,13 +65,6 @@ https://news.ycombinator.com/item?id=29025401
 https://github.com/localstack/localstack
 https://news.ycombinator.com/item?id=28820012
 
-https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4568716-decouvrez-la-projection-et-la-restriction
-
-watch in order (watched: AI, )
-https://thecrashcourse.com/courses
-not watched:
-How to make an AI read your handwriting (LAB) : Crash Course Ai #5
-https://www.youtube.com/watch?v=6nGCGYWMObE
 
 Code, The hidden Language of Computer Hardware
 https://drive.google.com/file/d/1y_fTS-pr5ZHoc7vC_NWQAhktOTZeRk2q/view
@@ -152,6 +152,15 @@ Kubernetes
 Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI.
 https://github.com/BoltzmannEntropy/interviews.ai
 https://news.ycombinator.com/item?id=29876742
+
+
+book: road to wingan pear orewell
+josep stalin
+pim quable
+datarobot
+semarchy
+Unicode - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
 
 # OpenClassRooms
 
@@ -283,6 +292,20 @@ https://github.com/andymatuschak/orbit
 
 ********************************************
 ```` 5 min read
+
+An Anatomy of Bitcoin Price Manipulation
+https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/
+https://news.ycombinator.com/item?id=29966533
+
+https://news.ycombinator.com/item?id=29971470
+check instead this comment:
+The animation looks really neat but I did not find it very helpful from an pedagocical perspective which is why I built an alternative version inspired by OP. [1]
+/edit: I just noticed the OP is built by andrestaltz with Cycle.js. Cycle is a really nice reactive programming js framework that is very great to work with.
+https://tools.laszlokorte.de/
+the website has other cool stuffs
+
+https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/
+https://news.ycombinator.com/item?id=29924053
 
 https://news.ycombinator.com/item?id=29845208
 https://moxie.org/2022/01/07/web3-first-impressions.html
@@ -428,6 +451,11 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 ********************************************
 ```````
+
+GPS
+https://ciechanow.ski/gps/
+https://news.ycombinator.com/item?id=29981188
+
 
 https://github.com/wader/fq
 https://news.ycombinator.com/item?id=29657094
@@ -1795,6 +1823,8 @@ https://www.mikealche.com/software-development/a-humble-guide-to-database-schema
 
 
 
+https://cloud.google.com/dns/docs/dns-overview
+what is NS, SOA...
 
 https://news.ycombinator.com/item?id=22808121
 https://wpodns.adtac.in/
@@ -2332,25 +2362,6 @@ https://rosettacode.org/wiki/Pointers_and_references
 See also AMB: https://news.ycombinator.com/item?id=22385491
 
 
-openstax
-chemistry: atoms first 2e
-https://openstax.org/books/chemistry-atoms-first-2e/pages/3-5-periodic-variations-in-element-properties
-psychology
-https://cnx.org/contents/Sr8Ev5Og@10.24:SO2ufnKm@12/3-2-Cells-of-the-Nervous-System
-biology
-https://openstax.org/books/concepts-biology/pages/2-introduction
-  stopped at Ionic Bonds
-  see also https://en.wikipedia.org/wiki/Electron_configuration -> https://en.wikipedia.org/wiki/File:Periodic_table_blocks_spdf_(32_column).svg
-  Periodic table
-  The form of the periodic table is closely related to the electron configuration of the atoms of the elements. For example, all the elements of group 2 have an electron configuration of [E] ns2 (where [E] is an inert gas configuration), and have notable similarities in their chemical properties. In general, the periodicity of the periodic table in terms of periodic table blocks is clearly due to the number of electrons (2, 6, 10, 14...) needed to fill s, p, d, and f subshells.
-  The outermost electron shell is often referred to as the "valence shell" and (to a first approximation) determines the chemical properties. It should be remembered that the similarities in the chemical properties were remarked on more than a century before the idea of electron configuration.[12] It is not clear how far Madelung's rule explains (rather than simply describes) the periodic table,[13] although some properties (such as the common +2 oxidation state in the first row of the transition metals) would obviously be different with a different order of orbital filling.
-
-
-history
-https://ageofempires.fandom.com/wiki/Campaign
-https://ageofempires.fandom.com/wiki/Voices_of_Babylon
-
-
 Philosophy of Computer Science [pdf] (buffalo.edu)
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 https://news.ycombinator.com/item?id=20912718
@@ -2733,10 +2744,6 @@ https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html
 
 
 http://www.openculture.com/free_textbooks
-
-
-Get final version once finished (not sample version)
-https://openstax.org/details/books/entrepreneurship
 
 
 
@@ -6351,10 +6358,6 @@ David Breyer - The future of machine intelligence
 The little schemer (p7)
 file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/Languages/Scheme/Freidman,%20Daniel%20P%20-%20The%20Little%20Schemer%204th%20(1996).pdf
 https://repl.it/languages/scheme
-
-
-ConceptsBiology-OP_u37jtpq p14
-file:///C:/Users/mgemard/Documents/ASI/book/openstax/Science/ConceptsBiology-OP_u37jtpq.pdf
 
 
 jhipster p 160 (test)
