@@ -1,10 +1,22 @@
 ﻿
 ******************* Current reading *******************
 
-MIPS Tutorial (for exercism.org)
-https://www.youtube.com/watch?v=cQ2sB_UfRnM&list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A&index=9
+[FASTAI] https://youtu.be/p50s63nPq9I?t=4967
+    https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb
+    see also https://www.reddit.com/r/MachineLearning/comments/mbhewa/d_advanced_takeaways_from_fastai_book/
+
+Deeplearning.ai (coursera): deep learning by Andrew Ng
+https://www.deeplearning.ai/programs/
+do: AI for everyone
+then: Deep Learning Specialization
 
 https://openstax.org/books/biology-2e/pages/2-2-water
+ -> pH, Buffers, Acids, and Bases
+
+http://learnyouahaskell.com/syntax-in-functions
+
+MIPS Tutorial (for exercism.org)
+https://www.youtube.com/watch?v=easyXk-BUg0&list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A&index=15
 
 watch in order (watched: AI, )
 https://thecrashcourse.com/courses
@@ -159,7 +171,11 @@ josep stalin
 pim quable
 datarobot
 semarchy
+dbt (data transformation)
+https://en.wikipedia.org/wiki/Data_vault_modeling
 Unicode - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+
 
 
 # OpenClassRooms
@@ -214,13 +230,6 @@ Rust book
 # machine learning
 
 
-[FASTAI] https://youtu.be/p50s63nPq9I?t=4967
-    https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb
-    see also https://www.reddit.com/r/MachineLearning/comments/mbhewa/d_advanced_takeaways_from_fastai_book/
-
-
-
-Deeplearning.ai (coursera): deep learning by Andrew Ng
 
 
 # Statistiques
@@ -1130,10 +1139,7 @@ https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
 https://www.reddit.com/r/artificial/comments/iby0lm/sudoku_solver_project_code_link_in_the_comment/
 https://github.com/remi2257/sudoku-solver
 
-
-https://magic.wizards.com/en/articles/archive/level-one/level-one-full-course-2015-10-05
-
-
+ 
 https://github.com/richardanaya/rust-roguelike
 
 
@@ -2203,6 +2209,8 @@ Almost free serverless on-demand Minecraft server in AWS (github.com/doctorray11
 https://github.com/doctorray117/minecraft-ondemand
 https://news.ycombinator.com/item?id=28454968
 
+https://fly.io/blog/free-postgres/
+https://news.ycombinator.com/item?id=30018197
 
 netlify
 
@@ -2312,6 +2320,11 @@ https://viewsourcecode.org/snaptoken/kilo/index.html
 write an os in rust
   see (or other resources): https://os.phil-opp.com/status-update/2019-10-06/
   Update https://os.phil-opp.com/status-update/2020-01-07/
+
+MIT 6.S081 – Operating System Engineering (csail.mit.edu)
+https://pdos.csail.mit.edu/6.S081/2021/schedule.html
+https://news.ycombinator.com/item?id=30094376
+
 
 
 https://www.chessprogramming.org/Stockfish
@@ -4939,6 +4952,9 @@ https://jlongster.com/future-sql-web
 
 ===== postgres
 
+The Internals of PostgreSQL (interdb.jp)
+https://www.interdb.jp/pg/index.html
+https://news.ycombinator.com/item?id=30086374
 
 https://postgrest.org/en/v6.0/
 
@@ -5431,9 +5447,14 @@ https://www.reddit.com/r/rust/comments/dvc9mf/announcing_the_bytecode_alliance_b
 
 Blog
 
-
 https://www.aldeid.com/wiki/Ptrace-anti-debugging
 
+==== password
+
+https://blog.1password.com/future-of-1password/
+https://news.ycombinator.com/item?id=29993961
+
+vault
 
 === game cheat
 ________________
