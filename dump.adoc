@@ -356,6 +356,9 @@ https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 https://scattered-thoughts.net/writing/against-sql/
 https://news.ycombinator.com/item?id=27791539
 
+https://news.ycombinator.com/item?id=30244534
+https://sha256algorithm.com/
+
 Representing SHA-256 Hashes As Avatars
 https://www.reddit.com/r/programming/comments/o1q0kr/representing_sha256_hashes_as_avatars/
 https://francoisbest.com/posts/2021/hashvatars
@@ -2622,6 +2625,8 @@ https://news.ycombinator.com/item?id=20845112
 https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
 
+https://news.ycombinator.com/item?id=30155295
+https://harshal.sheth.io/2022/01/31/webassembly.html
 
 https://imagemagick.org/script/architecture.php
 
@@ -3365,6 +3370,9 @@ https://news.ycombinator.com/item?id=20765553
 
 
 ==== articles
+
+https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode
+https://news.ycombinator.com/item?id=30179549
 
 procedurally generated fish drawings
 https://news.ycombinator.com/item?id=28157657
