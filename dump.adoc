@@ -1,6 +1,28 @@
 ﻿
 ******************* Current reading *******************
 
+Conf AI ML Data (Christophe)
+- Faites décoller vos projets de ML avec AutoML et MLOp
+https://pages.databricks.com/202205-EMEA-VE-Techsession-France_01.OnDemand-Thank-You-webinar-OD.html
+https://github.com/jralfonsog-db/techsession-mlops
+- Duck Conf 2022
+https://communication.octo.com/e3t/Ctc/2L+113/cPx7204/VWhyMS5221NlW7DprRb2W19-SW3S9mTt4JJHlWN8LB06D3q3npV1-WJV7CgL9DVtmn2y1tGxY1W8BF3xz8p-JjvM2K3hlRc73WW69_kfT2LpgDhW1SYRH68sJ_N4W82Jbqq83Sv9HW79Q3LJ30LXgzVddq7h5pQxJCW5NMT9569TB7jW5gb-zV5lrsFrN30bxXsX0rMbW4SgK6P24PXYnVHXbpG5808TtW8HkfGR95TWqpW75yWzM3SKNDWN3T6qPXQgXbmW1WrGfQ7khtkjW4837Tj3pdfWGW2rNz341pPzSqW3QkhXy6JvG5QW5SKpK297LwDmW5lk05m4Lrfs82Ws1
+token: Jtg6w?tZ75p!&GD(AkrH/
+
+
+
+Writing a Parser in Haskell - Compiler Tutorial Pt 2
+https://www.youtube.com/watch?v=2QgIt-Om8ig&t=0s
+already watched part1: https://www.youtube.com/watch?v=iWpvKDFuCns
+
+[Part 1] Tic-tac-toe Game in C with SDL -- Procedural vs Functional
+https://www.youtube.com/watch?v=gCVMkKgs3uQ
+see part 2 for the same but with hakell
+
+AWS certif
+https://youtu.be/SOTamWNgDKc?t=4779
+other certifs at ~7:50
+
 [FASTAI] https://youtu.be/p50s63nPq9I?t=4967
     https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb
     see also https://www.reddit.com/r/MachineLearning/comments/mbhewa/d_advanced_takeaways_from_fastai_book/
@@ -456,7 +478,7 @@ https://github.com/zulip/zulip
 
 I wrote my own RTS game engine in C (github.com/eduard-permyakov)
 https://github.com/eduard-permyakov/permafrost-engine
-https://news.ycombinator.com/item?id=27132334
+https://news.ycombinator.com/item?id=27132334 
 
 https://github.com/sidkshatriya/rd#why-implement-in-rust
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
@@ -468,6 +490,8 @@ GPS
 https://ciechanow.ski/gps/
 https://news.ycombinator.com/item?id=29981188
 
+https://ciechanow.ski/mechanical-watch/
+https://news.ycombinator.com/item?id=31261533
 
 https://github.com/wader/fq
 https://news.ycombinator.com/item?id=29657094
@@ -1291,6 +1315,9 @@ Veloren – Open-source MMORPG written in Rust (veloren.net)
 https://news.ycombinator.com/item?id=26037461
 https://veloren.net/
 
+Veloren is a multiplayer voxel RPG written in Rust (veloren.net)
+https://news.ycombinator.com/item?id=30667022
+
 https://64.github.io/cmake-raytracer/
 
 
@@ -1830,6 +1857,8 @@ https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
 https://news.ycombinator.com/item?id=22806142
 https://www.mikealche.com/software-development/a-humble-guide-to-database-schema-design
 
+https://www.utf8.com/
+from https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 
 https://cloud.google.com/dns/docs/dns-overview
@@ -2323,6 +2352,7 @@ https://viewsourcecode.org/snaptoken/kilo/index.html
 write an os in rust
   see (or other resources): https://os.phil-opp.com/status-update/2019-10-06/
   Update https://os.phil-opp.com/status-update/2020-01-07/
+https://news.ycombinator.com/item?id=30467572
 
 MIT 6.S081 – Operating System Engineering (csail.mit.edu)
 https://pdos.csail.mit.edu/6.S081/2021/schedule.html
@@ -3158,9 +3188,195 @@ https://cs.quickref.dev/
 
 
 
+= data
+
+== formation data
+17/03/22 Christophe Parageaud
+
+1992 – Bill Inmon publishes the book Building the Data Warehouse.[15]
+1996 – Ralph Kimball publishes the book The Data Warehouse Toolkit.[16]
+2000 – Dan Linstedt releases in the public domain the Data vault modeling, conceived in 1990 as an alternative to Inmon and Kimball to provide long-term historical storage of data coming in from multiple operational systems, with emphasis on tracing, auditing and resilience to change of the source data model.
+source: https://en.wikipedia.org/wiki/Data_warehouse
+
+dataslake
+datahub
+datawarehouse
+datamart
+datamesh
+lakehouse
+
+acid vs base
+
+CAP
+CP -> mongoDB, hbase, redis
+AP -> cassandra, couchDB, riak
+AC -> sql, mariaDB
+
+concurrents de kafka
+https://azure.microsoft.com/en-us/services/event-hubs/
+https://aws.amazon.com/kinesis/
 
 
+== formation gcp
+26 au 28 avril 2022
+https://sfeir.qwiklabs.com/
 
+Google Cloud 4 Words
+
+- STORAGE
+cloud storage = s3
+cloud sql
+cloud spanner 
+datastore = DB cle valeur, firestore
+cloud bigable = hbase cassandra, taux ecriture lecture important besoin d'acces a la donne em qlqes ms
+- INGESTION
+Compute Engine
+Google Kubernetes Engine
+Dataflow = processing avec apache bean
+Cloud Composer = Airflow
+Pub/Sub = messaging
+Cloud functions
+- ANALYTICS
+BigQueryDataproc
+Notebooks
+- MACHINE LEARNING
+Cloud TPU
+Vertex AI
+TensorFlow
+AutoML
+ML APIs
+- SERVING
+Data Studio Dashboards/BI
+Dialogflow
+App Engine
+
+
+cloud composer = airflow
+dataproc
+Dataflow
+streaming data processing: pub//sub, dataflow, BigQuery
+Cloud SQL
+BigQuery - BI Engine
+Data catalog
+Data Loss Prevention
+
+Access Control List
+KMS = vault
+
+Bisection bandwidth
+Run length encoding
+Dictionary encoding
+  https://en.wikipedia.org/wiki/Dictionary_coder
+    https://en.wikipedia.org/wiki/Grammar-based_code
+    https://en.wikipedia.org/wiki/Entropy_coding
+
+- Infrastructure as code
+terraform
+pulimi
+Deployment Manager
+
+https://cloud.google.com/sdk/gcloud
+
+=== BigQuery
+
+Sql merge
+udf in SQL JavaScript and scripting
+https://cloud.google.com/bigquery/docs/nested-repeated
+  SQL STRUCT
+  SQL array
+https://cloud.google.com/bigquery/docs/reference/standard-sql/arrays#flattening-arrays
+https://cloud.google.com/bigquery/docs/reference/standard-sql/arrays
+Partitioned tables
+Clustered tables
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions
+https://cloud.google.com/bigquery/docs/reference/standard-sql/numbering_functions
+https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions
+
+https://bigquerygeoviz.appspot.com/
+
+https://cloud.google.com/bigquery/docs/slots
+
+=== Batch Data Pipeline
+
+Latency, throuput -> Dataflow to bigtable
+Reusin spark pipelines -> dataproc
+need for visual pipelines -> Cloud Data Fuxion
+
+https://opensource.com/article/19/3/apache-spark-and-dataframes-tutorial
+
+GroupBy (group by across all worker nodes)
+Combine (group by separetly on each worker node before merging between each worker nodes)
+SlidingWindow
+
+=== Cloud Composer (Airflow)
+
+Cloud Composer was presented at NEXT 18 in San Francisco
+https://www.youtube.com/watch?v=GeNFEtt-D4k
+
+https://airflow.apache.org/docs/apache-airflow/stable/cli-and-env-variables-ref.html#variables
+https://cloud.google.com/composer/docs/quickstart#variables-ui
+https://cloud.google.com/composer/docs/how-to/accessing/airflow-web-interface#accessing_the_web_interface
+
+see also
+Cloud functions
+Cloud scheduler
+dbt
+
+=== Pub/Sub
+
+https://gcn.com/cloud-infrastructure/2019/08/nycs-real-time-cyber-defense-platform/297548/
+
+NYC Strong: Intelligence, Security, and Response on GCP (Cloud Next '19)
+https://www.youtube.com/watch?v=x4yQY8yhVJY
+
+https://cloud.google.com/dataflow/docs/concepts/streaming-pipelines
+https://cloud.google.com/pubsub/docs/stream-messages-dataflow
+
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/streaming/process/sandiego/run_oncloud.sh
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/streaming/process/sandiego/src/main/java/com/google/cloud/training/dataanalyst/sandiego/AverageSpeeds.java
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/streaming/process/sandiego/src/main/java/com/google/cloud/training/dataanalyst/sandiego/CurrentConditions.java
+
+=== Dashboards
+
+https://datastudio.google.com/
+
+=== Bigtable
+
+> 1 TB
+Exemple de row key: DehliIndia#2019031411841
+
+https://stackoverflow.com/questions/65487550/bigtable-reverse-timestamp-advantage-over-regular-timestamp
+https://cloud.google.com/bigtable/docs/schema-design-time-series
+
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/streaming/process/sandiego/src/main/java/com/google/cloud/training/dataanalyst/sandiego/CurrentConditions.java
+
+=== AI
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
+https://www.kubeflow.org/docs/components/pipelines/introduction/
+https://github.com/kubeflow/pipelines/blob/1d53de98c731d3cf6ef9017ad19bbfcf19787de3/samples/core/train_until_good/train_until_good.py
+
+https://cloud.google.com/bigquery/docs/bigqueryml-analyst-start
+
+https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-preprocessing-functions#bucketize
+
+https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978660b4b#:~:text=Matrix%20factorization%20is%20a%20collaborative,both%20item%20and%20user%20entities
+https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems)
+
+Using the Natural Language API to classify unstructured text - 30min
+BigQuery in JupyterLab on Vertex AI 2.5 - 20min
+Running ML Pipelines on Kubeflow 2.5 - 20min (50% du temps à attendre)
+Predict Bike Trip Duration with a Regression Model in BQML 2.5  - 30min
+Movie Recommendations in BigQuery ML 2.5 - 20min
+
+Pas fait:
+Serverless Data Analysis with Dataflow: A Simple Dataflow Pipeline (Java)
+Serverless Data Analysis with Beam: MapReduce in Beam (Java)
+Serverless Data Analysis with Dataflow: Side Inputs (Python)
+Serverless Data Analysis with Dataflow: Side Inputs (Java)
+Optimizing your BigQuery Queries for Performance 2.5
 
 == big data
 
@@ -3827,6 +4043,10 @@ https://news.ycombinator.com/item?id=20590439
 
 === go
 
+https://quii.gitbook.io/learn-go-with-tests/
+
+https://go.dev/blog/go1.18
+https://news.ycombinator.com/item?id=30688208
 
 https://www.learn-golang.org/
 
@@ -5419,6 +5639,8 @@ DLL hijacking techniques
 
 article:
 
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2021
+https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
 
 https://news.ycombinator.com/item?id=22808121
 https://miscdotgeek.com/curlytp-every-web-server-is-a-dead-drop/
@@ -5513,6 +5735,16 @@ https://www.petri.com/create-nat-rules-hyper-v-nat-virtual-switch
 
 
 === cloud
+
+freeCodeCamp 13h video
+AWS certif order
+https://youtu.be/SOTamWNgDKc?t=468
+Landscape of CSPs
+https://youtu.be/SOTamWNgDKc
+
+twilio
+hashicorp
+databricks
 
 
 Amazon Web Services
@@ -6112,10 +6344,10 @@ https://www.reddit.com/r/proceduralgeneration/comments/g40hdv/first_attempt_at_a
 
 
 
-
 https://gamedev.ru/code/articles/grass_raycast
 http://www.thetenthplanet.de/archives/1180
     From ttps://www.reddit.com/r/proceduralgeneration/comments/g5wtfb/im_reworking_my_terrain_shader_to_add_some_grass/fo6gtvs?utm_source=share&utm_medium=web2x
+
 
 
 == Series TV
@@ -6138,6 +6370,9 @@ https://fundamentals-of-piano-practice.readthedocs.io/
 https://news.ycombinator.com/item?id=29052747
 
 == books 
+
+Atlas Shrugged
+Novel by Ayn Rand
 
 https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
 https://news.ycombinator.com/item?id=28595967
