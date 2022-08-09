@@ -6,9 +6,46 @@ Sri Ramana Maharshi
 Yogananda
 Autobiographie d'un Yogi
 
-
+paradise lost lost milton
+la bible
+la divine comedie
+rust book ch03-04
+Web APIs | MND
 
 ******************* Current reading *******************
+
+En cours
+
+AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!
+https://www.youtube.com/watch?v=SOTamWNgDKc
+1:25:51
+other certifs at ~7:50
+
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+Python Spotify API #1 - Everything You Need To Know About OAuth2
+https://www.youtube.com/watch?v=g6IAGvBZDkE
+
+https://bicyclecards.com/rules/
+Left, Center Right (not done)
+
+Learn Japanese in 4 Hours - ALL the Japanese Basics You Need
+https://www.youtube.com/watch?v=8YV8KmfBbBM&t=3024s
+25:54
+
+elden ring walkthrough
+47:43
+https://www.youtube.com/watch?v=pSY74-B7M2c
+
+https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology
+Levels of Organization of Living Things
+
+http://rogueliketutorials.com/tutorials/tcod/v2/part-2/
+
+
+
+*******
+
 
 Conf AI ML Data (Christophe)
 - Faites décoller vos projets de ML avec AutoML et MLOp
@@ -28,9 +65,7 @@ already watched part1: https://www.youtube.com/watch?v=iWpvKDFuCns
 https://www.youtube.com/watch?v=gCVMkKgs3uQ
 see part 2 for the same but with hakell
 
-AWS certif
-https://youtu.be/SOTamWNgDKc?t=4779
-other certifs at ~7:50
+
 
 [FASTAI] https://youtu.be/p50s63nPq9I?t=4967
     https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb
@@ -40,9 +75,6 @@ Deeplearning.ai (coursera): deep learning by Andrew Ng
 https://www.deeplearning.ai/programs/
 do: AI for everyone
 then: Deep Learning Specialization
-
-https://openstax.org/books/biology-2e/pages/2-2-water
- -> pH, Buffers, Acids, and Bases
 
 http://learnyouahaskell.com/syntax-in-functions
 
@@ -108,6 +140,9 @@ https://news.ycombinator.com/item?id=29025401
 https://github.com/localstack/localstack
 https://news.ycombinator.com/item?id=28820012
 
+“Code” 2nd Edition Now Available
+https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html
+https://news.ycombinator.com/item?id=32377735
 
 Code, The hidden Language of Computer Hardware
 https://drive.google.com/file/d/1y_fTS-pr5ZHoc7vC_NWQAhktOTZeRk2q/view
@@ -153,7 +188,9 @@ https://news.ycombinator.com/item?id=26981668
 
 https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 
+How to Design Programs, Second Edition
 https://news.ycombinator.com/item?id=26493990
+https://news.ycombinator.com/item?id=32146245
 https://htdp.org/2018-01-06/Book/index.html
   see also Systematic Program Design on edx
 
@@ -307,6 +344,9 @@ https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor
 
 # quantum computers
 
+Introduction to Classical and Quantum Computing
+http://www.thomaswong.net/#publications
+https://news.ycombinator.com/item?id=30097830
 
 How does it works?
 
@@ -1046,9 +1086,16 @@ https://blog.nindalf.com/posts/factorio-and-software-engineering/
     related: https://bartoszmilewski.com/2021/02/16/functorio/ 
        note: his blog is interesting
 
+
 A guide to learning algorithms through LeetCode (github.com)
 https://news.ycombinator.com/item?id=24167297
 https://github.com/labuladong/fucking-algorithm/tree/english
+
+
+Algorithms, by Jeff Erickson (illinois.edu)
+https://jeffe.cs.illinois.edu/teaching/algorithms/
+https://news.ycombinator.com/item?id=32106761
+
 
 
 https://www.reddit.com/r/webdev/comments/i7nowb/api_design_guidance_best_practices_for_cloud/
@@ -6851,6 +6898,8 @@ And Algorithms to live by
 Cathy o’neil’s - weapons of mass destruction
 
 William L. Shirer - The Rise and Fall of the Third Reich: A History of Nazi Germany.
+
+James Lovelock - Novascene, The Coming Age of Hyperintelligence
 
 == Psychology
 
