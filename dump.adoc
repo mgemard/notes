@@ -1,5 +1,9 @@
 ﻿
 
+
+
+
+
 Bruce Lipton
 Jean-Pierre Garnier Malet
 Sri Ramana Maharshi
@@ -33,9 +37,6 @@ Learn Japanese in 4 Hours - ALL the Japanese Basics You Need
 https://www.youtube.com/watch?v=8YV8KmfBbBM&t=3024s
 25:54
 
-elden ring walkthrough
-47:43
-https://www.youtube.com/watch?v=pSY74-B7M2c
 
 https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology
 Levels of Organization of Living Things
@@ -811,6 +812,8 @@ The article is explained in the video "Turing Test: Can Machines Think?" by Lex 
 Ssh academy
 https://ssh.com/iam
 
+https://carlosbecker.dev/posts/ssh-tips-and-tricks/
+https://news.ycombinator.com/item?id=32486031
 
 https://owasp.org/www-project-api-security/
 https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm
@@ -1531,6 +1534,9 @@ https://news.ycombinator.com/item?id=25373597
 WebAssembly from Scratch: From FizzBuzz to DooM
 https://github.com/diekmann/wasm-fizzbuzz
 https://news.ycombinator.com/item?id=27832115
+
+https://news.ycombinator.com/item?id=33067962
+Postgres WASM (supabase.com)
 
 https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464
 ________________
@@ -2972,6 +2978,9 @@ https://darklang.com/
 https://hackernoon.com/the-origins-and-future-of-intelligence-chapter-2-c10097b362ca
 https://hackernoon.com/inhuman-economics-part-1-finances-inflection-point-ef41ca1942f
 
+banking
+http://finance-heros.fr/category_type/glossaire/
+
 
 https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
 https://science.sciencemag.org/content/early/2019/07/10/science.aay2400
@@ -3073,8 +3082,9 @@ https://learningsynths.ableton.com/
 https://news.ycombinator.com/item?id=20272346
 
 
-
-
+	MantaRay: Open-Source Ray Tracer
+https://github.com/ange-yaghi/manta-ray
+https://news.ycombinator.com/item?id=32392599
 
 https://www.reddit.com/r/Python/comments/gcra5c/i_made_a_raytracer_in_python_from_scratch/
 
@@ -3603,6 +3613,9 @@ https://news.ycombinator.com/item?id=22161693
 
 
 === machine learning
+
+https://news.ycombinator.com/item?id=32480009
+	Ask HN: In 2022, what is the proper way to get into machine/deep learning?
 
 https://huyenchip.com/ml-interviews-book/
 
@@ -5236,6 +5249,9 @@ https://jlongster.com/future-sql-web
 
 ===== postgres
 
+https://news.ycombinator.com/item?id=32498435
+https://www.crunchydata.com/blog/learn-postgres-at-the-playground
+
 The Internals of PostgreSQL (interdb.jp)
 https://www.interdb.jp/pg/index.html
 https://news.ycombinator.com/item?id=30086374
@@ -5303,6 +5319,8 @@ https://dev.to/yvonnickfrin/mock-your-graphql-server-realistically-with-faker-js
 
 ==== redis
 
+https://news.ycombinator.com/item?id=32426879
+Redis explained (architecturenotes.co)
 
 Redis 
 
@@ -6087,6 +6105,19 @@ https://blog.timescale.com/blog/building-a-distributed-time-series-database-on-p
 https://news.ycombinator.com/item?id=20760324
 
 
+==== bloackchain
+
+God Unchained
+"The likelihood of rarity and shine are determined by the smart contract and is available for anyone to see.
+To be able to audit the card distribution like this is one of the advantages of a TCG on blockchain."
+From https://tetlon.medium.com/a-guide-to-card-packs-in-gods-unchained-6eead65af8c2
+Smart contract => https://etherscan.io/address/0x0777f76d195795268388789343068e4fcd286919#code
+How does it works?
+
+https://www.reddit.com/r/GodsUnchained/comments/xx5suc/transferring_multiple_different_cards_from_one/
+https://www.reddit.com/r/GodsUnchained/comments/xuz05b/new_to_gods_unchained_onboarding_with_imxtoolsnet/
+https://www.reddit.com/r/GodsUnchained/comments/xosl6n/news_from_imxtoolsnet_your_gods_unchained/
+
 == Engineering
 
 
@@ -6426,6 +6457,9 @@ https://fundamentals-of-piano-practice.readthedocs.io/
 https://news.ycombinator.com/item?id=29052747
 
 == books 
+
+https://news.ycombinator.com/item?id=32790064
+Ask HN: Which books do you consider real gems in your field of work/study?
 
 Atlas Shrugged
 Novel by Ayn Rand
@@ -6934,4 +6968,3 @@ https://news.ycombinator.com/item?id=27973836
 Dune - Versión Extendida [1984]
 https://www.youtube.com/watch?v=ILcd0rbhg4Y
 spanish subtitles
-
