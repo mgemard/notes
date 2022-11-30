@@ -4,6 +4,8 @@
 
 
 
+
+
 Bruce Lipton
 Jean-Pierre Garnier Malet
 Sri Ramana Maharshi
@@ -17,6 +19,8 @@ rust book ch03-04
 Web APIs | MND
 
 ******************* Current reading *******************
+
+https://docs.x.immutable.com/docs/start-here
 
 En cours
 
@@ -103,7 +107,7 @@ Check other videos of his channel
 https://www.youtube.com/watch?v=qKz6ywb1QOY&list=PLtC_-Z_-4GKV0IjB147-dIMd7756jipSY&index=5
 xiangqi
 
-https://www.youtube.com/watch?v=mNQV5cAIOTY&list=PL587865CAE59EB84A&index=12
+https://www.youtube.com/watch?v=72_9k-pNavU
 How to play Shogi(将棋) -Lesson#11- Fork
 
 https://www.youtube.com/watch?v=bK1UnZASTfY&list=PLoZIU5jkY_Y-d4VeR8YvI2_FmoYRYv-JY&index=3
@@ -1029,6 +1033,10 @@ Read everything
 ```
 MUST READ
 
+
+https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
+https://news.ycombinator.com/item?id=33280605
+
 https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/
 https://news.ycombinator.com/item?id=27833064
 Daily Rituals: How Artists Work[1]
@@ -1213,6 +1221,9 @@ http://brendanfong.com/programmingcats.html
 
 
 https://github.com/snori74/linuxupskillchallenge
+
+What is layer 2?
+https://ethereum.org/en/layer-2/#:~:text=What%20is%20layer%202%3F,the%20security%20guarantees%20of%20Ethereum.
 
 
 https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63
@@ -1978,8 +1989,9 @@ https://dzone.com/articles/hibernate-bytecode-enhancement-association-managem
 
 
 
-
-
+Pokemon Card Animation (deck-24abcd.netlify.app)
+https://deck-24abcd.netlify.app/
+https://news.ycombinator.com/item?id=33363331
 
 mtg
 https://github.com/Cockatrice/Cockatrice
@@ -4574,6 +4586,8 @@ file:///C:/Users/mgemard/Documents/ASI/book/computer%20science/Languages/Java/Gr
 
 
 https://leandromoreira.com.br/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design
+  https://news.ycombinator.com/item?id=33771445
+  https://img.ly/blog/ultimate-guide-to-ffmpeg/
 
 
 recovers JPG images from SD cards and hard drives.
@@ -4586,6 +4600,10 @@ https://hackr.io/blog/c-interview-questions
 http://home.hccnet.nl/r.helderman/adventures/htpataic01.html
 https://news.ycombinator.com/item?id=22652690
 
+==== blog
+
+https://tmewett.com/c-tips/
+https://news.ycombinator.com/item?id=33773043
 
 === nim 
 
@@ -6117,6 +6135,7 @@ How does it works?
 https://www.reddit.com/r/GodsUnchained/comments/xx5suc/transferring_multiple_different_cards_from_one/
 https://www.reddit.com/r/GodsUnchained/comments/xuz05b/new_to_gods_unchained_onboarding_with_imxtoolsnet/
 https://www.reddit.com/r/GodsUnchained/comments/xosl6n/news_from_imxtoolsnet_your_gods_unchained/
+https://www.reddit.com/r/GodsUnchained/comments/y134vh/imxtoolsnet_brings_your_batch_trading_to_the_next/
 
 == Engineering
 
@@ -6347,6 +6366,10 @@ Financial crisis of 2007-2008
 
 
 === Social
+
+Intentionally making close friends (neelnanda.io)
+https://www.neelnanda.io/blog/43-making-friends
+https://news.ycombinator.com/item?id=33774353
 
 
 [Be a better codder](https://www.recurse.com/manual)
