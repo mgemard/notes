@@ -20,6 +20,12 @@ Web APIs | MND
 
 ******************* Current reading *******************
 
+OLL Algorithms & Fingertricks [From CubeSkills]
+https://youtu.be/IasVqtCHoj0?t=218
+PLL Algorithms & Fingertricks [From CubeSkills]
+https://www.youtube.com/watch?v=HWIQdX8vHcE
+Then do F2L videos
+
 https://docs.x.immutable.com/docs/start-here
 
 En cours
@@ -6481,8 +6487,12 @@ https://news.ycombinator.com/item?id=29052747
 
 == books 
 
+
 https://news.ycombinator.com/item?id=32790064
 Ask HN: Which books do you consider real gems in your field of work/study?
+
+
+The Denial of Death by Ernest Becker
 
 Atlas Shrugged
 Novel by Ayn Rand
