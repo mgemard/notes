@@ -3,15 +3,15 @@ https://lawsofsoftwareengineering.com/
 https://news.ycombinator.com/item?id=47847179
 
 
-works in fish - Konsole
-
+```fish
+# works in fish - Konsole on CachyOs
 set bpm 67
 set beat (math "60 / $bpm")
 while true
     ffmpeg -f lavfi -i "sine=frequency=1000:duration=0.05" -f alsa default -loglevel quiet
     sleep (math "$beat - 0.05")
 end
-
+```
 
 
 add this to resources.md : 
