@@ -1,4 +1,10 @@
 
+### Current reading
+
+https://doc.rust-lang.org/rust-by-example/primitives/tuples.html
+
+#
+
 https://lawsofsoftwareengineering.com/
 https://news.ycombinator.com/item?id=47847179
 
