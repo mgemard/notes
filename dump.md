@@ -25,7 +25,8 @@ end
 ```
 
 ```fish
-# Workaround to fix ardour9 crashing after closing it and reopening it (launch it with Jack/PipeWire for recording and PulseAudio for just listening)
+# Workaround to fix ardour9 crashing after closing it and reopening it.
+# Note : launch it with Jack/PipeWire for recording and PulseAudio for just listening).
 rm -rf ~/.config/ardour9
 ```
 
