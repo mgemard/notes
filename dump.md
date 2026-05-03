@@ -1,7 +1,12 @@
 
 ### Current reading
 
-https://doc.rust-lang.org/rust-by-example/primitives/tuples.html
+# Rust By Example
+
+https://doc.rust-lang.org/rust-by-example/custom_types/enum/testcase_linked_list.html
+
+For later :
+- Understand why Box is used here : https://doc.rust-lang.org/rust-by-example/custom_types/enum/testcase_linked_list.html
 
 #
 
@@ -20,7 +25,7 @@ end
 ```
 
 ```fish
-# Workaround to fix ardour9 crashing after closing it and reopening it
+# Workaround to fix ardour9 crashing after closing it and reopening it (launch it with Jack/PipeWire for recording and PulseAudio for just listening)
 rm -rf ~/.config/ardour9
 ```
 
