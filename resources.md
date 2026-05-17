@@ -4,6 +4,7 @@
 
 ### TypeScript
 
+* [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 * [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
 
@@ -17,6 +18,8 @@
 * [Eloquent JavaScript 4rd Edition by Marijn Haverbeke (2024)](https://eloquentjavascript.net/)
 
 * [Three.js Manual](https://threejs.org/manual/)
+
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Databases
 
