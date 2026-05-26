@@ -50,6 +50,10 @@ https://www.reddit.com/r/dataengineering/comments/1r83xku/designing_dataintensiv
 # Random stuff
 
 
+https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+https://news.ycombinator.com/item?id=48265206
+
+
 https://lawsofsoftwareengineering.com/
 https://news.ycombinator.com/item?id=47847179
 
