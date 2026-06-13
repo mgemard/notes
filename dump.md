@@ -10,7 +10,7 @@
 
 ### Rust Book
 
-https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
+https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
 
 ### TypeScript Handbook
 
