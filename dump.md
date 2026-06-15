@@ -1,16 +1,11 @@
 
-
-
-
-
-
 # Dump
 
 ## Current reading
 
 ### Rust Book
 
-https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
+https://doc.rust-lang.org/book/ch08-01-vectors.html
 
 ### TypeScript Handbook
 
