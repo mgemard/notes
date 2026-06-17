@@ -45,6 +45,14 @@ https://www.reddit.com/r/dataengineering/comments/1r83xku/designing_dataintensiv
 # Random stuff
 
 
+book rebecca onyx flame
+
+https://www.editionsparentheses.ca/copie-de-50-romans-%C3%A0-lire-absolument
+
+https://gemini.google.com/share/e08943598d5a
+
+
+
 https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
 https://news.ycombinator.com/item?id=48265206
 
