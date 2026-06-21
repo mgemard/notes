@@ -9,7 +9,7 @@ https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
 
 ### TypeScript Handbook
 
-https://www.typescriptlang.org/docs/handbook/2/narrowing.html
+https://www.typescriptlang.org/docs/handbook/2/objects.html
 
 ### ThreeJS
 
