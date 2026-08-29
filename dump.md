@@ -60,7 +60,7 @@ https://news.ycombinator.com/item?id=47847179
 
 
 ```fish
-# Works in fish - Konsole on CachyOs
+# Works in fish Cachy OS - Konsole on CachyOs
 set bpm 67
 set beat (math "60 / $bpm")
 while true
@@ -70,8 +70,8 @@ end
 ```
 
 ```fish
-# Workaround to fix ardour9 crashing after closing it and reopening it.
-# Note : launch it with Jack/PipeWire for recording and PulseAudio for just listening).
+# Workaround on Cachy OS to fix ardour9 crashing after closing it and reopening it.
+# Note : launch it with Jack/PipeWire for recording with mics and PulseAudio for just listening (no mics).
 rm -rf ~/.config/ardour9
 
 # see also : https://discourse.ardour.org/t/startup-crash-on-cachyos/113200/2
