@@ -5,7 +5,7 @@
 
 ### Rust Book
 
-https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
+https://doc.rust-lang.org/book/ch10-02-traits.html
 
 ### TypeScript Handbook
 
