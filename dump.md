@@ -5,7 +5,7 @@
 
 ### Rust Book
 
-https://doc.rust-lang.org/book/ch10-02-traits.html
+https://doc.rust-lang.org/book/ch11-01-writing-tests.html
 
 ### TypeScript Handbook
 
