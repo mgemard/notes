@@ -5,7 +5,7 @@
 
 ### Rust Book
 
-https://doc.rust-lang.org/book/ch11-01-writing-tests.html
+https://doc.rust-lang.org/book/ch13-01-closures.html
 
 ### TypeScript Handbook
 
